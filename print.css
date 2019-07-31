@@ -1490,7 +1490,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
 .fa-comment-o:before {
   content: ""; }
 
-.fa-comments-o:before, .icon-sakai--sakai-chat:before, .icon-sakai--sakai-piazza:before {
+.fa-comments-o:before, .icon-sakai--sakai-chat:before {
   content: ""; }
 
 .fa-flash:before,
@@ -1756,7 +1756,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
 .fa-rss-square:before {
   content: ""; }
 
-.fa-play-circle:before, .icon-sakai--sakai-warpwire:before {
+.fa-play-circle:before {
   content: ""; }
 
 .fa-ticket:before {
