@@ -10105,11 +10105,11 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
           display: block;
           padding: 0.5em 0.65em;
           text-decoration: none;
-          color: #3A5A79;
+          color: #1169BA;
           font-size: 13px;
           line-height: 1em; }
           #linkNav ul li.Mrphs-sitesNav__menuitem ul li a:hover, #linkNav ul li.Mrphs-sitesNav__menuitem ul li a:active {
-            color: #3A5A79;
+            color: #1169BA;
             /* to override default link hover color */ }
           #linkNav ul li.Mrphs-sitesNav__menuitem ul li a .toolMenuIcon {
             vertical-align: sub;
@@ -10247,7 +10247,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       background: #FFFFFF; }
       #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a {
         background: #FFFFFF;
-        color: #3A5A79;
+        color: #1169BA;
         position: relative; }
         #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a .toolMenuIcon {
           color: #1169BA; }
@@ -10829,7 +10829,7 @@ nav#subSites {
           -webkit-box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.3);
                   box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.3); }
       #toolMenu ul li.Mrphs-collapseTools button span.fa-angle-double-left, #subSites ul li.Mrphs-collapseTools button span.fa-angle-double-left, .floatingToolMenu ul li.Mrphs-collapseTools button span.fa-angle-double-left {
-        color: #3A5A79; }
+        color: #333333; }
       #toolMenu ul li.Mrphs-collapseTools button:focus, #subSites ul li.Mrphs-collapseTools button:focus, .floatingToolMenu ul li.Mrphs-collapseTools button:focus {
         outline-color: #050505 !important; }
       #toolMenu ul li.Mrphs-collapseTools span.fa-angle-double-left, #subSites ul li.Mrphs-collapseTools span.fa-angle-double-left, .floatingToolMenu ul li.Mrphs-collapseTools span.fa-angle-double-left {
@@ -10868,7 +10868,7 @@ nav#subSites {
       background-color: #FAFAFA;
       font-weight: normal; }
       #toolMenu ul li .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon, #subSites ul li .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon, .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon {
-        color: #3A5A79; }
+        color: #666666; }
       #toolMenu ul li .Mrphs-toolsNav__menuitem--link:before, #subSites ul li .Mrphs-toolsNav__menuitem--link:before, .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link:before {
         border-left: 4px solid transparent;
         content: '';
@@ -11004,7 +11004,7 @@ body #toolMenu li.has-lessons-sub-pages {
   body #toolMenu li.has-lessons-sub-pages.expanded {
     background-color: #FFFFFF; }
     body #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current > .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon {
-      color: #3A5A79 !important; }
+      color: #666666 !important; }
     body #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current > .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--title {
       color: #333333 !important;
       font-weight: normal !important; }
@@ -11373,7 +11373,7 @@ body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrp
             right: -1px;
             top: -1px; }
       .navIntraTool li span.current {
-        color: #3A5A79;
+        color: #1169BA;
         font-size: 12.5px;
         background-color: #FFFFFF;
         border-top: 1px solid #E5E5E5;
@@ -11387,7 +11387,7 @@ body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrp
         display: block;
         margin-bottom: -1px; }
         .navIntraTool li span.current:before {
-          border-top: 4px solid #3A5A79;
+          border-top: 4px solid #1169BA;
           content: "";
           display: block;
           position: absolute;
@@ -15478,10 +15478,10 @@ body.active-more-sites {
 
 #selectSite .tab-bar .tab-btn.active, #selectQuickLink .tab-bar .tab-btn.active {
   cursor: default;
-  color: #3A5A79;
+  color: #1169BA;
   background: #FFFFFF; }
   #selectSite .tab-bar .tab-btn.active:before, #selectQuickLink .tab-bar .tab-btn.active:before {
-    border-top: 4px solid #3A5A79;
+    border-top: 4px solid #1169BA;
     content: '';
     display: block;
     position: absolute;
@@ -15555,7 +15555,7 @@ ul#otherSitesMenu {
     display: inline-block;
     font-size: 1.5em; }
     ul#otherSitesMenu li.otherSitesMenuClose a {
-      color: #3A5A79; }
+      color: #666666; }
       ul#otherSitesMenu li.otherSitesMenuClose a:hover {
         color: #4C4C4C; }
     @media only screen and (max-width: 800px) {
@@ -15633,7 +15633,7 @@ ul.favoriteSiteList,
     ul.favoriteSiteList li .toolMenus,
     #selectQuickLink li .toolMenus {
       display: inline-block;
-      color: #3A5A79;
+      color: #666666;
       padding: 0 1em 0 0;
       height: 30px;
       line-height: 30px; }
@@ -15741,7 +15741,7 @@ ul#otherSiteTools {
       border-left: 4px solid transparent; }
       ul#otherSiteTools li a .otherSiteToolIcon {
         display: inline-block;
-        color: #3A5A79; }
+        color: #666666; }
       ul#otherSiteTools li a:hover {
         background: #ECECEC;
         color: #191919;
@@ -15751,7 +15751,7 @@ ul#otherSiteTools {
     ul#otherSiteTools li.gotosite {
       border-top: 1px solid #E5E5E5; }
       ul#otherSiteTools li.gotosite a:after {
-        color: #3A5A79;
+        color: #666666;
         font-family: FontAwesome;
         content: '\f178';
         margin-left: 10px; }
@@ -16344,7 +16344,7 @@ ul.styled-reorder-list {
     padding: 0; }
     #connection-manager #connection-manager-navbar li > span.current a {
       background-color: #FFFFFF !important;
-      color: #3A5A79 !important;
+      color: #1169BA !important;
       pointer-events: none; }
 
 #connection-manager #connection-manager-connectionsview-searchbox-wrapper {
