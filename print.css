@@ -3075,7 +3075,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
             right: -1px;
             top: -1px; }
       .navIntraTool li span.current {
-        color: #1169BA;
+        color: #3A5A79;
         font-size: 12.5px;
         background-color: #FFFFFF;
         border-top: 1px solid #E5E5E5;
@@ -3089,7 +3089,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
         display: block;
         margin-bottom: -1px; }
         .navIntraTool li span.current:before {
-          border-top: 4px solid #1169BA;
+          border-top: 4px solid #3A5A79;
           content: "";
           display: block;
           position: absolute;

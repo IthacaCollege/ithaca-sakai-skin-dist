@@ -10048,10 +10048,10 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       #ckeditorPreview.modal #linkNav ul li.Mrphs-sitesNav__menuitem:not(.dropdown-is-visible) > .link-container:active i.sakaipreview-close {
         color: #424242; }
     #linkNav ul li.Mrphs-sitesNav__menuitem.dropdown-is-visible, #linkNav ul li.Mrphs-sitesNav__menuitem:hover {
-      border-top: 1px solid #7F7F7F;
-      border-right: 1px solid #7F7F7F;
-      border-bottom: 1px solid #7F7F7F;
-      border-left: 1px solid #7F7F7F;
+      border-top: 1px solid #1169BA;
+      border-right: 1px solid #1169BA;
+      border-bottom: 1px solid #1169BA;
+      border-left: 1px solid #1169BA;
       background: #FFFFFF; }
     #linkNav ul li.Mrphs-sitesNav__menuitem.dropdown-is-visible:after {
       border-bottom: 1px solid #FFFFFF;
@@ -10087,7 +10087,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       display: none;
       font-family: "Open Sans", sans-serif;
       position: absolute;
-      border: 1px solid #7F7F7F;
+      border: 1px solid #1169BA;
       margin-top: 0;
       margin-left: -1px;
       width: 17em;
@@ -10105,11 +10105,11 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
           display: block;
           padding: 0.5em 0.65em;
           text-decoration: none;
-          color: #1169BA;
+          color: #3A5A79;
           font-size: 13px;
           line-height: 1em; }
           #linkNav ul li.Mrphs-sitesNav__menuitem ul li a:hover, #linkNav ul li.Mrphs-sitesNav__menuitem ul li a:active {
-            color: #1169BA;
+            color: #3A5A79;
             /* to override default link hover color */ }
           #linkNav ul li.Mrphs-sitesNav__menuitem ul li a .toolMenuIcon {
             vertical-align: sub;
@@ -10247,7 +10247,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       background: #FFFFFF; }
       #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a {
         background: #FFFFFF;
-        color: #1169BA;
+        color: #3A5A79;
         position: relative; }
         #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a .toolMenuIcon {
           color: #1169BA; }
@@ -10265,7 +10265,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
           #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a:hover .toolMenuIcon, #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a:active .toolMenuIcon {
             color: #424242; }
           #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a:hover:before, #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a:active:before {
-            border-left-color: #7F7F7F; }
+            border-left-color: #1169BA; }
       #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem.Mrphs-sitesNav__submenuitem__gotosite {
         border-top: 1px solid #E5E5E5; }
         #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem.Mrphs-sitesNav__submenuitem__gotosite > a:after {
@@ -11373,7 +11373,7 @@ body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrp
             right: -1px;
             top: -1px; }
       .navIntraTool li span.current {
-        color: #1169BA;
+        color: #3A5A79;
         font-size: 12.5px;
         background-color: #FFFFFF;
         border-top: 1px solid #E5E5E5;
@@ -11387,7 +11387,7 @@ body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrp
         display: block;
         margin-bottom: -1px; }
         .navIntraTool li span.current:before {
-          border-top: 4px solid #1169BA;
+          border-top: 4px solid #3A5A79;
           content: "";
           display: block;
           position: absolute;
@@ -15478,10 +15478,10 @@ body.active-more-sites {
 
 #selectSite .tab-bar .tab-btn.active, #selectQuickLink .tab-bar .tab-btn.active {
   cursor: default;
-  color: #1169BA;
+  color: #3A5A79;
   background: #FFFFFF; }
   #selectSite .tab-bar .tab-btn.active:before, #selectQuickLink .tab-bar .tab-btn.active:before {
-    border-top: 4px solid #1169BA;
+    border-top: 4px solid #3A5A79;
     content: '';
     display: block;
     position: absolute;
@@ -15555,7 +15555,7 @@ ul#otherSitesMenu {
     display: inline-block;
     font-size: 1.5em; }
     ul#otherSitesMenu li.otherSitesMenuClose a {
-      color: #666666; }
+      color: #3A5A79; }
       ul#otherSitesMenu li.otherSitesMenuClose a:hover {
         color: #4C4C4C; }
     @media only screen and (max-width: 800px) {
@@ -15633,7 +15633,7 @@ ul.favoriteSiteList,
     ul.favoriteSiteList li .toolMenus,
     #selectQuickLink li .toolMenus {
       display: inline-block;
-      color: #666666;
+      color: #3A5A79;
       padding: 0 1em 0 0;
       height: 30px;
       line-height: 30px; }
@@ -15651,7 +15651,7 @@ ul.favoriteSiteList,
       font-size: 13px;
       font-weight: medium;
       background: #FFFFFF;
-      border-color: #7F7F7F;
+      border-color: #1169BA;
       border-radius: 3px; }
       ul.otherSitesCategorList li.is-selected .toolMenus,
       ul.favoriteSiteList li.is-selected .toolMenus,
@@ -15672,7 +15672,7 @@ ul.favoriteSiteList,
       font-size: 13px;
       font-weight: normal;
       background: #ECECEC;
-      border: 1px solid #7F7F7F; }
+      border: 1px solid #1169BA; }
       ul.otherSitesCategorList li:hover .toolMenus,
       ul.favoriteSiteList li:hover .toolMenus,
       #selectQuickLink li:hover .toolMenus {
@@ -15741,7 +15741,7 @@ ul#otherSiteTools {
       border-left: 4px solid transparent; }
       ul#otherSiteTools li a .otherSiteToolIcon {
         display: inline-block;
-        color: #666666; }
+        color: #3A5A79; }
       ul#otherSiteTools li a:hover {
         background: #ECECEC;
         color: #191919;
@@ -15751,7 +15751,7 @@ ul#otherSiteTools {
     ul#otherSiteTools li.gotosite {
       border-top: 1px solid #E5E5E5; }
       ul#otherSiteTools li.gotosite a:after {
-        color: #666666;
+        color: #3A5A79;
         font-family: FontAwesome;
         content: '\f178';
         margin-left: 10px; }
@@ -16344,7 +16344,7 @@ ul.styled-reorder-list {
     padding: 0; }
     #connection-manager #connection-manager-navbar li > span.current a {
       background-color: #FFFFFF !important;
-      color: #1169BA !important;
+      color: #3A5A79 !important;
       pointer-events: none; }
 
 #connection-manager #connection-manager-connectionsview-searchbox-wrapper {
