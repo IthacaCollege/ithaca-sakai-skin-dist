@@ -9328,7 +9328,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
     /* Safari 3.1 to 6.0 */
     transition: width 0.5s linear 0s 0s ease 0s; }
     .Mrphs-mainHeader .Mrphs-headerLogo .Mrphs-headerLogo--institution {
-      background: url("./images/IC-PrimaryWhite.svg") no-repeat center center;
+      background: url("./morpheus-master/images/IC-PrimaryWhite.svg") no-repeat center center;
       width: 216px;
       height: 100%;
       float: left;
@@ -9969,7 +9969,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       color: #4C4C4C;
       text-decoration: none; }
       #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.fa, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i[class*="icon-sakai--"], #linkNav ul .Mrphs-mainHeader .Mrphs-loginUser li.Mrphs-sitesNav__menuitem > a.link-container a i.login-Icon, .Mrphs-mainHeader .Mrphs-loginUser #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container a i.login-Icon, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-sitesNav__drop, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-sitesNav__dropdown, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-sitesNav__doubledrop, #linkNav #toolMenu ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, #toolMenu #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, #linkNav #subSites ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, #subSites #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, #linkNav .floatingToolMenu ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, .floatingToolMenu #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-toolTitleNav i.Mrphs-toolTitleNav__link:before, .Mrphs-toolTitleNav #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolTitleNav__link:before, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-toolTitleNav i.Mrphs-toolTitleNav__link--directurl, .Mrphs-toolTitleNav #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolTitleNav__link--directurl, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-toolTitleNav i.Mrphs-toolTitleNav__link--help-popup, .Mrphs-toolTitleNav #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolTitleNav__link--help-popup, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-toolTitleNav i.Mrphs-toolTitleNav__link--edit, .Mrphs-toolTitleNav #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolTitleNav__link--edit, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-toolTitleNav i.Mrphs-toolTitleNav__link--reset, .Mrphs-toolTitleNav #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolTitleNav__link--reset, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.icon, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-footerApp--icon, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIcon, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIcon, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-1, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-1, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-2, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-2, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-3, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-3, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-4, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-4, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-5, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-5, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-6, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-6, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconDraft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconDraft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-1-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-1-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-2-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-2-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-3-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-3-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-4-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-4-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-5-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-5-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-6-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-6-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconWarn, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconWarn, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconPending, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconPending, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconNoService, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconNoService, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor i.jstree-icon, .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.jstree-icon, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-resources .dropdown-menu i.close-button, .Mrphs-sakai-resources .dropdown-menu #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.close-button, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-syllabus i.editItem:hover:before, .Mrphs-sakai-syllabus #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.editItem:hover:before, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.site-favorite-icon.site-favorite:before, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.site-favorite-icon.site-nonfavorite:before, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.site-favorite-icon.site-workspace:before, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container #ckeditorPreview.modal i.sakaipreview-print, #ckeditorPreview.modal #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.sakaipreview-print, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container #ckeditorPreview.modal i.sakaipreview-close, #ckeditorPreview.modal #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.sakaipreview-close {
-        color: #666666; }
+        color: #1169BA; }
     #linkNav ul li.Mrphs-sitesNav__menuitem:not(.dropdown-is-visible) > .link-container:hover,
     #linkNav ul li.Mrphs-sitesNav__menuitem:not(.dropdown-is-visible) > .link-container:active {
       color: #191919; }
@@ -10072,7 +10072,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       -webkit-transform: translate(0%, -50%);
               transform: translate(0%, -50%);
       text-decoration: none;
-      color: #666666;
+      color: #1169BA;
       border: none; }
       #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop.is-clicked, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__dropdown.is-clicked {
         /* IE 9 */
@@ -10127,11 +10127,11 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       #linkNav ul li.Mrphs-sitesNav__menuitem ul.is-hidden {
         display: none; }
     #linkNav ul li.Mrphs-sitesNav__menuitem.is-selected {
-      background: #1169BA;
-      border-top: 1px solid #326B97;
-      border-right: 1px solid #326B97;
-      border-bottom: 1px solid #326B97;
-      border-left: 1px solid #326B97;
+      background: #FFFFFF;
+      border-top: 1px solid #003B71;
+      border-right: 1px solid #003B71;
+      border-bottom: 1px solid #003B71;
+      border-left: 1px solid #003B71;
       /* hover for sites when tool quick-menu isn't open */ }
       #linkNav ul li.Mrphs-sitesNav__menuitem.is-selected a.link-container {
         color: #FFFFFF; }
@@ -10221,7 +10221,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
         border-left: 1px solid #326B97;
         background: #1169BA; }
       #linkNav ul li.Mrphs-sitesNav__menuitem.is-selected.dropdown-is-visible:after {
-        border-bottom: 1px solid #1169BA;
+        border-bottom: 1px solid #FFFFFF;
         content: "";
         width: 100%;
         position: absolute;
@@ -10250,7 +10250,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
         color: #1169BA;
         position: relative; }
         #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a .toolMenuIcon {
-          color: #666666; }
+          color: #1169BA; }
         #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a:before {
           border-left: 4px solid #FFFFFF;
           content: '';
@@ -10272,7 +10272,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
           font-family: FontAwesome;
           content: '\f178';
           margin-left: 10px;
-          color: #666666; }
+          color: #1169BA; }
         #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem.Mrphs-sitesNav__submenuitem__gotosite:hover {
           border-top: 1px solid #E5E5E5; }
           #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem.Mrphs-sitesNav__submenuitem__gotosite:hover > a:after {
@@ -10829,7 +10829,7 @@ nav#subSites {
           -webkit-box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.3);
                   box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.3); }
       #toolMenu ul li.Mrphs-collapseTools button span.fa-angle-double-left, #subSites ul li.Mrphs-collapseTools button span.fa-angle-double-left, .floatingToolMenu ul li.Mrphs-collapseTools button span.fa-angle-double-left {
-        color: #333333; }
+        color: #3A5A79; }
       #toolMenu ul li.Mrphs-collapseTools button:focus, #subSites ul li.Mrphs-collapseTools button:focus, .floatingToolMenu ul li.Mrphs-collapseTools button:focus {
         outline-color: #050505 !important; }
       #toolMenu ul li.Mrphs-collapseTools span.fa-angle-double-left, #subSites ul li.Mrphs-collapseTools span.fa-angle-double-left, .floatingToolMenu ul li.Mrphs-collapseTools span.fa-angle-double-left {
@@ -10881,7 +10881,7 @@ nav#subSites {
         color: #191919;
         background: #FFFFFF; }
         #toolMenu ul li .Mrphs-toolsNav__menuitem--link:hover:before, #subSites ul li .Mrphs-toolsNav__menuitem--link:hover:before, .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link:hover:before {
-          border-left: 4px solid #FFBB00; }
+          border-left: #FFBB00; }
         #toolMenu ul li .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, #subSites ul li .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon {
           color: #3A5A79; }
       @media only screen and (max-width: 800px) {
@@ -10931,7 +10931,7 @@ nav#subSites {
         color: #1169BA;
         background: #FFFFFF; }
         #toolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:before, #subSites ul li.is-current .Mrphs-toolsNav__menuitem--link:before, .floatingToolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:before {
-          border-left: 4px solid #FFBB00; }
+          border-left: #FFBB00; }
         #toolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon, #subSites ul li.is-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon, .floatingToolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon {
           color: #1169BA; }
         #toolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--title, #subSites ul li.is-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--title, .floatingToolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--title {
@@ -10940,7 +10940,7 @@ nav#subSites {
           color: #1169BA;
           background: #FFFFFF; }
           #toolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:hover:before, #subSites ul li.is-current .Mrphs-toolsNav__menuitem--link:hover:before, .floatingToolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:hover:before {
-            border-left: 4px #1169BA; }
+            border-left: #1169BA; }
           #toolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, #subSites ul li.is-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, .floatingToolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon {
             color: #1169BA; }
         @media only screen and (max-width: 800px) {
@@ -11011,7 +11011,7 @@ body #toolMenu li.has-lessons-sub-pages {
     body #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current > .Mrphs-toolsNav__menuitem--link:hover {
       color: #191919 !important; }
       body #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current > .Mrphs-toolsNav__menuitem--link:hover:before {
-        border-left: 4px solid #FFBB00 !important; }
+        border-left: #FFBB00 !important; }
       body #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current > .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon {
         color: #A9A9A9 !important; }
     body #toolMenu li.has-lessons-sub-pages.expanded > .Mrphs-toolsNav__menuitem--link {
@@ -11075,7 +11075,7 @@ body #toolMenu li.has-lessons-sub-pages {
                 align-items: center;
         text-decoration: none; }
         body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a:hover {
-          border-left: 4px solid #FFBB00 !important;
+          border-left: #FFBB00 !important;
           background-color: #FFFFFF !important;
           color: #191919 !important; }
         body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a.is-invisible {
@@ -11111,11 +11111,11 @@ body #toolMenu li.has-lessons-sub-pages {
         body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li.is-current a {
           font-weight: bold !important;
           color: #1169BA !important;
-          border-left: 4px solid #FFBB00 !important;
+          border-left: #FFBB00 !important;
           margin-right: 0; }
           body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li.is-current a:hover {
             color: #1169BA !important;
-            border-left: 4px #1169BA !important;
+            border-left: #1169BA !important;
             background-color: #FFFFFF !important; }
   body #toolMenu li.has-lessons-sub-pages.is-current .lessons-goto-top-page .Mrphs-toolsNav__menuitem--title {
     color: #1169BA !important; }
@@ -11139,7 +11139,7 @@ body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages .Mrphs-toolsNav
     content: '\f212'; }
 
 body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrphs-toolsNav__menuitem--link, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-parent-of-current .Mrphs-toolsNav__menuitem--link, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.expanded.is-current .Mrphs-toolsNav__menuitem--link, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current .Mrphs-toolsNav__menuitem--link {
-  border-left: 4px solid #FFBB00 !important; }
+  border-left: #FFBB00 !important; }
   body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-parent-of-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.expanded.is-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon {
     color: #1169BA !important; }
   body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-parent-of-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.expanded.is-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon {
@@ -15130,7 +15130,7 @@ html[dir="rtl"] {
   -webkit-box-shadow: 0 0 5px rgba(33, 49, 56, 0.25);
           box-shadow: 0 0 5px rgba(33, 49, 56, 0.25); }
   #Mrphs-xlogin .logo, #Mrphs-choice .logo {
-    background: #003B71 url("./images/IC-PrimaryWhite.svg") no-repeat center center;
+    background: #003B71 url("./morpheus-master/images/IC-PrimaryWhite.svg") no-repeat center center;
     background-size: 216px 36px;
     width: 100%;
     height: 64px;
@@ -15745,7 +15745,7 @@ ul#otherSiteTools {
       ul#otherSiteTools li a:hover {
         background: #ECECEC;
         color: #191919;
-        border-left: 4px solid #FFBB00; }
+        border-left: #FFBB00; }
         ul#otherSiteTools li a:hover .otherSiteToolIcon {
           color: #424242; }
     ul#otherSiteTools li.gotosite {
@@ -16686,7 +16686,7 @@ ul.styled-reorder-list {
     color: #3A5A79;
     text-align: center; }
   .Mrphs-joinpage .logo {
-    background: #003B71 url("./images/IC-PrimaryWhite.svg") no-repeat center center;
+    background: #003B71 url("./morpheus-master/images/IC-PrimaryWhite.svg") no-repeat center center;
     background-size: 216px 36px;
     width: 100%;
     height: calc(36px * 2);
