@@ -159,7 +159,7 @@
   background-position: right 50%;
   background-repeat: no-repeat;
   border: 1px solid #C0C0C0;
-  color: #213138;
+  color: purple;
   font-family: "Open Sans", sans-serif;
   font-size: 13px;
   padding: 0.3em 2.2em 0.3em 0.5em;
@@ -186,7 +186,7 @@
   .nav.nav-tabs > li > a, .sakai_tabs > li > a {
     background: #FAFAFA;
     border: 1px solid #ddd !important;
-    color: #213138;
+    color: purple;
     cursor: pointer;
     margin: 0 0em 0 0.5em;
     text-decoration: none; }
@@ -460,7 +460,7 @@ label.panelGridLabel {
   margin-top: 1.4rem; }
 
 body {
-  color: #213138;
+  color: purple;
   font-family: "Open Sans", sans-serif;
   font-size: 14px !important;
   font-weight: 400;
@@ -472,9 +472,9 @@ body {
         padding: 52px 0 0 0; } }
 
 a {
-  color: #213138; }
+  color: purple; }
   a:hover {
-    color: #213138;
+    color: purple;
     text-decoration: none; }
   a[href] {
     color: #1169BA;
@@ -537,7 +537,7 @@ a {
       white-space: nowrap; } }
 
 input, textarea {
-  color: #213138;
+  color: purple;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   max-width: 100%; }
@@ -592,10 +592,10 @@ input[type="checkbox"], input[type="radio"] {
   input[type="checkbox"][disabled], input[type="checkbox"][disabled="disabled"], input[type="checkbox"][disabled="true"], input[type="radio"][disabled], input[type="radio"][disabled="disabled"], input[type="radio"][disabled="true"] {
     opacity: 0.8; }
     input[type="checkbox"][disabled] + label, input[type="checkbox"][disabled="disabled"] + label, input[type="checkbox"][disabled="true"] + label, input[type="radio"][disabled] + label, input[type="radio"][disabled="disabled"] + label, input[type="radio"][disabled="true"] + label {
-      color: #344d58; }
+      color: #b300b3; }
 
 label.disabled {
-  color: #344d58;
+  color: #b300b3;
   cursor: not-allowed; }
 
 input[type="checkbox"] {
