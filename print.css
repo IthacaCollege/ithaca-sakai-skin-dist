@@ -86,13 +86,13 @@
   padding: 15px 30px 15px 15px;
   border: 1px solid;
   border-left-width: 5px;
-  border-color: #5ba8f0;
-  border-left-color: #1169BA;
-  color: #041a2e;
-  background-color: #b8daf9; }
+  border-color: #759abd;
+  border-left-color: #3A5A79;
+  color: #080d12;
+  background-color: #bacdde; }
   .bs-callout-primary h1, .bs-callout-primary h2, .bs-callout-primary h3, .bs-callout-primary h4, .bs-callout-primary h5, .bs-callout-primary h6, .bs-callout-info h1, .bs-callout-info h2, .bs-callout-info h3, .bs-callout-info h4, .bs-callout-info h5, .bs-callout-info h6, .messageInformation h1, .messageInformation h2, .messageInformation h3, .messageInformation h4, .messageInformation h5, .messageInformation h6, .messageInstruction h1, .messageInstruction h2, .messageInstruction h3, .messageInstruction h4, .messageInstruction h5, .messageInstruction h6, .messageProgress h1, .messageProgress h2, .messageProgress h3, .messageProgress h4, .messageProgress h5, .messageProgress h6 {
     margin-top: 0;
-    color: #1169BA; }
+    color: #3A5A79; }
   .bs-callout-primary p:last-child, .bs-callout-info p:last-child, .messageInformation p:last-child, .messageInstruction p:last-child, .messageProgress p:last-child {
     margin-bottom: 0; }
   .bs-callout-primary code, .bs-callout-primary .highlight, .bs-callout-info code, .bs-callout-info .highlight, .messageInformation code, .messageInformation .highlight, .messageInstruction code, .messageInstruction .highlight, .messageProgress code, .messageProgress .highlight {
@@ -178,10 +178,10 @@
     border-left: 1px solid #ddd;
     border-right: 1px solid #ddd;
     border-bottom: 1px solid #FFFFFF !important;
-    color: #1169BA; }
+    color: #3A5A79; }
     .nav.nav-tabs > li.active > a:hover, .nav.nav-tabs > li.selected > a:hover, .nav.nav-tabs > li.activeTab > a:hover, .sakai_tabs > li.active > a:hover, .sakai_tabs > li.selected > a:hover, .sakai_tabs > li.activeTab > a:hover {
       background: #FFFFFF;
-      color: #1169BA; }
+      color: #3A5A79; }
   .nav.nav-tabs > li > a, .sakai_tabs > li > a {
     background: #FAFAFA;
     border: 1px solid #ddd !important;
@@ -476,16 +476,16 @@ a {
     color: #213138;
     text-decoration: none; }
   a[href] {
-    color: #1169BA;
+    color: #3A5A79;
     text-decoration: underline; }
     a[href]:focus, a[href]::-moz-focus-inner {
       outline-color: invert; }
     a[href]:hover {
-      color: #1169BA;
+      color: #3A5A79;
       background-color: transparent;
       text-decoration: underline; }
     a[href]:active {
-      color: #1169BA;
+      color: #3A5A79;
       background-color: transparent; }
     a[href].btn {
       text-decoration: none; }
