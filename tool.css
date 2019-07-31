@@ -1,11 +1,21 @@
 @charset "UTF-8";
 /* Global namespace */
+/* topNav Main Menu */
 /* Typography*/
 /* Color palette */
+/* change to #003B71 */
+/* change to #1169BA */
+/* change to #213138 */
 /* Tool tabs */
+/* change to #1169BA */
+/* change to #1169BA */
+/* #3A5A79 */
+/* change to #1169BA */
+/* change to #1169BA */
 /* Link colors */
 /* Linknav button colors */
 /* General button colors */
+/* change to  #1169BA */
 /* ///////////// */
 /* Swapped 'View As' view */
 /* This is the gradient in the header of the page */
@@ -15,15 +25,24 @@
 /* Favorites - item */
 /* Favorites - item hovered */
 /* Favorites - item selected */
+/* change to  #1169BA */
 /* Favorites - item selected and hovered */
+/* change to  #1169BA */
 /* Favorites - tool submenu */
 /* Favorites - tool selected submenu */
 /* Favorites - tool submenu items */
+/* change to #1169BA */
 /* Favorites - tool submenu items hovered */
 /* All Sites menu */
 /* Tool Menu */
 /* Wide tool menu, icons on left */
 /* Narrow tool menu, icons centered */
+/* change to  #1169BA */
+/* change to  #1169BA */
+/* change to  #FFBB00 */
+/* change to  #1169BA */
+/* change to  #1169BA */
+/* change to  #1169BA */
 /* Tool sub menu */
 /* Navigation Hierarchy */
 /* Golden Ratio width for 16px font http://www.pearsonified.com/typography/ */
@@ -32,6 +51,7 @@
 /* Icon Overrides */
 /* Footer */
 /* From NYU 11 Skin */
+/* change to #266DEA */
 @import url(//fonts.googleapis.com/css?family=Open Sans:400,500,700);
 @media only screen and (max-width: 800px) {
   .table-responsive > .table > thead > tr > th,
@@ -285,8 +305,8 @@ th {
 
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url("../morpheus-default/fonts/bootstrap/glyphicons-halflings-regular.eot");
-  src: url("../morpheus-default/fonts/bootstrap/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("../morpheus-default/fonts/bootstrap/glyphicons-halflings-regular.woff2") format("woff2"), url("../morpheus-default/fonts/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("../morpheus-default/fonts/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("../morpheus-default/fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg"); }
+  src: url("../ithaca/fonts/bootstrap/glyphicons-halflings-regular.eot");
+  src: url("../ithaca/fonts/bootstrap/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("../ithaca/fonts/bootstrap/glyphicons-halflings-regular.woff2") format("woff2"), url("../ithaca/fonts/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("../ithaca/fonts/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("../ithaca/fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg"); }
 
 .glyphicon {
   position: relative;
@@ -1103,7 +1123,7 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   line-height: 1.42857;
-  color: #212121;
+  color: #213138;
   background-color: #fff; }
 
 input,
@@ -1115,10 +1135,10 @@ textarea {
   line-height: inherit; }
 
 a {
-  color: #265b81;
+  color: #1169BA;
   text-decoration: none; }
   a:hover, a:focus {
-    color: #265b81;
+    color: #1169BA;
     text-decoration: underline; }
   a:focus {
     outline: 5px auto Highlight;
@@ -1230,7 +1250,7 @@ h1, h2, h3, h4, h5, h6,
   .Mrphs-sakai-samigo .listNav .inlineForm .h6 .pager-instruction {
     font-weight: normal;
     line-height: 1;
-    color: #555555; }
+    color: #C3D1D7; }
 
 h1, .h1,
 h2, .h2,
@@ -1356,7 +1376,7 @@ mark,
   text-transform: capitalize; }
 
 .text-muted {
-  color: #555555; }
+  color: #C3D1D7; }
 
 .text-primary {
   color: #337ab7; }
@@ -1495,7 +1515,7 @@ dd {
 abbr[title],
 abbr[data-original-title] {
   cursor: help;
-  border-bottom: 1px dotted #555555; }
+  border-bottom: 1px dotted #C3D1D7; }
 
 .initialism {
   font-size: 90%; }
@@ -1517,7 +1537,7 @@ blockquote {
     display: block;
     font-size: 80%;
     line-height: 1.42857;
-    color: #555555; }
+    color: #C3D1D7; }
     blockquote footer:before,
     blockquote small:before,
     blockquote .small:before,
@@ -1596,7 +1616,7 @@ pre {
   line-height: 1.42857;
   word-break: break-all;
   word-wrap: break-word;
-  color: #333333;
+  color: #213138;
   background-color: #f5f5f5;
   border: 1px solid #ccc;
   border-radius: 4px; }
@@ -2138,7 +2158,7 @@ table {
 caption {
   padding-top: 8px;
   padding-bottom: 8px;
-  color: #555555;
+  color: #C3D1D7;
   text-align: left; }
 
 th {
@@ -2370,7 +2390,7 @@ legend {
   margin-bottom: 20px;
   font-size: 21px;
   line-height: inherit;
-  color: #333333;
+  color: #213138;
   border: 0;
   border-bottom: 1px solid #e5e5e5; }
 
@@ -2413,7 +2433,7 @@ output {
   padding-top: 7px;
   font-size: 14px;
   line-height: 1.42857;
-  color: #212121; }
+  color: #213138; }
 
 .form-control, .Mrphs-sakai-forums #revise input[type="text"], .Mrphs-sakai-forums #revise textarea, .Mrphs-sakai-profile2 .gallery-form .input-file-container input[type="file"] {
   display: block;
@@ -2422,7 +2442,7 @@ output {
   padding: 6px 12px;
   font-size: 14px;
   line-height: 1.42857;
-  color: #212121;
+  color: #213138;
   background-color: #fff;
   background-image: none;
   border: 1px solid #ccc;
@@ -2857,7 +2877,7 @@ select[multiple].input-lg,
   display: block;
   margin-top: 5px;
   margin-bottom: 10px;
-  color: #616161; }
+  color: #507788; }
 
 @media (min-width: 768px) {
   .form-inline .form-group {
@@ -3211,7 +3231,7 @@ fieldset[disabled] a.btn {
     background-color: #fff; }
 
 .btn-link {
-  color: #265b81;
+  color: #1169BA;
   font-weight: normal;
   border-radius: 0; }
   .btn-link, .btn-link:active, .btn-link.active, .btn-link[disabled],
@@ -3222,13 +3242,13 @@ fieldset[disabled] a.btn {
   .btn-link, .btn-link:hover, .btn-link:focus, .btn-link:active {
     border-color: transparent; }
   .btn-link:hover, .btn-link:focus {
-    color: #265b81;
+    color: #1169BA;
     text-decoration: underline;
     background-color: transparent; }
   .btn-link[disabled]:hover, .btn-link[disabled]:focus,
   fieldset[disabled] .btn-link:hover,
   fieldset[disabled] .btn-link:focus {
-    color: #555555;
+    color: #C3D1D7;
     text-decoration: none; }
 
 .btn-lg, .btn-group-lg > .btn {
@@ -3339,12 +3359,12 @@ tbody.collapse.in {
     clear: both;
     font-weight: normal;
     line-height: 1.42857;
-    color: #333333;
+    color: #213138;
     white-space: nowrap; }
 
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
   text-decoration: none;
-  color: #262626;
+  color: #182328;
   background-color: #f5f5f5; }
 
 .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {
@@ -3354,7 +3374,7 @@ tbody.collapse.in {
   background-color: #337ab7; }
 
 .dropdown-menu > .disabled > a, .dropdown-menu > .disabled > a:hover, .dropdown-menu > .disabled > a:focus {
-  color: #555555; }
+  color: #C3D1D7; }
 
 .dropdown-menu > .disabled > a:hover, .dropdown-menu > .disabled > a:focus {
   text-decoration: none;
@@ -3382,7 +3402,7 @@ tbody.collapse.in {
   padding: 3px 20px;
   font-size: 12px;
   line-height: 1.42857;
-  color: #555555;
+  color: #C3D1D7;
   white-space: nowrap; }
 
 .dropdown-backdrop {
@@ -3631,7 +3651,7 @@ tbody.collapse.in {
   font-size: 14px;
   font-weight: normal;
   line-height: 1;
-  color: #212121;
+  color: #213138;
   text-align: center;
   background-color: #eeeeee;
   border: 1px solid #ccc;
@@ -3716,15 +3736,15 @@ tbody.collapse.in {
         text-decoration: none;
         background-color: #eeeeee; }
     .nav > li.disabled > a, .Mrphs-sakai-profile2 .tab-row ul > li.disabled > a {
-      color: #555555; }
+      color: #C3D1D7; }
       .nav > li.disabled > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li.disabled > a:hover, .nav > li.disabled > a:focus, .Mrphs-sakai-profile2 .tab-row ul > li.disabled > a:focus {
-        color: #555555;
+        color: #C3D1D7;
         text-decoration: none;
         background-color: transparent;
         cursor: not-allowed; }
   .nav .open > a, .Mrphs-sakai-profile2 .tab-row ul .open > a, .nav .open > a:hover, .Mrphs-sakai-profile2 .tab-row ul .open > a:hover, .nav .open > a:focus, .Mrphs-sakai-profile2 .tab-row ul .open > a:focus {
     background-color: #eeeeee;
-    border-color: #265b81; }
+    border-color: #1169BA; }
   .nav .nav-divider, .Mrphs-sakai-profile2 .tab-row ul .nav-divider {
     height: 1px;
     margin: 9px 0;
@@ -3746,7 +3766,7 @@ tbody.collapse.in {
       .nav-tabs > li > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li > a:hover {
         border-color: #cccccc #cccccc #cccccc; }
     .nav-tabs > li.active > a, .Mrphs-sakai-profile2 .tab-row ul > li.active > a, .nav-tabs > li.active > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li.active > a:hover, .nav-tabs > li.active > a:focus, .Mrphs-sakai-profile2 .tab-row ul > li.active > a:focus {
-      color: #265b81;
+      color: #1169BA;
       background-color: #e1e1e1;
       border: 1px solid #FAFAFA;
       border-bottom-color: transparent;
@@ -4174,14 +4194,14 @@ tbody.collapse.in {
   background-color: #222;
   border-color: #090909; }
   .navbar-inverse .navbar-brand {
-    color: #7b7b7b; }
+    color: #f1f4f6; }
     .navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
       color: #fff;
       background-color: transparent; }
   .navbar-inverse .navbar-text {
-    color: #7b7b7b; }
+    color: #f1f4f6; }
   .navbar-inverse .navbar-nav > li > a {
-    color: #7b7b7b; }
+    color: #f1f4f6; }
     .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
       color: #fff;
       background-color: transparent; }
@@ -4209,7 +4229,7 @@ tbody.collapse.in {
     .navbar-inverse .navbar-nav .open .dropdown-menu .divider {
       background-color: #090909; }
     .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
-      color: #7b7b7b; }
+      color: #f1f4f6; }
       .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus {
         color: #fff;
         background-color: transparent; }
@@ -4220,11 +4240,11 @@ tbody.collapse.in {
       color: #444;
       background-color: transparent; } }
   .navbar-inverse .navbar-link {
-    color: #7b7b7b; }
+    color: #f1f4f6; }
     .navbar-inverse .navbar-link:hover {
       color: #fff; }
   .navbar-inverse .btn-link {
-    color: #7b7b7b; }
+    color: #f1f4f6; }
     .navbar-inverse .btn-link:hover, .navbar-inverse .btn-link:focus {
       color: #fff; }
     .navbar-inverse .btn-link[disabled]:hover, .navbar-inverse .btn-link[disabled]:focus,
@@ -4245,7 +4265,7 @@ tbody.collapse.in {
       padding: 0 5px;
       color: #ccc; }
   .breadcrumb > .active {
-    color: #555555; }
+    color: #C3D1D7; }
 
 .pagination {
   display: inline-block;
@@ -4261,7 +4281,7 @@ tbody.collapse.in {
       padding: 6px 12px;
       line-height: 1.42857;
       text-decoration: none;
-      color: #265b81;
+      color: #1169BA;
       background-color: #fff;
       border: 1px solid #ddd;
       margin-left: -1px; }
@@ -4278,7 +4298,7 @@ tbody.collapse.in {
   .pagination > li > span:hover,
   .pagination > li > span:focus {
     z-index: 2;
-    color: #265b81;
+    color: #1169BA;
     background-color: #eeeeee;
     border-color: #ddd; }
   .pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus,
@@ -4296,7 +4316,7 @@ tbody.collapse.in {
   .pagination > .disabled > a,
   .pagination > .disabled > a:hover,
   .pagination > .disabled > a:focus {
-    color: #555555;
+    color: #C3D1D7;
     background-color: #fff;
     border-color: #ddd;
     cursor: not-allowed; }
@@ -4366,7 +4386,7 @@ tbody.collapse.in {
   .pager .disabled > a:hover,
   .pager .disabled > a:focus,
   .pager .disabled > span {
-    color: #555555;
+    color: #C3D1D7;
     background-color: #fff;
     cursor: not-allowed; }
 
@@ -4393,9 +4413,9 @@ a.label:hover, a.label:focus {
   cursor: pointer; }
 
 .label-default {
-  background-color: #555555; }
+  background-color: #C3D1D7; }
   .label-default[href]:hover, .label-default[href]:focus {
-    background-color: #3b3b3b; }
+    background-color: #a4bac3; }
 
 .label-primary {
   background-color: #337ab7; }
@@ -4433,7 +4453,7 @@ a.label:hover, a.label:focus {
   vertical-align: middle;
   white-space: nowrap;
   text-align: center;
-  background-color: #555555;
+  background-color: #C3D1D7;
   border-radius: 10px; }
   .badge:empty {
     display: none; }
@@ -4446,7 +4466,7 @@ a.label:hover, a.label:focus {
     padding: 1px 5px; }
   .list-group-item.active > .badge,
   .nav-pills > .active > a > .badge {
-    color: #265b81;
+    color: #1169BA;
     background-color: #fff; }
   .list-group-item > .badge {
     float: right; }
@@ -4513,12 +4533,12 @@ a.badge:hover, a.badge:focus {
     margin-right: auto; }
   .thumbnail .caption {
     padding: 9px;
-    color: #212121; }
+    color: #213138; }
 
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-  border-color: #265b81; }
+  border-color: #1169BA; }
 
 .alert {
   padding: 15px;
@@ -4731,12 +4751,12 @@ button.list-group-item {
 
 .list-group-item.disabled, .list-group-item.disabled:hover, .list-group-item.disabled:focus {
   background-color: #eeeeee;
-  color: #555555;
+  color: #C3D1D7;
   cursor: not-allowed; }
   .list-group-item.disabled .list-group-item-heading, .list-group-item.disabled:hover .list-group-item-heading, .list-group-item.disabled:focus .list-group-item-heading {
     color: inherit; }
   .list-group-item.disabled .list-group-item-text, .list-group-item.disabled:hover .list-group-item-text, .list-group-item.disabled:focus .list-group-item-text {
-    color: #555555; }
+    color: #C3D1D7; }
 
 .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
   z-index: 2;
@@ -5170,14 +5190,14 @@ button.list-group-item-danger {
 .panel-default, .Mrphs-sakai-samigo .listNav .inlineForm {
   border-color: #ddd; }
   .panel-default > .panel-heading, .Mrphs-sakai-samigo .listNav .inlineForm > .panel-heading, .Mrphs-sakai-samigo .listNav .inlineForm .panel-default > .pager-instruction, .Mrphs-sakai-samigo .listNav .inlineForm > .pager-instruction {
-    color: #333333;
+    color: #213138;
     background-color: #f5f5f5;
     border-color: #ddd; }
     .panel-default > .panel-heading + .panel-collapse > .panel-body, .Mrphs-sakai-samigo .listNav .inlineForm > .panel-heading + .panel-collapse > .panel-body, .Mrphs-sakai-samigo .listNav .inlineForm .panel-default > .pager-instruction + .panel-collapse > .panel-body, .Mrphs-sakai-samigo .listNav .inlineForm > .pager-instruction + .panel-collapse > .panel-body {
       border-top-color: #ddd; }
     .panel-default > .panel-heading .badge, .Mrphs-sakai-samigo .listNav .inlineForm > .panel-heading .badge, .Mrphs-sakai-samigo .listNav .inlineForm .panel-default > .pager-instruction .badge, .Mrphs-sakai-samigo .listNav .inlineForm > .pager-instruction .badge {
       color: #f5f5f5;
-      background-color: #333333; }
+      background-color: #213138; }
   .panel-default > .panel-footer + .panel-collapse > .panel-body, .Mrphs-sakai-samigo .listNav .inlineForm > .panel-footer + .panel-collapse > .panel-body {
     border-bottom-color: #ddd; }
 
@@ -6100,13 +6120,13 @@ button.close {
   padding: 15px 30px 15px 15px;
   border: 1px solid;
   border-left-width: 5px;
-  border-color: #599dce;
-  border-left-color: #265b81;
-  color: #03080b;
-  background-color: #a7cbe5; }
+  border-color: #5ba8f0;
+  border-left-color: #1169BA;
+  color: #041a2e;
+  background-color: #b8daf9; }
   .bs-callout-primary h1, .validationEmbedded h1, .validation h1, .Mrphs-sakai-samigo #samigo-create-new-box h1, .Mrphs-sakai-samigo #samigo-create-import-box h1, .bs-callout-primary h2, .validationEmbedded h2, .validation h2, .Mrphs-sakai-samigo #samigo-create-new-box h2, .Mrphs-sakai-samigo #samigo-create-import-box h2, .bs-callout-primary h3, .validationEmbedded h3, .validation h3, .Mrphs-sakai-samigo #samigo-create-new-box h3, .Mrphs-sakai-samigo #samigo-create-import-box h3, .bs-callout-primary h4, .validationEmbedded h4, .validation h4, .Mrphs-sakai-samigo #samigo-create-new-box h4, .Mrphs-sakai-samigo #samigo-create-import-box h4, .bs-callout-primary h5, .validationEmbedded h5, .validation h5, .Mrphs-sakai-samigo #samigo-create-new-box h5, .Mrphs-sakai-samigo #samigo-create-import-box h5, .bs-callout-primary h6, .validationEmbedded h6, .validation h6, .Mrphs-sakai-samigo #samigo-create-new-box h6, .Mrphs-sakai-samigo #samigo-create-import-box h6, .bs-callout-info h1, .bs-callout-info h2, .bs-callout-info h3, .bs-callout-info h4, .bs-callout-info h5, .bs-callout-info h6, .messageInformation h1, .messageInformation h2, .messageInformation h3, .messageInformation h4, .messageInformation h5, .messageInformation h6, .messageInstruction h1, .messageInstruction h2, .messageInstruction h3, .messageInstruction h4, .messageInstruction h5, .messageInstruction h6, .messageProgress h1, .messageProgress h2, .messageProgress h3, .messageProgress h4, .messageProgress h5, .messageProgress h6 {
     margin-top: 0;
-    color: #265b81; }
+    color: #1169BA; }
   .bs-callout-primary p:last-child, .validationEmbedded p:last-child, .validation p:last-child, .Mrphs-sakai-samigo #samigo-create-new-box p:last-child, .Mrphs-sakai-samigo #samigo-create-import-box p:last-child, .bs-callout-info p:last-child, .messageInformation p:last-child, .messageInstruction p:last-child, .messageProgress p:last-child {
     margin-bottom: 0; }
   .bs-callout-primary code, .validationEmbedded code, .validation code, .Mrphs-sakai-samigo #samigo-create-new-box code, .Mrphs-sakai-samigo #samigo-create-import-box code, .bs-callout-primary .highlight, .validationEmbedded .highlight, .validation .highlight, .Mrphs-sakai-samigo #samigo-create-new-box .highlight, .Mrphs-sakai-samigo #samigo-create-import-box .highlight, .bs-callout-info code, .bs-callout-info .highlight, .messageInformation code, .messageInformation .highlight, .messageInstruction code, .messageInstruction .highlight, .messageProgress code, .messageProgress .highlight {
@@ -6172,7 +6192,7 @@ button.close {
   background-position: right 50%;
   background-repeat: no-repeat;
   border: 1px solid #C0C0C0;
-  color: #212121;
+  color: #213138;
   font-family: "Open Sans", sans-serif;
   font-size: 13px;
   padding: 0.3em 2.2em 0.3em 0.5em;
@@ -6192,20 +6212,20 @@ button.close {
     border-left: 1px solid #ddd;
     border-right: 1px solid #ddd;
     border-bottom: 1px solid #FFFFFF !important;
-    color: #265b81; }
+    color: #1169BA; }
     .nav.nav-tabs > li.active > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li.active > a:hover, .nav.nav-tabs > li.selected > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li.selected > a:hover, .nav.nav-tabs > li.activeTab > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li.activeTab > a:hover, .sakai_tabs > li.active > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li.active > a:hover, .sakai_tabs > li.selected > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li.selected > a:hover, .sakai_tabs > li.activeTab > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li.activeTab > a:hover {
       background: #FFFFFF;
-      color: #265b81; }
+      color: #1169BA; }
   .nav.nav-tabs > li > a, .Mrphs-sakai-profile2 .tab-row ul > li > a, .sakai_tabs > li > a, .Mrphs-sakai-profile2 .tab-row ul > li > a {
     background: #FAFAFA;
     border: 1px solid #ddd !important;
-    color: #212121;
+    color: #213138;
     cursor: pointer;
     margin: 0 0em 0 0.5em;
     text-decoration: none; }
 
 .button_color, input[type="submit"], input[type="button"], input[type="reset"], button, button.btn-primary {
-  background: #15597e;
+  background: #1169BA;
   border: 1px solid #326B97;
   color: #FFF !important;
   cursor: pointer;
@@ -6222,7 +6242,7 @@ button.close {
   .button_color:before, input[type="submit"]:before, input[type="button"]:before, input[type="reset"]:before, button:before, button.btn-primary:before {
     color: #FFF; }
   .button_color:focus, input:focus[type="submit"], input:focus[type="button"], input:focus[type="reset"], button:focus, button.btn-primary:focus {
-    outline: 5px groove #5b9dd9 !important;
+    outline: 5px groove #266DEA !important;
     outline-offset: 2px !important; }
   .button_color:hover, input:hover[type="submit"], input:hover[type="button"], input:hover[type="reset"], button:hover, button.btn-primary:hover {
     color: #FFFFFF !important;
@@ -6238,7 +6258,7 @@ button.close {
     background: #176691;
     border-color: #124466; }
   .button_color[disabled="disabled"], input[disabled="disabled"][type="submit"], input[disabled="disabled"][type="button"], input[disabled="disabled"][type="reset"], .button_color[disabled], input[disabled][type="submit"], input[disabled][type="button"], input[disabled][type="reset"], .button_color[disabled="true"], input[disabled="true"][type="submit"], input[disabled="true"][type="button"], input[disabled="true"][type="reset"], button[disabled="disabled"], button[disabled], button[disabled="true"], button.btn-primary[disabled="disabled"], button.btn-primary[disabled], button.btn-primary[disabled="true"] {
-    background: #15597e;
+    background: #1169BA;
     color: white;
     cursor: not-allowed;
     opacity: 0.7; }
@@ -6261,13 +6281,13 @@ button.close {
   .button:before, #mastLogin #loginForm .Mrphs-loginForm__button:before, .Mrphs-siteStatus.is-unpublished button:before, .Mrphs-sakai-schedule .viewLinkControl:before, .lessonsToolButton:before, .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a[role="button"]:before, .Mrphs-sakai-message-bundle-manager .dataTables_export a:before, ul#otherSitesMenu li:not(.otherSitesMenuClose) a:before, #cookie-notice #cookie-notice-close:before, button.ui-state-default:before, .btn.btn-default:before {
     color: #595959; }
   .button:focus, #mastLogin #loginForm .Mrphs-loginForm__button:focus, .Mrphs-siteStatus.is-unpublished button:focus, .Mrphs-sakai-schedule .viewLinkControl:focus, .lessonsToolButton:focus, .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a:focus[role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a:focus, ul#otherSitesMenu li:not(.otherSitesMenuClose) a:focus, #cookie-notice #cookie-notice-close:focus, button.ui-state-default:focus, .btn.btn-default:focus {
-    outline: 5px groove #5b9dd9 !important;
+    outline: 5px groove #266DEA !important;
     outline-offset: 2px !important; }
   .button:hover, #mastLogin #loginForm .Mrphs-loginForm__button:hover, .Mrphs-siteStatus.is-unpublished button:hover, .Mrphs-sakai-schedule .viewLinkControl:hover, .lessonsToolButton:hover, .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a:hover[role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a:hover, ul#otherSitesMenu li:not(.otherSitesMenuClose) a:hover, #cookie-notice #cookie-notice-close:hover, button.ui-state-default:hover, .btn.btn-default:hover {
     color: #191919 !important;
     text-decoration: none;
     background: #FAFAFA;
-    border-color: #7F7F7F; }
+    border-color: #1169ba; }
     .button:hover:before, #mastLogin #loginForm .Mrphs-loginForm__button:hover:before, .Mrphs-siteStatus.is-unpublished button:hover:before, .Mrphs-sakai-schedule .viewLinkControl:hover:before, .lessonsToolButton:hover:before, .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a[role="button"]:hover:before, .Mrphs-sakai-message-bundle-manager .dataTables_export a:hover:before, ul#otherSitesMenu li:not(.otherSitesMenuClose) a:hover:before, #cookie-notice #cookie-notice-close:hover:before, button.ui-state-default:hover:before, .btn.btn-default:hover:before {
       color: #424242; }
   .button:active, #mastLogin #loginForm .Mrphs-loginForm__button:active, .Mrphs-siteStatus.is-unpublished button:active, .Mrphs-sakai-schedule .viewLinkControl:active, .lessonsToolButton:active, .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a:active[role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a:active, ul#otherSitesMenu li:not(.otherSitesMenuClose) a:active, #cookie-notice #cookie-notice-close:active, button.ui-state-default:active, .btn.btn-default:active {
@@ -6275,7 +6295,7 @@ button.close {
     color: #191919 !important;
     text-decoration: none;
     background: #FAFAFA;
-    border-color: #7F7F7F; }
+    border-color: #1169ba; }
   .button[disabled="disabled"], #mastLogin #loginForm .Mrphs-loginForm__button[disabled="disabled"], .Mrphs-siteStatus.is-unpublished button[disabled="disabled"], .Mrphs-sakai-schedule .viewLinkControl[disabled="disabled"], .lessonsToolButton[disabled="disabled"], .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a[disabled="disabled"][role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a[disabled="disabled"], ul#otherSitesMenu li:not(.otherSitesMenuClose) a[disabled="disabled"], #cookie-notice #cookie-notice-close[disabled="disabled"], .button[disabled], #mastLogin #loginForm .Mrphs-loginForm__button[disabled], .Mrphs-siteStatus.is-unpublished button[disabled], .Mrphs-sakai-schedule .viewLinkControl[disabled], .lessonsToolButton[disabled], .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a[disabled][role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a[disabled], ul#otherSitesMenu li:not(.otherSitesMenuClose) a[disabled], #cookie-notice #cookie-notice-close[disabled], .button[disabled="true"], #mastLogin #loginForm .Mrphs-loginForm__button[disabled="true"], .Mrphs-siteStatus.is-unpublished button[disabled="true"], .Mrphs-sakai-schedule .viewLinkControl[disabled="true"], .lessonsToolButton[disabled="true"], .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a[disabled="true"][role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a[disabled="true"], ul#otherSitesMenu li:not(.otherSitesMenuClose) a[disabled="true"], #cookie-notice #cookie-notice-close[disabled="true"], button.ui-state-default[disabled="disabled"], button.ui-state-default[disabled], button.ui-state-default[disabled="true"], .btn.btn-default[disabled="disabled"], .btn.btn-default[disabled], .btn.btn-default[disabled="true"] {
     background: #FAFAFA;
     color: #404040;
@@ -6300,13 +6320,13 @@ button.close {
   .button.link:before, #mastLogin #loginForm .link.Mrphs-loginForm__button:before, .Mrphs-siteStatus.is-unpublished button.link:before, .Mrphs-sakai-schedule .link.viewLinkControl:before, .link.lessonsToolButton:before, .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a.link[role="button"]:before, .Mrphs-sakai-message-bundle-manager .dataTables_export a.link:before, ul#otherSitesMenu li:not(.otherSitesMenuClose) a.link:before, #cookie-notice .link#cookie-notice-close:before, a.btn-link:before, button.btn-link:before {
     color: #595959; }
   .button.link:focus, #mastLogin #loginForm .link.Mrphs-loginForm__button:focus, .Mrphs-siteStatus.is-unpublished button.link:focus, .Mrphs-sakai-schedule .link.viewLinkControl:focus, .link.lessonsToolButton:focus, .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a.link:focus[role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a.link:focus, ul#otherSitesMenu li:not(.otherSitesMenuClose) a.link:focus, #cookie-notice .link#cookie-notice-close:focus, a.btn-link:focus, button.btn-link:focus {
-    outline: 5px groove #5b9dd9 !important;
+    outline: 5px groove #266DEA !important;
     outline-offset: 2px !important; }
   .button.link:hover, #mastLogin #loginForm .link.Mrphs-loginForm__button:hover, .Mrphs-siteStatus.is-unpublished button.link:hover, .Mrphs-sakai-schedule .link.viewLinkControl:hover, .link.lessonsToolButton:hover, .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a.link:hover[role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a.link:hover, ul#otherSitesMenu li:not(.otherSitesMenuClose) a.link:hover, #cookie-notice .link#cookie-notice-close:hover, a.btn-link:hover, button.btn-link:hover {
     color: #191919 !important;
     text-decoration: none;
     background: #FAFAFA;
-    border-color: #7F7F7F; }
+    border-color: #1169ba; }
     .button.link:hover:before, #mastLogin #loginForm .link.Mrphs-loginForm__button:hover:before, .Mrphs-siteStatus.is-unpublished button.link:hover:before, .Mrphs-sakai-schedule .link.viewLinkControl:hover:before, .link.lessonsToolButton:hover:before, .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a.link[role="button"]:hover:before, .Mrphs-sakai-message-bundle-manager .dataTables_export a.link:hover:before, ul#otherSitesMenu li:not(.otherSitesMenuClose) a.link:hover:before, #cookie-notice .link#cookie-notice-close:hover:before, a.btn-link:hover:before, button.btn-link:hover:before {
       color: #424242; }
   .button.link:active, #mastLogin #loginForm .link.Mrphs-loginForm__button:active, .Mrphs-siteStatus.is-unpublished button.link:active, .Mrphs-sakai-schedule .link.viewLinkControl:active, .link.lessonsToolButton:active, .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a.link:active[role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a.link:active, ul#otherSitesMenu li:not(.otherSitesMenuClose) a.link:active, #cookie-notice .link#cookie-notice-close:active, a.btn-link:active, button.btn-link:active {
@@ -6314,7 +6334,7 @@ button.close {
     color: #191919 !important;
     text-decoration: none;
     background: #FAFAFA;
-    border-color: #7F7F7F; }
+    border-color: #1169ba; }
   .button.link[disabled="disabled"], #mastLogin #loginForm .link.Mrphs-loginForm__button[disabled="disabled"], .Mrphs-siteStatus.is-unpublished button.link[disabled="disabled"], .Mrphs-sakai-schedule .link.viewLinkControl[disabled="disabled"], .link.lessonsToolButton[disabled="disabled"], .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a.link[disabled="disabled"][role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a.link[disabled="disabled"], ul#otherSitesMenu li:not(.otherSitesMenuClose) a.link[disabled="disabled"], #cookie-notice .link#cookie-notice-close[disabled="disabled"], .button.link[disabled], #mastLogin #loginForm .link.Mrphs-loginForm__button[disabled], .Mrphs-siteStatus.is-unpublished button.link[disabled], .Mrphs-sakai-schedule .link.viewLinkControl[disabled], .link.lessonsToolButton[disabled], .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a.link[disabled][role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a.link[disabled], ul#otherSitesMenu li:not(.otherSitesMenuClose) a.link[disabled], #cookie-notice .link#cookie-notice-close[disabled], .button.link[disabled="true"], #mastLogin #loginForm .link.Mrphs-loginForm__button[disabled="true"], .Mrphs-siteStatus.is-unpublished button.link[disabled="true"], .Mrphs-sakai-schedule .link.viewLinkControl[disabled="true"], .link.lessonsToolButton[disabled="true"], .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a.link[disabled="true"][role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a.link[disabled="true"], ul#otherSitesMenu li:not(.otherSitesMenuClose) a.link[disabled="true"], #cookie-notice .link#cookie-notice-close[disabled="true"], a.btn-link[disabled="disabled"], a.btn-link[disabled], a.btn-link[disabled="true"], button.btn-link[disabled="disabled"], button.btn-link[disabled], button.btn-link[disabled="true"] {
     background: #FAFAFA;
     color: #404040;
@@ -6405,7 +6425,7 @@ a.noPointers, input.noPointers {
     left: 2.5% !important; } }
 
 .ui-dialog .ui-dialog-buttonpane button {
-  background: #15597e;
+  background: #1169BA;
   border: 1px solid #326B97;
   color: #FFF !important;
   cursor: pointer;
@@ -6422,7 +6442,7 @@ a.noPointers, input.noPointers {
   .ui-dialog .ui-dialog-buttonpane button:before {
     color: #FFF; }
   .ui-dialog .ui-dialog-buttonpane button:focus {
-    outline: 5px groove #5b9dd9 !important;
+    outline: 5px groove #266DEA !important;
     outline-offset: 2px !important; }
   .ui-dialog .ui-dialog-buttonpane button:hover {
     color: #FFFFFF !important;
@@ -6438,7 +6458,7 @@ a.noPointers, input.noPointers {
     background: #176691;
     border-color: #124466; }
   .ui-dialog .ui-dialog-buttonpane button[disabled="disabled"], .ui-dialog .ui-dialog-buttonpane button[disabled], .ui-dialog .ui-dialog-buttonpane button[disabled="true"] {
-    background: #15597e;
+    background: #1169BA;
     color: white;
     cursor: not-allowed;
     opacity: 0.7; }
@@ -6473,7 +6493,7 @@ label.panelGridLabel {
   margin-top: 1.4rem; }
 
 body {
-  color: #212121;
+  color: #213138;
   font-family: "Open Sans", sans-serif;
   font-size: 14px !important;
   font-weight: 400;
@@ -6485,26 +6505,26 @@ body {
         padding: 52px 0 0 0; } }
 
 a {
-  color: #212121; }
+  color: #213138; }
   a:hover {
-    color: #212121;
+    color: #213138;
     text-decoration: none; }
   a[href] {
-    color: #265b81;
+    color: #1169BA;
     text-decoration: underline; }
     a[href]:focus, a[href]::-moz-focus-inner {
       outline-color: invert; }
     a[href]:hover {
-      color: #265b81;
+      color: #1169BA;
       background-color: transparent;
       text-decoration: underline; }
     a[href]:active {
-      color: #265b81;
+      color: #1169BA;
       background-color: transparent; }
     a[href].btn {
       text-decoration: none; }
     a[href].btn-primary {
-      background: #15597e;
+      background: #1169BA;
       border: 1px solid #326B97;
       color: #FFF !important;
       cursor: pointer;
@@ -6521,7 +6541,7 @@ a {
       a[href].btn-primary:before {
         color: #FFF; }
       a[href].btn-primary:focus {
-        outline: 5px groove #5b9dd9 !important;
+        outline: 5px groove #266DEA !important;
         outline-offset: 2px !important; }
       a[href].btn-primary:hover {
         color: #FFFFFF !important;
@@ -6537,7 +6557,7 @@ a {
         background: #176691;
         border-color: #124466; }
       a[href].btn-primary[disabled="disabled"], a[href].btn-primary[disabled], a[href].btn-primary[disabled="true"] {
-        background: #15597e;
+        background: #1169BA;
         color: white;
         cursor: not-allowed;
         opacity: 0.7; }
@@ -6550,7 +6570,7 @@ a {
       white-space: nowrap; } }
 
 input, textarea {
-  color: #212121;
+  color: #213138;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   max-width: 100%; }
@@ -6606,10 +6626,10 @@ input[type="radio"] {
   input[type="checkbox"][disabled], input[type="checkbox"][disabled="disabled"], input[type="checkbox"][disabled="true"], input[type="radio"][disabled], input[type="radio"][disabled="disabled"], input[type="radio"][disabled="true"] {
     opacity: 0.8; }
     input[type="checkbox"][disabled] + label, input[type="checkbox"][disabled="disabled"] + label, input[type="checkbox"][disabled="true"] + label, input[type="radio"][disabled] + label, input[type="radio"][disabled="disabled"] + label, input[type="radio"][disabled="true"] + label {
-      color: #3b3b3b; }
+      color: #344d58; }
 
 label.disabled {
-  color: #3b3b3b;
+  color: #344d58;
   cursor: not-allowed; }
 
 input[type="checkbox"] {
@@ -6767,7 +6787,7 @@ span.marker {
   body.toolsNav--displayed #portalMask {
     background: transparent; }
   body.sitesNav--displayed .Mrphs-mainHeader.is-maximized .siteNavWrap {
-    background: #265b81;
+    background: #1169BA;
     margin-top: -3em;
     min-height: 100%;
     padding-top: 3em;
@@ -6788,13 +6808,13 @@ span.marker {
       body.sitesNav--displayed #linkNav ul li.Mrphs-sitesNav__menuitem.is-selected a {
         background: #FFFFFF; }
       body.sitesNav--displayed #linkNav ul li.Mrphs-sitesNav__menuitem a {
-        background: #334198;
+        background: #002e58;
         border-right: 0px none; }
       body.sitesNav--displayed #linkNav ul li.Mrphs-sitesNav__menuitem.Mrphs-sitesNav__menuitem--myworkspace {
-        background: #265b81;
+        background: #1169BA;
         margin: 0 0 0 0; }
         body.sitesNav--displayed #linkNav ul li.Mrphs-sitesNav__menuitem.Mrphs-sitesNav__menuitem--myworkspace a {
-          background: #265b81; }
+          background: #1169BA; }
     body.sitesNav--displayed #linkNav ul.Mrphs-sitesNav__menu {
       margin: 1em 0.8em 0 1.2em; }
   body.sitesNav--displayed .Mrphs-mainHeader .Mrphs-headerLogo {
@@ -7058,7 +7078,7 @@ body #Mrphs-viewport-helpers .phone, body #Mrphs-viewport-helpers .tablet, body 
 .fa-signal:before {
   content: ""; }
 
-.fa-gear:before, .icon-sakai--sakai-message-bundle-manager:before, .icon-sakai--sakai-preferences:before, .icon-sakai--sakai-siteinfo:before, .icon-sakai--kaltura-admin:before,
+.fa-gear:before, .icon-sakai--sakai-preferences:before, .icon-sakai--sakai-siteinfo:before, .icon-sakai--kaltura-admin:before,
 .fa-cog:before,
 .Mrphs-sakai-assignment-grades .contentReviewIconNoService:before {
   content: ""; }
@@ -7202,7 +7222,7 @@ body #Mrphs-viewport-helpers .phone, body #Mrphs-viewport-helpers .tablet, body 
 .fa-tint:before {
   content: ""; }
 
-.fa-edit:before, .icon-sakai--sakai-rwiki:before,
+.fa-edit:before, .icon-sakai--sakai-message-bundle-manager:before, .icon-sakai--sakai-rwiki:before,
 .fa-pencil-square-o:before,
 .icon.icon-calendar-formative-assessment:before {
   content: ""; }
@@ -7264,10 +7284,10 @@ body #Mrphs-viewport-helpers .phone, body #Mrphs-viewport-helpers .tablet, body 
 .fa-check-circle:before {
   content: ""; }
 
-.fa-question-circle:before, .icon-sakai--sakai-help:before, .icon-sakai--help:before {
+.fa-question-circle:before, .icon-sakai--help:before {
   content: ""; }
 
-.fa-info-circle:before {
+.fa-info-circle:before, .icon-sakai--sakai-help:before {
   content: ""; }
 
 .fa-crosshairs:before {
@@ -7470,7 +7490,8 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
 
 .fa-feed:before,
 .fa-rss:before,
-.icon-sakai--sakai-news:before {
+.icon-sakai--sakai-news:before,
+.icon-sakai--sakai-simple-rss:before {
   content: ""; }
 
 .fa-hdd-o:before, .icon-sakai--sakai-memory:before {
@@ -7655,7 +7676,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
 .fa-comment-o:before {
   content: ""; }
 
-.fa-comments-o:before, .icon-sakai--sakai-chat:before, .Mrphs-footerApp--icon.icon-sakai-chat:before {
+.fa-comments-o:before, .icon-sakai--sakai-chat:before, .icon-sakai--sakai-piazza:before, .Mrphs-footerApp--icon.icon-sakai-chat:before {
   content: ""; }
 
 .fa-flash:before,
@@ -7672,7 +7693,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
 .fa-clipboard:before {
   content: ""; }
 
-.fa-lightbulb-o:before {
+.fa-lightbulb-o:before, .icon-sakai--sakai-playposit:before {
   content: ""; }
 
 .fa-exchange:before, .icon-sakai--sakai-dropbox:before {
@@ -7806,7 +7827,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
 .fa-gamepad:before {
   content: ""; }
 
-.fa-keyboard-o:before {
+.fa-keyboard-o:before, .icon-sakai--sakai-blogwow:before {
   content: ""; }
 
 .fa-flag-o:before {
@@ -7864,7 +7885,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
 .fa-puzzle-piece:before, .icon-sakai--default-tool:before {
   content: ""; }
 
-.fa-microphone:before, .icon-sakai--sakai-podcasts:before, .Mrphs-footerApp--icon.icon-sakai-mic:before {
+.fa-microphone:before, .icon-sakai--sakai-podcasts:before, .icon-sakai--sakai-voicethread:before, .Mrphs-footerApp--icon.icon-sakai-mic:before {
   content: ""; }
 
 .fa-microphone-slash:before {
@@ -7921,7 +7942,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
 .fa-rss-square:before {
   content: ""; }
 
-.fa-play-circle:before {
+.fa-play-circle:before, .icon-sakai--sakai-warpwire:before {
   content: ""; }
 
 .fa-ticket:before {
@@ -8435,7 +8456,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
 .fa-yelp:before {
   content: ""; }
 
-.fa-newspaper-o:before, .icon-sakai--sakai-simple-rss:before {
+.fa-newspaper-o:before {
   content: ""; }
 
 .fa-wifi:before {
@@ -8950,7 +8971,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
 .fa-wheelchair-alt:before {
   content: ""; }
 
-.fa-question-circle-o:before {
+.fa-question-circle-o:before, .icon-sakai--sakai-qna:before {
   content: ""; }
 
 .fa-blind:before {
@@ -9068,7 +9089,8 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
   content: ""; }
 
 .fa-drivers-license-o:before,
-.fa-id-card-o:before {
+.fa-id-card-o:before,
+.icon-sakai--sakai-attendance:before {
   content: ""; }
 
 .fa-quora:before {
@@ -9260,7 +9282,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
   border-top: 1px solid #E5E5E5; }
 
 .Mrphs-footer {
-  color: #212121;
+  color: #213138;
   padding: 0.8em;
   font-size: 0.8em; }
   .Mrphs-footer #footer-links {
@@ -9299,17 +9321,17 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
     overflow: hidden;
     padding: 0 1em;
     height: 52px;
-    background: #3949AB;
+    background: #003B71;
     text-align: center;
     -webkit-transition: width 0.5s linear 0s 0s ease 0s;
     /* Safari 3.1 to 6.0 */
     transition: width 0.5s linear 0s 0s ease 0s; }
     .Mrphs-mainHeader .Mrphs-headerLogo .Mrphs-headerLogo--institution {
-      background: url("images/IC-PrimaryWhite.svg") no-repeat center center;
-      width: 60px;
+      background: url("https://becm.ithaca.edu/wf/images/logo.svg") no-repeat center center;
+      width: 216px;
       height: 100%;
       float: left;
-      background-size: 60px 36px; }
+      background-size: 216px 36px; }
   .Mrphs-mainHeader .Mrphs-loginUser {
     display: -webkit-inline-box;
     display: -ms-inline-flexbox;
@@ -9351,14 +9373,14 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
     overflow: visible; }
   @media only screen and (max-width: 800px) {
     .Mrphs-mainHeader {
-      background: #265b81;
+      background: #1169BA;
       position: fixed;
       top: 0;
       width: 100%;
       z-index: 20; } }
 
 .userNav_link {
-  color: #212121;
+  color: #213138;
   font-family: "Open Sans", sans-serif;
   font-size: 0.9em;
   font-weight: 700;
@@ -9374,8 +9396,8 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
   right: 0em;
   width: 20em;
   z-index: 99;
-  -webkit-box-shadow: 0 0 4px rgba(33, 33, 33, 0.35);
-          box-shadow: 0 0 4px rgba(33, 33, 33, 0.35);
+  -webkit-box-shadow: 0 0 4px rgba(33, 49, 56, 0.35);
+          box-shadow: 0 0 4px rgba(33, 49, 56, 0.35);
   list-style: none;
   padding: 0 0 0 0; }
   .userNav__subnav li, #mastLogin #loginLinks ul li {
@@ -9389,11 +9411,11 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       display: block;
       padding: 0.65em;
       text-decoration: none;
-      color: #215071;
+      color: #0f5ea7;
       line-height: 1em; }
       .userNav__subnav li a:focus, #mastLogin #loginLinks ul li a:focus, .userNav__subnav li a:hover, #mastLogin #loginLinks ul li a:hover, .userNav__subnav li a:active, #mastLogin #loginLinks ul li a:active {
         text-decoration: underline;
-        color: #215071; }
+        color: #0f5ea7; }
       .userNav__subnav li a .toolMenuIcon, #mastLogin #loginLinks ul li a .toolMenuIcon {
         vertical-align: sub;
         margin: 0 0.5em 0 0; }
@@ -9404,7 +9426,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
     display: none; }
   .userNav__subnav .Mrphs-userNav__submenuitem--fullname-and-id, #mastLogin #loginLinks ul .Mrphs-userNav__submenuitem--fullname-and-id {
     padding-top: 1em;
-    color: #212121;
+    color: #213138;
     display: inline-block;
     margin-bottom: 5px;
     width: 10em;
@@ -9435,7 +9457,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       margin-left: 0.5em; }
 
 .Mrphs-topHeader {
-  background: #3949AB;
+  background: #003B71;
   color: #FFFFFF;
   font-size: 1em;
   height: auto;
@@ -9558,7 +9580,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
         text-decoration: none; }
         @media only screen and (max-width: 800px) {
           .Mrphs-topHeader .Mrphs-loginNav #roleSwitch #roleSwitchAnchor {
-            color: #265b81; } }
+            color: #1169BA; } }
         @media only screen and (min-width: 801px) {
           .Mrphs-topHeader .Mrphs-loginNav #roleSwitch #roleSwitchAnchor {
             color: #fff;
@@ -9824,15 +9846,15 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
         width: 100%; }
     @media only screen and (max-width: 800px) {
       #mastLogin #loginLinks ul .Mrphs-userData {
-        color: #212121;
+        color: #213138;
         display: block;
         font-weight: 400;
         padding: 0.7em 0.65em; } }
     #mastLogin #loginLinks ul a {
-      color: #265b81;
+      color: #1169BA;
       padding: 0.25em 0.25em; }
       #mastLogin #loginLinks ul a:hover, #mastLogin #loginLinks ul a:active {
-        color: #3277a8; }
+        color: #1583e9; }
   #mastLogin #loginLinks .Mrphs-userNav__drop-btn i {
     position: relative;
     top: -0.6em;
@@ -9946,7 +9968,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       color: #4C4C4C;
       text-decoration: none; }
       #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.fa, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i[class*="icon-sakai--"], #linkNav ul .Mrphs-mainHeader .Mrphs-loginUser li.Mrphs-sitesNav__menuitem > a.link-container a i.login-Icon, .Mrphs-mainHeader .Mrphs-loginUser #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container a i.login-Icon, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-sitesNav__drop, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-sitesNav__dropdown, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-sitesNav__doubledrop, #linkNav #toolMenu ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, #toolMenu #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, #linkNav #subSites ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, #subSites #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, #linkNav .floatingToolMenu ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, .floatingToolMenu #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-toolTitleNav i.Mrphs-toolTitleNav__link:before, .Mrphs-toolTitleNav #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolTitleNav__link:before, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-toolTitleNav i.Mrphs-toolTitleNav__link--directurl, .Mrphs-toolTitleNav #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolTitleNav__link--directurl, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-toolTitleNav i.Mrphs-toolTitleNav__link--help-popup, .Mrphs-toolTitleNav #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolTitleNav__link--help-popup, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-toolTitleNav i.Mrphs-toolTitleNav__link--edit, .Mrphs-toolTitleNav #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolTitleNav__link--edit, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-toolTitleNav i.Mrphs-toolTitleNav__link--reset, .Mrphs-toolTitleNav #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolTitleNav__link--reset, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.icon, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-footerApp--icon, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIcon, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIcon, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-1, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-1, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-2, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-2, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-3, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-3, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-4, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-4, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-5, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-5, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-6, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-6, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconDraft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconDraft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-1-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-1-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-2-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-2-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-3-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-3-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-4-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-4-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-5-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-5-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-6-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-6-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconWarn, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconWarn, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconPending, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconPending, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconNoService, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconNoService, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor i.jstree-icon, .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.jstree-icon, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-resources .dropdown-menu i.close-button, .Mrphs-sakai-resources .dropdown-menu #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.close-button, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-syllabus i.editItem:hover:before, .Mrphs-sakai-syllabus #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.editItem:hover:before, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.site-favorite-icon.site-favorite:before, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.site-favorite-icon.site-nonfavorite:before, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.site-favorite-icon.site-workspace:before, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container #ckeditorPreview.modal i.sakaipreview-print, #ckeditorPreview.modal #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.sakaipreview-print, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container #ckeditorPreview.modal i.sakaipreview-close, #ckeditorPreview.modal #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.sakaipreview-close {
-        color: #666666; }
+        color: #3A5A79; }
     #linkNav ul li.Mrphs-sitesNav__menuitem:not(.dropdown-is-visible) > .link-container:hover,
     #linkNav ul li.Mrphs-sitesNav__menuitem:not(.dropdown-is-visible) > .link-container:active {
       color: #191919; }
@@ -10025,10 +10047,10 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       #ckeditorPreview.modal #linkNav ul li.Mrphs-sitesNav__menuitem:not(.dropdown-is-visible) > .link-container:active i.sakaipreview-close {
         color: #424242; }
     #linkNav ul li.Mrphs-sitesNav__menuitem.dropdown-is-visible, #linkNav ul li.Mrphs-sitesNav__menuitem:hover {
-      border-top: 1px solid #7F7F7F;
-      border-right: 1px solid #7F7F7F;
-      border-bottom: 1px solid #7F7F7F;
-      border-left: 1px solid #7F7F7F;
+      border-top: 1px solid #1169ba;
+      border-right: 1px solid #1169ba;
+      border-bottom: 1px solid #1169ba;
+      border-left: 1px solid #1169ba;
       background: #FFFFFF; }
     #linkNav ul li.Mrphs-sitesNav__menuitem.dropdown-is-visible:after {
       border-bottom: 1px solid #FFFFFF;
@@ -10049,7 +10071,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       -webkit-transform: translate(0%, -50%);
               transform: translate(0%, -50%);
       text-decoration: none;
-      color: #666666;
+      color: #3A5A79;
       border: none; }
       #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop.is-clicked, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__dropdown.is-clicked {
         /* IE 9 */
@@ -10064,13 +10086,13 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       display: none;
       font-family: "Open Sans", sans-serif;
       position: absolute;
-      border: 1px solid #7F7F7F;
+      border: 1px solid #1169ba;
       margin-top: 0;
       margin-left: -1px;
       width: 17em;
       z-index: 99;
-      -webkit-box-shadow: 0 3px 2px rgba(33, 33, 33, 0.35);
-              box-shadow: 0 3px 2px rgba(33, 33, 33, 0.35); }
+      -webkit-box-shadow: 0 3px 2px rgba(33, 49, 56, 0.35);
+              box-shadow: 0 3px 2px rgba(33, 49, 56, 0.35); }
       #linkNav ul li.Mrphs-sitesNav__menuitem ul li {
         display: block;
         border: 0px none;
@@ -10082,11 +10104,11 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
           display: block;
           padding: 0.5em 0.65em;
           text-decoration: none;
-          color: #4C4C4C;
+          color: #1169BA;
           font-size: 13px;
           line-height: 1em; }
           #linkNav ul li.Mrphs-sitesNav__menuitem ul li a:hover, #linkNav ul li.Mrphs-sitesNav__menuitem ul li a:active {
-            color: #4C4C4C;
+            color: #1169BA;
             /* to override default link hover color */ }
           #linkNav ul li.Mrphs-sitesNav__menuitem ul li a .toolMenuIcon {
             vertical-align: sub;
@@ -10104,7 +10126,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       #linkNav ul li.Mrphs-sitesNav__menuitem ul.is-hidden {
         display: none; }
     #linkNav ul li.Mrphs-sitesNav__menuitem.is-selected {
-      background: #15597e;
+      background: #1169BA;
       border-top: 1px solid #326B97;
       border-right: 1px solid #326B97;
       border-bottom: 1px solid #326B97;
@@ -10196,9 +10218,9 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
         border-right: 1px solid #326B97;
         border-bottom: 1px solid #326B97;
         border-left: 1px solid #326B97;
-        background: #15597e; }
+        background: #1169BA; }
       #linkNav ul li.Mrphs-sitesNav__menuitem.is-selected.dropdown-is-visible:after {
-        border-bottom: 1px solid #15597e;
+        border-bottom: 1px solid #1169BA;
         content: "";
         width: 100%;
         position: absolute;
@@ -10224,10 +10246,10 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       background: #FFFFFF; }
       #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a {
         background: #FFFFFF;
-        color: #4C4C4C;
+        color: #1169BA;
         position: relative; }
         #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a .toolMenuIcon {
-          color: #666666; }
+          color: #3A5A79; }
         #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a:before {
           border-left: 4px solid #FFFFFF;
           content: '';
@@ -10242,14 +10264,14 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
           #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a:hover .toolMenuIcon, #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a:active .toolMenuIcon {
             color: #424242; }
           #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a:hover:before, #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a:active:before {
-            border-left-color: #7F7F7F; }
+            border-left-color: #1169ba; }
       #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem.Mrphs-sitesNav__submenuitem__gotosite {
         border-top: 1px solid #E5E5E5; }
         #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem.Mrphs-sitesNav__submenuitem__gotosite > a:after {
           font-family: FontAwesome;
           content: '\f178';
           margin-left: 10px;
-          color: #666666; }
+          color: #3A5A79; }
         #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem.Mrphs-sitesNav__submenuitem__gotosite:hover {
           border-top: 1px solid #E5E5E5; }
           #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem.Mrphs-sitesNav__submenuitem__gotosite:hover > a:after {
@@ -10279,7 +10301,7 @@ body.is-logged-out #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop
   display: none; }
 
 #show-all-sites-mobile {
-  color: #3949AB;
+  color: #003B71;
   background: white;
   display: none;
   cursor: pointer;
@@ -10289,7 +10311,7 @@ body.is-logged-out #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop
   top: 0em;
   right: 0em;
   width: 2.5em;
-  border-left: 1px solid #2c3985;
+  border-left: 1px solid #00203e;
   padding: 0 9px;
   outline: 0; }
   #show-all-sites-mobile > div {
@@ -10316,7 +10338,7 @@ body.is-logged-out #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop
   margin-left: 0em;
   width: 100%;
   padding: 3px;
-  color: #3949AB;
+  color: #003B71;
   display: block;
   text-align: center;
   background-color: #F6ECB7;
@@ -10384,7 +10406,7 @@ body.is-logged-out #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop
   padding: 0 0 0 0; }
   @media only screen and (min-width: 1031px) {
     .Mrphs-skipNav__menu a:focus {
-      background-color: #265b81;
+      background-color: #1169BA;
       border: 1px solid #FFFFFF;
       color: #FFFFFF;
       display: block !important;
@@ -10453,7 +10475,7 @@ body.is-logged-out #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop
               top: 10%;
               border-right: 1px solid #E5E5E5; }
           .Mrphs-skipNav__menu li.Mrphs-skipNav__menuitem.Mrphs-skipNav__menuitem--tools a.Mrphs-skipNav--toolName {
-            color: #265b81; }
+            color: #1169BA; }
             .Mrphs-skipNav__menu li.Mrphs-skipNav__menuitem.Mrphs-skipNav__menuitem--tools a.Mrphs-skipNav--toolName::after {
               border-right: 0px none; }
         .Mrphs-skipNav__menu li.Mrphs-skipNav__menuitem--content, .Mrphs-skipNav__menu li.Mrphs-skipNav__menuitem--accessibility {
@@ -10480,7 +10502,7 @@ body.is-logged-out #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop
     font-weight: 300;
     margin: 0; }
   .Mrphs-siteHierarchy a {
-    color: #212121;
+    color: #213138;
     margin: 0 0.5em;
     padding: 0 0 0.2em;
     text-decoration: none; }
@@ -10501,14 +10523,14 @@ body.is-logged-out #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop
         /* Since we'll start on our own line, don't pad */
         margin-left: 0; }
       .Mrphs-siteHierarchy .Mrphs-hierarchy--siteName a:hover {
-        color: #265b81;
-        border-bottom: 1px solid #265b81; }
+        color: #1169BA;
+        border-bottom: 1px solid #1169BA; }
       .Mrphs-siteHierarchy .Mrphs-breadcrumb--icon {
         display: inline-block;
         text-align: right;
         width: 24px; }
       .Mrphs-siteHierarchy a.Mrphs-hierarchy--toolName {
-        color: #265b81;
+        color: #1169BA;
         text-transform: uppercase;
         font-size: 110%;
         font-weight: bold;
@@ -10516,7 +10538,7 @@ body.is-logged-out #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop
         margin: 0.75em 0.75em 0.25em 1.25em;
         border-bottom: 1px solid transparent; }
         .Mrphs-siteHierarchy a.Mrphs-hierarchy--toolName:hover {
-          border-bottom: 1px solid #265b81; }
+          border-bottom: 1px solid #1169BA; }
           .Mrphs-siteHierarchy a.Mrphs-hierarchy--toolName:hover .Mrphs-breadcrumb--icon {
             display: none; }
           .Mrphs-siteHierarchy a.Mrphs-hierarchy--toolName:hover .Mrphs-breadcrumb--reset-icon {
@@ -10542,20 +10564,20 @@ body.is-logged-out #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop
       white-space: nowrap;
       left: 0; }
       .Mrphs-siteHierarchy h1 {
-        color: #265b81; }
+        color: #1169BA; }
       .Mrphs-siteHierarchy .Mrphs-hierarchy--siteName a:hover .Mrphs-hierarchy--siteName-label {
         text-decoration: underline; }
       .Mrphs-siteHierarchy a.Mrphs-hierarchy--toolName {
         display: none; }
       .Mrphs-siteHierarchy a.Mrphs-hierarchy--toolName:hover {
-        color: #265b81;
-        border-bottom: 1px solid #265b81; }
+        color: #1169BA;
+        border-bottom: 1px solid #1169BA; }
       .Mrphs-siteHierarchy .Mrphs-hierarchy--serviceName, .Mrphs-siteHierarchy .Mrphs-hierarchy--serviceNameSeparator {
         display: none; }
       .Mrphs-siteHierarchy .Mrphs-breadcrumb--reset-icon {
         display: none; }
       .Mrphs-siteHierarchy .Mrphs-hierarchy-item {
-        color: #265b81; }
+        color: #1169BA; }
       .Mrphs-siteHierarchy .Mrphs-hierarchy--siteNameSeparator {
         display: none; }
       .Mrphs-siteHierarchy.moving {
@@ -10635,7 +10657,7 @@ body.is-logged-out .Mrphs-mainHeader.is-maximized ~ #container #toolMenuWrap {
     body.Mrphs-toolMenu-collapsed #toolMenu.floating ul li a.is-invisible .Mrphs-toolsNav__menuitem--title, body.Mrphs-toolMenu-collapsed #subSites.floating ul li a.is-invisible .Mrphs-toolsNav__menuitem--title, body.Mrphs-toolMenu-collapsed .floatingToolMenu.floating ul li a.is-invisible .Mrphs-toolsNav__menuitem--title {
       display: block; }
     body.Mrphs-toolMenu-collapsed #toolMenu.floating ul li a.is-invisible:hover, body.Mrphs-toolMenu-collapsed #subSites.floating ul li a.is-invisible:hover, body.Mrphs-toolMenu-collapsed .floatingToolMenu.floating ul li a.is-invisible:hover {
-      background: #265b81; }
+      background: #1169BA; }
       body.Mrphs-toolMenu-collapsed #toolMenu.floating ul li a.is-invisible:hover .Mrphs-toolsNav__menuitem--title, body.Mrphs-toolMenu-collapsed #subSites.floating ul li a.is-invisible:hover .Mrphs-toolsNav__menuitem--title, body.Mrphs-toolMenu-collapsed .floatingToolMenu.floating ul li a.is-invisible:hover .Mrphs-toolsNav__menuitem--title {
         position: relative;
         float: none;
@@ -10690,7 +10712,7 @@ body.is-logged-out .Mrphs-mainHeader.is-maximized ~ #container #toolMenuWrap {
   @media only screen and (max-width: 800px) {
     .Mrphs-toolsNav__title--current-site {
       color: #FFFFFF;
-      background: #1a3f5a;
+      background: #0d4f8b;
       display: block;
       font-size: 1.1em;
       width: 100%;
@@ -10845,7 +10867,7 @@ nav#subSites {
       background-color: #FAFAFA;
       font-weight: normal; }
       #toolMenu ul li .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon, #subSites ul li .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon, .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon {
-        color: #666666; }
+        color: #3A5A79; }
       #toolMenu ul li .Mrphs-toolsNav__menuitem--link:before, #subSites ul li .Mrphs-toolsNav__menuitem--link:before, .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link:before {
         border-left: 4px solid transparent;
         content: '';
@@ -10858,7 +10880,7 @@ nav#subSites {
         color: #191919;
         background: #ECECEC; }
         #toolMenu ul li .Mrphs-toolsNav__menuitem--link:hover:before, #subSites ul li .Mrphs-toolsNav__menuitem--link:hover:before, .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link:hover:before {
-          border-left: 4px solid #7F7F7F; }
+          border-left: 4px solid #FFBB00; }
         #toolMenu ul li .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, #subSites ul li .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon {
           color: #424242; }
       @media only screen and (max-width: 800px) {
@@ -10905,21 +10927,21 @@ nav#subSites {
       position: relative;
       margin-right: -1px; }
       #toolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link, #subSites ul li.is-current .Mrphs-toolsNav__menuitem--link, .floatingToolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link {
-        color: #15597e;
+        color: #1169BA;
         background: #FFFFFF; }
         #toolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:before, #subSites ul li.is-current .Mrphs-toolsNav__menuitem--link:before, .floatingToolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:before {
-          border-left: 4px solid #15597e; }
+          border-left: 4px solid #FFBB00; }
         #toolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon, #subSites ul li.is-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon, .floatingToolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon {
-          color: #15597e; }
+          color: #1169BA; }
         #toolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--title, #subSites ul li.is-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--title, .floatingToolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--title {
           font-weight: 700; }
         #toolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:hover, #subSites ul li.is-current .Mrphs-toolsNav__menuitem--link:hover, .floatingToolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:hover {
-          color: #15597e;
+          color: #1169BA;
           background: #FFFFFF; }
           #toolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:hover:before, #subSites ul li.is-current .Mrphs-toolsNav__menuitem--link:hover:before, .floatingToolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:hover:before {
-            border-left: 4px solid #15597e; }
+            border-left: 4px solid #1169BA; }
           #toolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, #subSites ul li.is-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, .floatingToolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon {
-            color: #15597e; }
+            color: #1169BA; }
         @media only screen and (max-width: 800px) {
           #toolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link, #subSites ul li.is-current .Mrphs-toolsNav__menuitem--link, .floatingToolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link {
             border: none; } }
@@ -10931,14 +10953,14 @@ nav#subSites {
           padding: 0.6em 0 0.6em 0em;
           background: #e1e1e1; }
           #toolMenu ul li .Mrphs-toolsNav__subnav li a:hover, #subSites ul li .Mrphs-toolsNav__subnav li a:hover, .floatingToolMenu ul li .Mrphs-toolsNav__subnav li a:hover {
-            background: #265b81;
+            background: #1169BA;
             color: #FFF; }
           @media only screen and (max-width: 800px) {
             #toolMenu ul li .Mrphs-toolsNav__subnav li a, #subSites ul li .Mrphs-toolsNav__subnav li a, .floatingToolMenu ul li .Mrphs-toolsNav__subnav li a {
               padding: 0.6em 0.6em; } }
         #toolMenu ul li .Mrphs-toolsNav__subnav li.is-current a, #subSites ul li .Mrphs-toolsNav__subnav li.is-current a, .floatingToolMenu ul li .Mrphs-toolsNav__subnav li.is-current a {
           background: #FFFFFF;
-          color: #265b81; }
+          color: #1169BA; }
           #toolMenu ul li .Mrphs-toolsNav__subnav li.is-current a .Mrphs-toolsNav__menuitem--title, #subSites ul li .Mrphs-toolsNav__subnav li.is-current a .Mrphs-toolsNav__menuitem--title, .floatingToolMenu ul li .Mrphs-toolsNav__subnav li.is-current a .Mrphs-toolsNav__menuitem--title {
             font-weight: 700; }
           #toolMenu ul li .Mrphs-toolsNav__subnav li.is-current a:hover, #subSites ul li .Mrphs-toolsNav__subnav li.is-current a:hover, .floatingToolMenu ul li .Mrphs-toolsNav__subnav li.is-current a:hover {
@@ -10981,14 +11003,14 @@ body #toolMenu li.has-lessons-sub-pages {
   body #toolMenu li.has-lessons-sub-pages.expanded {
     background-color: #FFFFFF; }
     body #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current > .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon {
-      color: #666666 !important; }
+      color: #3A5A79 !important; }
     body #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current > .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--title {
       color: #333333 !important;
       font-weight: normal !important; }
     body #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current > .Mrphs-toolsNav__menuitem--link:hover {
       color: #191919 !important; }
       body #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current > .Mrphs-toolsNav__menuitem--link:hover:before {
-        border-left: 4px solid #7F7F7F !important; }
+        border-left: 4px solid #FFBB00 !important; }
       body #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current > .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon {
         color: #A9A9A9 !important; }
     body #toolMenu li.has-lessons-sub-pages.expanded > .Mrphs-toolsNav__menuitem--link {
@@ -11052,7 +11074,7 @@ body #toolMenu li.has-lessons-sub-pages {
                 align-items: center;
         text-decoration: none; }
         body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a:hover {
-          border-left: 4px solid #7F7F7F !important;
+          border-left: 4px solid #FFBB00 !important;
           background-color: #ECECEC !important;
           color: #191919 !important; }
         body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a.is-invisible {
@@ -11087,17 +11109,17 @@ body #toolMenu li.has-lessons-sub-pages {
         margin-right: 0; }
         body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li.is-current a {
           font-weight: bold !important;
-          color: #15597e !important;
-          border-left: 4px solid #15597e !important;
+          color: #1169BA !important;
+          border-left: 4px solid #FFBB00 !important;
           margin-right: 0; }
           body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li.is-current a:hover {
-            color: #15597e !important;
-            border-left: 4px solid #15597e !important;
+            color: #1169BA !important;
+            border-left: 4px solid #1169BA !important;
             background-color: #FFFFFF !important; }
   body #toolMenu li.has-lessons-sub-pages.is-current .lessons-goto-top-page .Mrphs-toolsNav__menuitem--title {
-    color: #15597e !important; }
+    color: #1169BA !important; }
   body #toolMenu li.has-lessons-sub-pages.is-current .lessons-goto-top-page:hover .Mrphs-toolsNav__menuitem--title {
-    color: #15597e !important; }
+    color: #1169BA !important; }
   body #toolMenu li.has-lessons-sub-pages.is-current.is-parent-of-current .lessons-goto-top-page .Mrphs-toolsNav__menuitem--title {
     color: #333333 !important; }
   body #toolMenu li.has-lessons-sub-pages.is-current.is-parent-of-current .lessons-goto-top-page:hover .Mrphs-toolsNav__menuitem--title {
@@ -11116,11 +11138,11 @@ body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages .Mrphs-toolsNav
     content: '\f212'; }
 
 body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrphs-toolsNav__menuitem--link, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-parent-of-current .Mrphs-toolsNav__menuitem--link, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.expanded.is-current .Mrphs-toolsNav__menuitem--link, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current .Mrphs-toolsNav__menuitem--link {
-  border-left: 4px solid #15597e !important; }
+  border-left: 4px solid #FFBB00 !important; }
   body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-parent-of-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.expanded.is-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current .Mrphs-toolsNav__menuitem--link .Mrphs-toolsNav__menuitem--icon {
-    color: #15597e !important; }
+    color: #1169BA !important; }
   body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-parent-of-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.expanded.is-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon {
-    color: #15597e !important; }
+    color: #1169BA !important; }
 
 .Mrphs-pageColumns--single .Mrphs-toolTitleNav__button_container {
   top: -34px;
@@ -11235,13 +11257,13 @@ body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrp
     .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link:before {
       color: #595959; }
     .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link:focus {
-      outline: 5px groove #5b9dd9 !important;
+      outline: 5px groove #266DEA !important;
       outline-offset: 2px !important; }
     .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link:hover {
       color: #191919 !important;
       text-decoration: none;
       background: #FAFAFA;
-      border-color: #7F7F7F; }
+      border-color: #1169ba; }
       .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link:hover:before {
         color: #424242; }
     .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link:active {
@@ -11249,7 +11271,7 @@ body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrp
       color: #191919 !important;
       text-decoration: none;
       background: #FAFAFA;
-      border-color: #7F7F7F; }
+      border-color: #1169ba; }
     .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link[disabled="disabled"], .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link[disabled], .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link[disabled="true"] {
       background: #FAFAFA;
       color: #404040;
@@ -11350,7 +11372,7 @@ body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrp
             right: -1px;
             top: -1px; }
       .navIntraTool li span.current {
-        color: #15597e;
+        color: #1169BA;
         font-size: 12.5px;
         background-color: #FFFFFF;
         border-top: 1px solid #E5E5E5;
@@ -11364,7 +11386,7 @@ body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrp
         display: block;
         margin-bottom: -1px; }
         .navIntraTool li span.current:before {
-          border-top: 4px solid #15597e;
+          border-top: 4px solid #1169BA;
           content: "";
           display: block;
           position: absolute;
@@ -11699,10 +11721,10 @@ table.listHier {
             width: 100%; } }
         .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .chatListWrapper .chatListHeadWrapper {
           padding: 8px 17px 0;
-          color: #6e6e6e;
+          color: #5a8598;
           text-align: center; }
         .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .chatListWrapper .shown_total {
-          color: #6e6e6e;
+          color: #5a8598;
           text-align: center;
           margin: 0 17px 0 17px;
           padding-bottom: 8px; }
@@ -11738,7 +11760,7 @@ table.listHier {
                 .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .chatListWrapper .chatListMonitor .chatList li.divisorNewMessages:not(.hide) + li {
                   border-top: 0; }
                 .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .chatListWrapper .chatListMonitor .chatList li.divisorNewMessages:not(.hide) .newMessages {
-                  background: #265b81;
+                  background: #1169BA;
                   border-radius: 50px;
                   padding: 2px 7px;
                   font-size: 10px;
@@ -11783,7 +11805,7 @@ table.listHier {
                   margin-right: 4px; }
                 .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .chatListWrapper .chatListMonitor .chatList li .chatNameDate .chatDate {
                   font-size: 10px;
-                  color: #6e6e6e;
+                  color: #5a8598;
                   display: inline-block;
                   margin-right: 32px; }
               .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .chatListWrapper .chatListMonitor .chatList li .chatMessage {
@@ -11794,7 +11816,7 @@ table.listHier {
                 margin: 5px 0 5px 53px; }
                 .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .chatListWrapper .chatListMonitor .chatList li .chatMessage .chatMessageDate {
                   font-size: 0.8em;
-                  color: #6e6e6e;
+                  color: #5a8598;
                   position: absolute;
                   top: -13px;
                   display: none; }
@@ -11808,7 +11830,7 @@ table.listHier {
                   top: 0;
                   right: 8px;
                   cursor: pointer;
-                  color: #265b81; }
+                  color: #1169BA; }
       .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .scrollBottom {
         position: absolute;
         bottom: 0;
@@ -11827,7 +11849,7 @@ table.listHier {
         .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .scrollBottom .newMessages {
           position: absolute;
           top: -10px;
-          background: #265b81;
+          background: #1169BA;
           border-radius: 50px;
           padding: 2px 7px;
           font-size: 10px;
@@ -11896,7 +11918,7 @@ table.listHier {
   margin-bottom: 0.5em; }
 
 .Mrphs-footerApp__presence, .Mrphs-footerApp__portalChat {
-  background-color: #212121;
+  background-color: #213138;
   color: #FFFFFF;
   float: left;
   text-align: left;
@@ -11963,7 +11985,7 @@ table.listHier {
     padding: 5px;
     vertical-align: middle;
     color: #FFFFFF;
-    background-color: #212121; }
+    background-color: #213138; }
     .Mrphs-presence__area--title--close {
       float: right;
       color: inherit;
@@ -11991,8 +12013,8 @@ table.listHier {
   margin: 0px;
   padding: 0px;
   display: none;
-  -webkit-box-shadow: 0 -2px 2px rgba(33, 33, 33, 0.5);
-          box-shadow: 0 -2px 2px rgba(33, 33, 33, 0.5);
+  -webkit-box-shadow: 0 -2px 2px rgba(33, 49, 56, 0.5);
+          box-shadow: 0 -2px 2px rgba(33, 49, 56, 0.5);
   /* First generic styles*/
   /*Chat windows*/
   /*Videochat controls */ }
@@ -12015,12 +12037,12 @@ table.listHier {
     padding: 5px;
     vertical-align: middle;
     color: #FFFFFF;
-    background-color: #212121; }
+    background-color: #213138; }
   .Mrphs-portalChat__container {
     clear: both; }
     .Mrphs-portalChat__container h2 {
       background: none;
-      color: #212121;
+      color: #213138;
       padding: 6px 0px 6px 0;
       font-size: 1em;
       margin: 0px 3px; }
@@ -12036,7 +12058,7 @@ table.listHier {
     padding: 5px;
     margin: 0px 0px 10px 0px; }
   .Mrphs-portalChat__users {
-    border-top: solid 0.5em #212121; }
+    border-top: solid 0.5em #213138; }
   .Mrphs-portalChat__close {
     float: right;
     text-align: right;
@@ -12047,7 +12069,7 @@ table.listHier {
     height: 30px;
     width: 170px;
     float: left;
-    color: #212121; }
+    color: #213138; }
     .Mrphs-portalChat__user--link:hover {
       text-decoration: none; }
   .Mrphs-portalChat__connection--bullet {
@@ -12095,7 +12117,7 @@ table.listHier {
     padding: 5px;
     vertical-align: middle;
     color: #FFFFFF;
-    background-color: #212121;
+    background-color: #213138;
     cursor: pointer;
     overflow: hidden;
     position: relative;
@@ -12233,11 +12255,11 @@ table.listHier {
     .Mrphs-portalChat__videochat--bar {
       font-size: 14px;
       font-weight: bold;
-      color: #212121; }
+      color: #213138; }
     .Mrphs-portalChat__videochat--ctrlbar {
       font-size: 14px;
       font-weight: bold;
-      color: #212121;
+      color: #213138;
       background: none repeat scroll 0% 0% #FFFFFF;
       overflow: hidden;
       position: relative;
@@ -14048,12 +14070,12 @@ div#calendarEventDialog .eventAttachmentList {
   margin-right: 1em; }
 
 .Mrphs-sakai-samigo .toolTipLink {
-  color: #265b81;
+  color: #1169BA;
   background-color: transparent;
   text-decoration: underline;
   cursor: pointer; }
   .Mrphs-sakai-samigo .toolTipLink:hover {
-    color: #265b81;
+    color: #1169BA;
     background-color: transparent;
     text-decoration: underline; }
 
@@ -14145,7 +14167,7 @@ div#calendarEventDialog .eventAttachmentList {
   .Mrphs-sakai-resources .jstree-anchor:hover {
     text-decoration: none !important; }
   .Mrphs-sakai-resources #spinner {
-    color: #265b81;
+    color: #1169BA;
     width: 100%;
     height: 128px;
     position: absolute;
@@ -14158,7 +14180,7 @@ div#calendarEventDialog .eventAttachmentList {
       .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor .jstree-icon:before {
         position: relative;
         top: 5px;
-        color: #212121;
+        color: #213138;
         padding: 0 0 0 26px; }
   .Mrphs-sakai-resources li[data_visible="false"] * {
     color: #999 !important; }
@@ -14232,7 +14254,7 @@ div#calendarEventDialog .eventAttachmentList {
     top: 150px !important; }
   .Mrphs-sakai-resources .fa, .Mrphs-sakai-resources [class*="icon-sakai--"], .Mrphs-sakai-resources .Mrphs-mainHeader .Mrphs-loginUser li a .login-Icon, .Mrphs-mainHeader .Mrphs-loginUser li a .Mrphs-sakai-resources .login-Icon, .Mrphs-sakai-resources #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sakai-resources .Mrphs-sitesNav__drop, .Mrphs-sakai-resources #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__dropdown, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sakai-resources .Mrphs-sitesNav__dropdown, .Mrphs-sakai-resources .Mrphs-sitesNav__doubledrop, .Mrphs-sakai-resources #subSites.floating a.Mrphs-toolsNav__menuitem--link.is-invisible:after, #subSites.floating .Mrphs-sakai-resources a.Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-resources #toolMenu ul li .Mrphs-toolsNav__menuitem--link.is-invisible:after, #toolMenu ul li .Mrphs-sakai-resources .Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-resources #subSites ul li .Mrphs-toolsNav__menuitem--link.is-invisible:after, #subSites ul li .Mrphs-sakai-resources .Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-resources .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link.is-invisible:after, .floatingToolMenu ul li .Mrphs-sakai-resources .Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-resources body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a.is-invisible:after, body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li .Mrphs-sakai-resources a.is-invisible:after, .Mrphs-sakai-resources body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a.has-prerequisite:hover:after, body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li .Mrphs-sakai-resources a.has-prerequisite:hover:after, .Mrphs-sakai-resources .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link:before, .Mrphs-toolTitleNav .Mrphs-sakai-resources .Mrphs-toolTitleNav__link:before, .Mrphs-sakai-resources .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link--directurl, .Mrphs-toolTitleNav .Mrphs-sakai-resources .Mrphs-toolTitleNav__link--directurl, .Mrphs-sakai-resources .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link--help-popup, .Mrphs-toolTitleNav .Mrphs-sakai-resources .Mrphs-toolTitleNav__link--help-popup, .Mrphs-sakai-resources .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link--edit, .Mrphs-toolTitleNav .Mrphs-sakai-resources .Mrphs-toolTitleNav__link--edit, .Mrphs-sakai-resources .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link--reset, .Mrphs-toolTitleNav .Mrphs-sakai-resources .Mrphs-toolTitleNav__link--reset, .Mrphs-sakai-resources .icon, .Mrphs-sakai-resources .Mrphs-footerApp--icon, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIcon, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIcon, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-1, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-1, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-2, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-2, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-3, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-3, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-4, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-4, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-5, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-5, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-6, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-6, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconDraft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconDraft, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-1-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-1-draft, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-2-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-2-draft, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-3-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-3-draft, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-4-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-4-draft, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-5-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-5-draft, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-6-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-6-draft, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconWarn, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconWarn, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconPending, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconPending, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconNoService, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconNoService, .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor .jstree-icon, .Mrphs-sakai-resources .dropdown-menu .close-button, .Mrphs-sakai-resources .Mrphs-sakai-syllabus .editItem:hover:before, .Mrphs-sakai-syllabus .Mrphs-sakai-resources .editItem:hover:before, .Mrphs-sakai-resources .site-favorite-icon.site-favorite:before, .Mrphs-sakai-resources .site-favorite-icon.site-nonfavorite:before, .Mrphs-sakai-resources .site-favorite-icon.site-workspace:before, .Mrphs-sakai-resources #ckeditorPreview.modal .sakaipreview-print, #ckeditorPreview.modal .Mrphs-sakai-resources .sakaipreview-print, .Mrphs-sakai-resources #ckeditorPreview.modal .sakaipreview-close, #ckeditorPreview.modal .Mrphs-sakai-resources .sakaipreview-close {
     display: inline;
-    color: #265b81;
+    color: #1169BA;
     text-decoration: none; }
   .Mrphs-sakai-resources a.nil.fa-folder {
     position: static; }
@@ -14452,7 +14474,7 @@ body > .portletBody > #calendarForm {
   font-size: 1em;
   padding: 0.3em 0.2em 0.1em 0; }
   .Mrphs-sakai-forums .messagesThreaded .md a {
-    color: #212121;
+    color: #213138;
     text-decoration: none;
     border-bottom: 1px dotted #d9d9d9; }
     .Mrphs-sakai-forums .messagesThreaded .md a:hover {
@@ -14769,7 +14791,7 @@ body > .portletBody > #calendarForm {
     position: relative;
     cursor: pointer; }
     .Mrphs-sakai-syllabus .editItem:hover:before {
-      color: #265b81;
+      color: #1169BA;
       position: absolute;
       right: 0; }
     .Mrphs-sakai-syllabus .editItem:hover.bodyInput:before {
@@ -14823,12 +14845,12 @@ body > .portletBody > #calendarForm {
       .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions {
         float: right; }
         .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .fa, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions [class*="icon-sakai--"], .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-mainHeader .Mrphs-loginUser li a .login-Icon, .Mrphs-mainHeader .Mrphs-loginUser li a .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .login-Icon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sitesNav__drop, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__dropdown, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sitesNav__dropdown, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sitesNav__doubledrop, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions #subSites.floating a.Mrphs-toolsNav__menuitem--link.is-invisible:after, #subSites.floating .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions a.Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions #toolMenu ul li .Mrphs-toolsNav__menuitem--link.is-invisible:after, #toolMenu ul li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions #subSites ul li .Mrphs-toolsNav__menuitem--link.is-invisible:after, #subSites ul li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link.is-invisible:after, .floatingToolMenu ul li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a.is-invisible:after, body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions a.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a.has-prerequisite:hover:after, body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions a.has-prerequisite:hover:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link:before, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav__link:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link--directurl, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav__link--directurl, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link--help-popup, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav__link--help-popup, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link--edit, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav__link--edit, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link--reset, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav__link--reset, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .icon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-footerApp--icon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIcon, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIcon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-1, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-1, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-2, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-2, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-3, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-3, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-4, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-4, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-5, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-5, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-6, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-6, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconDraft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconDraft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-1-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-1-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-2-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-2-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-3-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-3-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-4-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-4-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-5-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-5-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-6-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-6-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconWarn, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconWarn, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconPending, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconPending, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconNoService, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconNoService, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor .jstree-icon, .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .jstree-icon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-resources .dropdown-menu .close-button, .Mrphs-sakai-resources .dropdown-menu .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .close-button, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .editItem:hover:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .site-favorite-icon.site-favorite:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .site-favorite-icon.site-nonfavorite:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .site-favorite-icon.site-workspace:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions #ckeditorPreview.modal .sakaipreview-print, #ckeditorPreview.modal .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .sakaipreview-print, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions #ckeditorPreview.modal .sakaipreview-close, #ckeditorPreview.modal .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .sakaipreview-close {
-          color: #212121 !important; }
+          color: #213138 !important; }
       .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa.fa-arrows, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows[class*="icon-sakai--"], .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-mainHeader .Mrphs-loginUser li a .fa-arrows.login-Icon, .Mrphs-mainHeader .Mrphs-loginUser li a .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.login-Icon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header #linkNav ul li.Mrphs-sitesNav__menuitem .fa-arrows.Mrphs-sitesNav__drop, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-sitesNav__drop, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header #linkNav ul li.Mrphs-sitesNav__menuitem .fa-arrows.Mrphs-sitesNav__dropdown, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-sitesNav__dropdown, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-sitesNav__doubledrop, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header #subSites.floating a.fa-arrows.Mrphs-toolsNav__menuitem--link.is-invisible:after, #subSites.floating .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header a.fa-arrows.Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header #toolMenu ul li .fa-arrows.Mrphs-toolsNav__menuitem--link.is-invisible:after, #toolMenu ul li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header #subSites ul li .fa-arrows.Mrphs-toolsNav__menuitem--link.is-invisible:after, #subSites ul li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .floatingToolMenu ul li .fa-arrows.Mrphs-toolsNav__menuitem--link.is-invisible:after, .floatingToolMenu ul li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a.fa-arrows.is-invisible:after, body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header a.fa-arrows.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a.fa-arrows.has-prerequisite:hover:after, body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header a.fa-arrows.has-prerequisite:hover:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-toolTitleNav .fa-arrows.Mrphs-toolTitleNav__link:before, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-toolTitleNav__link:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-toolTitleNav .fa-arrows.Mrphs-toolTitleNav__link--directurl, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-toolTitleNav__link--directurl, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-toolTitleNav .fa-arrows.Mrphs-toolTitleNav__link--help-popup, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-toolTitleNav__link--help-popup, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-toolTitleNav .fa-arrows.Mrphs-toolTitleNav__link--edit, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-toolTitleNav__link--edit, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-toolTitleNav .fa-arrows.Mrphs-toolTitleNav__link--reset, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-toolTitleNav__link--reset, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.icon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-footerApp--icon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIcon, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIcon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-1, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-1, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-2, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-2, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-3, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-3, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-4, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-4, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-5, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-5, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-6, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-6, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconDraft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconDraft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-1-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-1-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-2-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-2-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-3-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-3-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-4-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-4-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-5-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-5-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-6-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-6-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconWarn, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconWarn, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconPending, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconPending, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconNoService, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconNoService, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor .fa-arrows.jstree-icon, .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.jstree-icon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-resources .dropdown-menu .fa-arrows.close-button, .Mrphs-sakai-resources .dropdown-menu .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.close-button, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.editItem:hover:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.site-favorite-icon.site-favorite:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.site-favorite-icon.site-nonfavorite:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.site-favorite-icon.site-workspace:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header #ckeditorPreview.modal .fa-arrows.sakaipreview-print, #ckeditorPreview.modal .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.sakaipreview-print, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header #ckeditorPreview.modal .fa-arrows.sakaipreview-close, #ckeditorPreview.modal .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.sakaipreview-close {
-        color: #212121 !important; }
+        color: #213138 !important; }
       .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .editItemTitle {
         font-weight: bold;
-        color: #265b81;
+        color: #1169BA;
         padding-left: 0;
         margin-left: 0;
         display: inline-block; }
@@ -14991,7 +15013,7 @@ body > .portletBody > #calendarForm {
 .Mrphs-sakai-tagservice .incollection {
   font-size: smaller;
   font-style: italic;
-  color: #3949AB; }
+  color: #003B71; }
 
 .Mrphs-sakai-tagservice .tagservice-section {
   margin: 20px 0 30px; }
@@ -15104,11 +15126,11 @@ html[dir="rtl"] {
   width: 29em;
   min-height: 14em;
   background: #FFFFFF;
-  -webkit-box-shadow: 0 0 5px rgba(33, 33, 33, 0.25);
-          box-shadow: 0 0 5px rgba(33, 33, 33, 0.25); }
+  -webkit-box-shadow: 0 0 5px rgba(33, 49, 56, 0.25);
+          box-shadow: 0 0 5px rgba(33, 49, 56, 0.25); }
   #Mrphs-xlogin .logo, #Mrphs-choice .logo {
-    background: #3949AB url("images/IC-PrimaryWhite.svg") no-repeat center center;
-    background-size: 60px 36px;
+    background: #003B71 url("https://becm.ithaca.edu/wf/images/logo.svg") no-repeat center center;
+    background-size: 216px 36px;
     width: 100%;
     height: 64px;
     margin: 0 auto;
@@ -15117,7 +15139,7 @@ html[dir="rtl"] {
   #Mrphs-xlogin h1, #Mrphs-choice h1 {
     padding: 0.6em;
     font-size: 1.8em;
-    color: #265b81;
+    color: #1169BA;
     text-align: center; }
   #Mrphs-xlogin .alertMessage, #Mrphs-choice .alertMessage {
     background: #f2dede;
@@ -15139,7 +15161,7 @@ html[dir="rtl"] {
     #Mrphs-xlogin fieldset input[type="text"], #Mrphs-choice fieldset input[type="text"], #Mrphs-xlogin fieldset input[type="password"], #Mrphs-choice fieldset input[type="password"] {
       display: inline-block;
       min-width: 56%;
-      border: 1px solid #263172;
+      border: 1px solid #001325;
       padding: 0.3em; }
       @media only screen and (max-width: 800px) {
         #Mrphs-xlogin fieldset input[type="text"], #Mrphs-choice fieldset input[type="text"], #Mrphs-xlogin fieldset input[type="password"], #Mrphs-choice fieldset input[type="password"] {
@@ -15160,8 +15182,8 @@ html[dir="rtl"] {
     background: #f2dede url("images/capsLock.png") no-repeat right; }
   #Mrphs-xlogin.loadedByAjax, .loadedByAjax#Mrphs-choice {
     z-index: 1010;
-    -webkit-box-shadow: 0 0 15px rgba(33, 33, 33, 0.25);
-            box-shadow: 0 0 15px rgba(33, 33, 33, 0.25); }
+    -webkit-box-shadow: 0 0 15px rgba(33, 49, 56, 0.25);
+            box-shadow: 0 0 15px rgba(33, 49, 56, 0.25); }
   @media only screen and (max-width: 800px) {
     #Mrphs-xlogin, #Mrphs-choice {
       position: absolute;
@@ -15182,7 +15204,7 @@ html[dir="rtl"] {
   padding: 0.6em;
   font-size: 1.4em;
   font-weight: 700;
-  color: #265b81;
+  color: #1169BA;
   text-align: center; }
 
 #Mrphs-choice .link {
@@ -15227,7 +15249,7 @@ html[dir="rtl"] {
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
   font-size: 14px;
-  color: #212121;
+  color: #213138;
   background-color: #FAFAFA;
   -webkit-box-shadow: 5px 0 50px 0px rgba(0, 0, 0, 0.5);
           box-shadow: 5px 0 50px 0px rgba(0, 0, 0, 0.5);
@@ -15285,7 +15307,7 @@ html[dir="rtl"] {
     border-radius: 4px; }
     #quickLinks .Mrphs-quickLinksNav__subnav .Mrphs-quickLinksNav__submenuitem a {
       display: inline-block;
-      color: #212121;
+      color: #213138;
       font-family: "Open Sans", sans-serif;
       font-size: 0.9em;
       font-weight: 700;
@@ -15455,10 +15477,10 @@ body.active-more-sites {
 
 #selectSite .tab-bar .tab-btn.active, #selectQuickLink .tab-bar .tab-btn.active {
   cursor: default;
-  color: #15597e;
+  color: #1169BA;
   background: #FFFFFF; }
   #selectSite .tab-bar .tab-btn.active:before, #selectQuickLink .tab-bar .tab-btn.active:before {
-    border-top: 4px solid #15597e;
+    border-top: 4px solid #1169BA;
     content: '';
     display: block;
     position: absolute;
@@ -15475,7 +15497,7 @@ body.active-more-sites {
     bottom: -1px; }
 
 #selectSite .tab-bar .tab-btn.tab-disabled, #selectQuickLink .tab-bar .tab-btn.tab-disabled {
-  color: #a1a1a1; }
+  color: #97b4c1; }
 
 #selectSite .tab-bar .tab-btn.tab-disabled:hover, #selectQuickLink .tab-bar .tab-btn.tab-disabled:hover {
   cursor: default; }
@@ -15532,7 +15554,7 @@ ul#otherSitesMenu {
     display: inline-block;
     font-size: 1.5em; }
     ul#otherSitesMenu li.otherSitesMenuClose a {
-      color: #666666; }
+      color: #3A5A79; }
       ul#otherSitesMenu li.otherSitesMenuClose a:hover {
         color: #4C4C4C; }
     @media only screen and (max-width: 800px) {
@@ -15605,12 +15627,12 @@ ul.favoriteSiteList,
       ul.otherSitesCategorList li .site-favorite-btn .site-favorite,
       ul.favoriteSiteList li .site-favorite-btn .site-favorite,
       #selectQuickLink li .site-favorite-btn .site-favorite {
-        color: #F49D09; }
+        color: #FFBB00; }
     ul.otherSitesCategorList li .toolMenus,
     ul.favoriteSiteList li .toolMenus,
     #selectQuickLink li .toolMenus {
       display: inline-block;
-      color: #666666;
+      color: #3A5A79;
       padding: 0 1em 0 0;
       height: 30px;
       line-height: 30px; }
@@ -15628,7 +15650,7 @@ ul.favoriteSiteList,
       font-size: 13px;
       font-weight: medium;
       background: #FFFFFF;
-      border-color: #7F7F7F;
+      border-color: #1169ba;
       border-radius: 3px; }
       ul.otherSitesCategorList li.is-selected .toolMenus,
       ul.favoriteSiteList li.is-selected .toolMenus,
@@ -15649,7 +15671,7 @@ ul.favoriteSiteList,
       font-size: 13px;
       font-weight: normal;
       background: #ECECEC;
-      border: 1px solid #7F7F7F; }
+      border: 1px solid #1169ba; }
       ul.otherSitesCategorList li:hover .toolMenus,
       ul.favoriteSiteList li:hover .toolMenus,
       #selectQuickLink li:hover .toolMenus {
@@ -15671,7 +15693,7 @@ ul.favoriteSiteList,
       text-align: left;
       margin-bottom: 1em; } }
   #otherSiteSearch label {
-    color: #212121; }
+    color: #213138; }
   #otherSiteSearch #txtSearch {
     width: 18em;
     min-height: 2em;
@@ -15718,17 +15740,17 @@ ul#otherSiteTools {
       border-left: 4px solid transparent; }
       ul#otherSiteTools li a .otherSiteToolIcon {
         display: inline-block;
-        color: #666666; }
+        color: #3A5A79; }
       ul#otherSiteTools li a:hover {
         background: #ECECEC;
         color: #191919;
-        border-left: 4px solid #7F7F7F; }
+        border-left: 4px solid #FFBB00; }
         ul#otherSiteTools li a:hover .otherSiteToolIcon {
           color: #424242; }
     ul#otherSiteTools li.gotosite {
       border-top: 1px solid #E5E5E5; }
       ul#otherSiteTools li.gotosite a:after {
-        color: #666666;
+        color: #3A5A79;
         font-family: FontAwesome;
         content: '\f178';
         margin-left: 10px; }
@@ -15857,9 +15879,9 @@ li.organizeFavorites:not(.active) .favoriteCountAndWarning.maxFavoritesReached {
   display: none; }
 
 #organizeFavoritesPurgatoryList a {
-  color: #2c3985; }
+  color: #00203e; }
   #organizeFavoritesPurgatoryList a .fullTitle {
-    color: #2c3985; }
+    color: #00203e; }
 
 .site-favorite-icon.site-favorite:before {
   color: #F49D08; }
@@ -15886,7 +15908,7 @@ li.organizeFavorites:not(.active) .favoriteCountAndWarning.maxFavoritesReached {
   .favorites-select-all-none:hover .site-favorite-icon:before {
     color: #CECECE; }
   .favorites-select-all-none:hover .site-favorite-icon.site-favorite:before {
-    color: #F49D09; }
+    color: #FFBB00; }
   .favorites-select-all-none .site-favorite-icon {
     font-size: 95%;
     top: 0; }
@@ -15936,7 +15958,7 @@ li.organizeFavorites:not(.active) .favoriteCountAndWarning.maxFavoritesReached {
   width: 28%;
   padding-left: 1em; }
   #favorite-settings-pane button {
-    color: #212121 !important;
+    color: #213138 !important;
     background: #FFFFFF;
     border-color: #326B97;
     border-radius: 3px;
@@ -15985,7 +16007,7 @@ li.organizeFavorites:not(.active) .favoriteCountAndWarning.maxFavoritesReached {
   position: fixed;
   bottom: 0;
   width: 100%;
-  background-color: #265b81;
+  background-color: #1169BA;
   color: #FFFFFF;
   z-index: 50; }
   #cookie-notice .cookie-notice-content {
@@ -15993,7 +16015,7 @@ li.organizeFavorites:not(.active) .favoriteCountAndWarning.maxFavoritesReached {
     margin: 1em auto;
     padding: 0.5em; }
   #cookie-notice a {
-    color: #3949AB; }
+    color: #003B71; }
   #cookie-notice .cookie-notice-text {
     display: inline; }
   #cookie-notice #cookie-notice-close {
@@ -16033,7 +16055,7 @@ li.organizeFavorites:not(.active) .favoriteCountAndWarning.maxFavoritesReached {
     padding: 1em;
     border: 4px solid #d36f00;
     border-top: 0 none;
-    color: #212121; }
+    color: #213138; }
     .sakai-tutorial.qtip .qtip-content .no-wrap {
       white-space: nowrap; }
   .sakai-tutorial.qtip .tut-icon-home, .sakai-tutorial.qtip .tut-icon-sites, .sakai-tutorial.qtip .tut-icon-toggle, .sakai-tutorial.qtip .tut-icon-help {
@@ -16204,8 +16226,8 @@ ul.styled-reorder-list {
 
 .portal-bullhorns.qtip {
   border: 0 none;
-  -webkit-box-shadow: 0 0 4px rgba(33, 33, 33, 0.35);
-          box-shadow: 0 0 4px rgba(33, 33, 33, 0.35);
+  -webkit-box-shadow: 0 0 4px rgba(33, 49, 56, 0.35);
+          box-shadow: 0 0 4px rgba(33, 49, 56, 0.35);
   background-color: #FAFAFA;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
@@ -16215,7 +16237,7 @@ ul.styled-reorder-list {
   .portal-bullhorns.qtip .qtip-content {
     background-color: #FAFAFA;
     padding: 0;
-    color: #212121; }
+    color: #213138; }
 
 .portal-bullhorn-social-alerts, .portal-bullhorn-academic-alerts {
   padding-bottom: 5px; }
@@ -16321,7 +16343,7 @@ ul.styled-reorder-list {
     padding: 0; }
     #connection-manager #connection-manager-navbar li > span.current a {
       background-color: #FFFFFF !important;
-      color: #15597e !important;
+      color: #1169BA !important;
       pointer-events: none; }
 
 #connection-manager #connection-manager-connectionsview-searchbox-wrapper {
@@ -16660,11 +16682,11 @@ ul.styled-reorder-list {
   .Mrphs-joinpage h1 {
     padding: 0.6em;
     font-size: 1.8em;
-    color: #265b81;
+    color: #1169BA;
     text-align: center; }
   .Mrphs-joinpage .logo {
-    background: #3949AB url("images/IC-PrimaryWhite.svg") no-repeat center center;
-    background-size: 60px 36px;
+    background: #003B71 url("https://becm.ithaca.edu/wf/images/logo.svg") no-repeat center center;
+    background-size: 216px 36px;
     width: 100%;
     height: calc(36px * 2);
     margin: 0 auto;
