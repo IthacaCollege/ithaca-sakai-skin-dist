@@ -253,7 +253,7 @@
     color: #191919 !important;
     text-decoration: none;
     background: #FAFAFA;
-    border-color: #1169ba; }
+    border-color: #7F7F7F; }
     .button:hover:before, button.ui-state-default:hover:before, .btn.btn-default:hover:before {
       color: #424242; }
   .button:active, button.ui-state-default:active, .btn.btn-default:active {
@@ -261,7 +261,7 @@
     color: #191919 !important;
     text-decoration: none;
     background: #FAFAFA;
-    border-color: #1169ba; }
+    border-color: #7F7F7F; }
   .button[disabled="disabled"], .button[disabled], .button[disabled="true"], button.ui-state-default[disabled="disabled"], button.ui-state-default[disabled], button.ui-state-default[disabled="true"], .btn.btn-default[disabled="disabled"], .btn.btn-default[disabled], .btn.btn-default[disabled="true"] {
     background: #FAFAFA;
     color: #404040;
@@ -292,7 +292,7 @@
     color: #191919 !important;
     text-decoration: none;
     background: #FAFAFA;
-    border-color: #1169ba; }
+    border-color: #7F7F7F; }
     .button.link:hover:before, a.btn-link:hover:before, button.btn-link:hover:before {
       color: #424242; }
   .button.link:active, a.btn-link:active, button.btn-link:active {
@@ -300,7 +300,7 @@
     color: #191919 !important;
     text-decoration: none;
     background: #FAFAFA;
-    border-color: #1169ba; }
+    border-color: #7F7F7F; }
   .button.link[disabled="disabled"], .button.link[disabled], .button.link[disabled="true"], a.btn-link[disabled="disabled"], a.btn-link[disabled], a.btn-link[disabled="true"], button.btn-link[disabled="disabled"], button.btn-link[disabled], button.btn-link[disabled="true"] {
     background: #FAFAFA;
     color: #404040;

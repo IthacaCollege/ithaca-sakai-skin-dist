@@ -6287,7 +6287,7 @@ button.close {
     color: #191919 !important;
     text-decoration: none;
     background: #FAFAFA;
-    border-color: #1169ba; }
+    border-color: #7F7F7F; }
     .button:hover:before, #mastLogin #loginForm .Mrphs-loginForm__button:hover:before, .Mrphs-siteStatus.is-unpublished button:hover:before, .Mrphs-sakai-schedule .viewLinkControl:hover:before, .lessonsToolButton:hover:before, .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a[role="button"]:hover:before, .Mrphs-sakai-message-bundle-manager .dataTables_export a:hover:before, ul#otherSitesMenu li:not(.otherSitesMenuClose) a:hover:before, #cookie-notice #cookie-notice-close:hover:before, button.ui-state-default:hover:before, .btn.btn-default:hover:before {
       color: #424242; }
   .button:active, #mastLogin #loginForm .Mrphs-loginForm__button:active, .Mrphs-siteStatus.is-unpublished button:active, .Mrphs-sakai-schedule .viewLinkControl:active, .lessonsToolButton:active, .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a:active[role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a:active, ul#otherSitesMenu li:not(.otherSitesMenuClose) a:active, #cookie-notice #cookie-notice-close:active, button.ui-state-default:active, .btn.btn-default:active {
@@ -6295,7 +6295,7 @@ button.close {
     color: #191919 !important;
     text-decoration: none;
     background: #FAFAFA;
-    border-color: #1169ba; }
+    border-color: #7F7F7F; }
   .button[disabled="disabled"], #mastLogin #loginForm .Mrphs-loginForm__button[disabled="disabled"], .Mrphs-siteStatus.is-unpublished button[disabled="disabled"], .Mrphs-sakai-schedule .viewLinkControl[disabled="disabled"], .lessonsToolButton[disabled="disabled"], .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a[disabled="disabled"][role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a[disabled="disabled"], ul#otherSitesMenu li:not(.otherSitesMenuClose) a[disabled="disabled"], #cookie-notice #cookie-notice-close[disabled="disabled"], .button[disabled], #mastLogin #loginForm .Mrphs-loginForm__button[disabled], .Mrphs-siteStatus.is-unpublished button[disabled], .Mrphs-sakai-schedule .viewLinkControl[disabled], .lessonsToolButton[disabled], .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a[disabled][role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a[disabled], ul#otherSitesMenu li:not(.otherSitesMenuClose) a[disabled], #cookie-notice #cookie-notice-close[disabled], .button[disabled="true"], #mastLogin #loginForm .Mrphs-loginForm__button[disabled="true"], .Mrphs-siteStatus.is-unpublished button[disabled="true"], .Mrphs-sakai-schedule .viewLinkControl[disabled="true"], .lessonsToolButton[disabled="true"], .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a[disabled="true"][role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a[disabled="true"], ul#otherSitesMenu li:not(.otherSitesMenuClose) a[disabled="true"], #cookie-notice #cookie-notice-close[disabled="true"], button.ui-state-default[disabled="disabled"], button.ui-state-default[disabled], button.ui-state-default[disabled="true"], .btn.btn-default[disabled="disabled"], .btn.btn-default[disabled], .btn.btn-default[disabled="true"] {
     background: #FAFAFA;
     color: #404040;
@@ -6326,7 +6326,7 @@ button.close {
     color: #191919 !important;
     text-decoration: none;
     background: #FAFAFA;
-    border-color: #1169ba; }
+    border-color: #7F7F7F; }
     .button.link:hover:before, #mastLogin #loginForm .link.Mrphs-loginForm__button:hover:before, .Mrphs-siteStatus.is-unpublished button.link:hover:before, .Mrphs-sakai-schedule .link.viewLinkControl:hover:before, .link.lessonsToolButton:hover:before, .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a.link[role="button"]:hover:before, .Mrphs-sakai-message-bundle-manager .dataTables_export a.link:hover:before, ul#otherSitesMenu li:not(.otherSitesMenuClose) a.link:hover:before, #cookie-notice .link#cookie-notice-close:hover:before, a.btn-link:hover:before, button.btn-link:hover:before {
       color: #424242; }
   .button.link:active, #mastLogin #loginForm .link.Mrphs-loginForm__button:active, .Mrphs-siteStatus.is-unpublished button.link:active, .Mrphs-sakai-schedule .link.viewLinkControl:active, .link.lessonsToolButton:active, .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a.link:active[role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a.link:active, ul#otherSitesMenu li:not(.otherSitesMenuClose) a.link:active, #cookie-notice .link#cookie-notice-close:active, a.btn-link:active, button.btn-link:active {
@@ -6334,7 +6334,7 @@ button.close {
     color: #191919 !important;
     text-decoration: none;
     background: #FAFAFA;
-    border-color: #1169ba; }
+    border-color: #7F7F7F; }
   .button.link[disabled="disabled"], #mastLogin #loginForm .link.Mrphs-loginForm__button[disabled="disabled"], .Mrphs-siteStatus.is-unpublished button.link[disabled="disabled"], .Mrphs-sakai-schedule .link.viewLinkControl[disabled="disabled"], .link.lessonsToolButton[disabled="disabled"], .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a.link[disabled="disabled"][role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a.link[disabled="disabled"], ul#otherSitesMenu li:not(.otherSitesMenuClose) a.link[disabled="disabled"], #cookie-notice .link#cookie-notice-close[disabled="disabled"], .button.link[disabled], #mastLogin #loginForm .link.Mrphs-loginForm__button[disabled], .Mrphs-siteStatus.is-unpublished button.link[disabled], .Mrphs-sakai-schedule .link.viewLinkControl[disabled], .link.lessonsToolButton[disabled], .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a.link[disabled][role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a.link[disabled], ul#otherSitesMenu li:not(.otherSitesMenuClose) a.link[disabled], #cookie-notice .link#cookie-notice-close[disabled], .button.link[disabled="true"], #mastLogin #loginForm .link.Mrphs-loginForm__button[disabled="true"], .Mrphs-siteStatus.is-unpublished button.link[disabled="true"], .Mrphs-sakai-schedule .link.viewLinkControl[disabled="true"], .link.lessonsToolButton[disabled="true"], .Mrphs-sakai-message-bundle-manager .dataTables_wrapper table a.link[disabled="true"][role="button"], .Mrphs-sakai-message-bundle-manager .dataTables_export a.link[disabled="true"], ul#otherSitesMenu li:not(.otherSitesMenuClose) a.link[disabled="true"], #cookie-notice .link#cookie-notice-close[disabled="true"], a.btn-link[disabled="disabled"], a.btn-link[disabled], a.btn-link[disabled="true"], button.btn-link[disabled="disabled"], button.btn-link[disabled], button.btn-link[disabled="true"] {
     background: #FAFAFA;
     color: #404040;
@@ -9328,7 +9328,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
     /* Safari 3.1 to 6.0 */
     transition: width 0.5s linear 0s 0s ease 0s; }
     .Mrphs-mainHeader .Mrphs-headerLogo .Mrphs-headerLogo--institution {
-      background: url("../morpheus-master/images/IC-PrimaryWhite.svg") no-repeat center center;
+      background: url("./images/IC-PrimaryWhite.svg") no-repeat center center;
       width: 216px;
       height: 100%;
       float: left;
@@ -9952,7 +9952,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
     border-right: 1px solid #E5E5E5;
     border-bottom: 1px solid #E5E5E5;
     border-left: 1px solid #E5E5E5;
-    background: #F3F6F7;
+    background: #FFFFFF;
     /* hover for sites when tool quick-menu isn't open */ }
     #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container {
       display: -webkit-box;
@@ -9969,7 +9969,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       color: #4C4C4C;
       text-decoration: none; }
       #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.fa, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i[class*="icon-sakai--"], #linkNav ul .Mrphs-mainHeader .Mrphs-loginUser li.Mrphs-sitesNav__menuitem > a.link-container a i.login-Icon, .Mrphs-mainHeader .Mrphs-loginUser #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container a i.login-Icon, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-sitesNav__drop, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-sitesNav__dropdown, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-sitesNav__doubledrop, #linkNav #toolMenu ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, #toolMenu #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, #linkNav #subSites ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, #subSites #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, #linkNav .floatingToolMenu ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, .floatingToolMenu #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolsNav__menuitem--link.is-invisible:after, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-toolTitleNav i.Mrphs-toolTitleNav__link:before, .Mrphs-toolTitleNav #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolTitleNav__link:before, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-toolTitleNav i.Mrphs-toolTitleNav__link--directurl, .Mrphs-toolTitleNav #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolTitleNav__link--directurl, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-toolTitleNav i.Mrphs-toolTitleNav__link--help-popup, .Mrphs-toolTitleNav #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolTitleNav__link--help-popup, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-toolTitleNav i.Mrphs-toolTitleNav__link--edit, .Mrphs-toolTitleNav #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolTitleNav__link--edit, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-toolTitleNav i.Mrphs-toolTitleNav__link--reset, .Mrphs-toolTitleNav #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-toolTitleNav__link--reset, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.icon, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.Mrphs-footerApp--icon, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIcon, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIcon, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-1, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-1, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-2, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-2, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-3, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-3, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-4, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-4, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-5, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-5, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-6, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-6, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconDraft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconDraft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-1-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-1-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-2-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-2-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-3-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-3-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-4-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-4-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-5-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-5-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconThreshold-6-draft, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconThreshold-6-draft, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconWarn, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconWarn, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconPending, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconPending, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-assignment-grades i.contentReviewIconNoService, .Mrphs-sakai-assignment-grades #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.contentReviewIconNoService, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor i.jstree-icon, .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.jstree-icon, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-resources .dropdown-menu i.close-button, .Mrphs-sakai-resources .dropdown-menu #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.close-button, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container .Mrphs-sakai-syllabus i.editItem:hover:before, .Mrphs-sakai-syllabus #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.editItem:hover:before, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.site-favorite-icon.site-favorite:before, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.site-favorite-icon.site-nonfavorite:before, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.site-favorite-icon.site-workspace:before, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container #ckeditorPreview.modal i.sakaipreview-print, #ckeditorPreview.modal #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.sakaipreview-print, #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container #ckeditorPreview.modal i.sakaipreview-close, #ckeditorPreview.modal #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container i.sakaipreview-close {
-        color: #1169BA; }
+        color: #666666; }
     #linkNav ul li.Mrphs-sitesNav__menuitem:not(.dropdown-is-visible) > .link-container:hover,
     #linkNav ul li.Mrphs-sitesNav__menuitem:not(.dropdown-is-visible) > .link-container:active {
       color: #191919; }
@@ -10048,13 +10048,13 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       #ckeditorPreview.modal #linkNav ul li.Mrphs-sitesNav__menuitem:not(.dropdown-is-visible) > .link-container:active i.sakaipreview-close {
         color: #424242; }
     #linkNav ul li.Mrphs-sitesNav__menuitem.dropdown-is-visible, #linkNav ul li.Mrphs-sitesNav__menuitem:hover {
-      border-top: 1px solid #1169ba;
-      border-right: 1px solid #1169ba;
-      border-bottom: 1px solid #1169ba;
-      border-left: 1px solid #1169ba;
-      background: #F3F6F7; }
+      border-top: 1px solid #7F7F7F;
+      border-right: 1px solid #7F7F7F;
+      border-bottom: 1px solid #7F7F7F;
+      border-left: 1px solid #7F7F7F;
+      background: #FFFFFF; }
     #linkNav ul li.Mrphs-sitesNav__menuitem.dropdown-is-visible:after {
-      border-bottom: 1px solid #F3F6F7;
+      border-bottom: 1px solid #FFFFFF;
       content: "";
       width: 100%;
       position: absolute;
@@ -10072,7 +10072,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       -webkit-transform: translate(0%, -50%);
               transform: translate(0%, -50%);
       text-decoration: none;
-      color: #1169BA;
+      color: #666666;
       border: none; }
       #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop.is-clicked, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__dropdown.is-clicked {
         /* IE 9 */
@@ -10083,11 +10083,11 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop:hover, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__dropdown:hover {
         color: #424242; }
     #linkNav ul li.Mrphs-sitesNav__menuitem ul {
-      background: #F3F6F7;
+      background: #FFFFFF;
       display: none;
       font-family: "Open Sans", sans-serif;
       position: absolute;
-      border: 1px solid #1169ba;
+      border: 1px solid #7F7F7F;
       margin-top: 0;
       margin-left: -1px;
       width: 17em;
@@ -10127,11 +10127,11 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       #linkNav ul li.Mrphs-sitesNav__menuitem ul.is-hidden {
         display: none; }
     #linkNav ul li.Mrphs-sitesNav__menuitem.is-selected {
-      background: #FFFFFF;
-      border-top: 1px solid #1169BA;
-      border-right: 1px solid #1169BA;
-      border-bottom: 1px solid #1169BA;
-      border-left: 1px solid #1169BA;
+      background: #1169BA;
+      border-top: 1px solid #326B97;
+      border-right: 1px solid #326B97;
+      border-bottom: 1px solid #326B97;
+      border-left: 1px solid #326B97;
       /* hover for sites when tool quick-menu isn't open */ }
       #linkNav ul li.Mrphs-sitesNav__menuitem.is-selected a.link-container {
         color: #FFFFFF; }
@@ -10221,7 +10221,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
         border-left: 1px solid #326B97;
         background: #1169BA; }
       #linkNav ul li.Mrphs-sitesNav__menuitem.is-selected.dropdown-is-visible:after {
-        border-bottom: 1px solid #FFFFFF;
+        border-bottom: 1px solid #1169BA;
         content: "";
         width: 100%;
         position: absolute;
@@ -10250,7 +10250,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
         color: #1169BA;
         position: relative; }
         #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a .toolMenuIcon {
-          color: #1169BA; }
+          color: #666666; }
         #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a:before {
           border-left: 4px solid #FFFFFF;
           content: '';
@@ -10265,14 +10265,14 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
           #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a:hover .toolMenuIcon, #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a:active .toolMenuIcon {
             color: #424242; }
           #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a:hover:before, #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem a:active:before {
-            border-left-color: #1169ba; }
+            border-left-color: #7F7F7F; }
       #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem.Mrphs-sitesNav__submenuitem__gotosite {
         border-top: 1px solid #E5E5E5; }
         #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem.Mrphs-sitesNav__submenuitem__gotosite > a:after {
           font-family: FontAwesome;
           content: '\f178';
           margin-left: 10px;
-          color: #1169BA; }
+          color: #666666; }
         #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem.Mrphs-sitesNav__submenuitem__gotosite:hover {
           border-top: 1px solid #E5E5E5; }
           #linkNav ul li.Mrphs-sitesNav__menuitem ul.Mrphs-sitesNav__submenu li.Mrphs-sitesNav__submenuitem.Mrphs-sitesNav__submenuitem__gotosite:hover > a:after {
@@ -10624,7 +10624,7 @@ body.is-logged-out .Mrphs-mainHeader.is-maximized ~ #container #toolMenuWrap {
         width: auto;
         border-radius: 0 5px 5px 0;
         line-height: 40px;
-        background: #F3F6F7;
+        background: #FFFFFF;
         border-top: 1px solid #E5E5E5;
         border-right: 1px solid #E5E5E5;
         border-bottom: 1px solid #E5E5E5;
@@ -10807,7 +10807,7 @@ nav#subSites {
       #toolMenu ul li.Mrphs-collapseTools:hover, #toolMenu ul li.Mrphs-collapseTools:focus, #subSites ul li.Mrphs-collapseTools:hover, #subSites ul li.Mrphs-collapseTools:focus, .floatingToolMenu ul li.Mrphs-collapseTools:hover, .floatingToolMenu ul li.Mrphs-collapseTools:focus {
         color: #191919;
         border-top: none;
-        background-color: #F3F6F7;
+        background-color: #FFFFFF;
         -webkit-box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.3);
                 box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.3); }
       #toolMenu ul li.Mrphs-collapseTools.min, #subSites ul li.Mrphs-collapseTools.min, .floatingToolMenu ul li.Mrphs-collapseTools.min {
@@ -10825,7 +10825,7 @@ nav#subSites {
         #toolMenu ul li.Mrphs-collapseTools.min:hover, #toolMenu ul li.Mrphs-collapseTools.min:focus, #subSites ul li.Mrphs-collapseTools.min:hover, #subSites ul li.Mrphs-collapseTools.min:focus, .floatingToolMenu ul li.Mrphs-collapseTools.min:hover, .floatingToolMenu ul li.Mrphs-collapseTools.min:focus {
           color: #191919;
           border-top: none;
-          background-color: #F3F6F7;
+          background-color: #FFFFFF;
           -webkit-box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.3);
                   box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.3); }
       #toolMenu ul li.Mrphs-collapseTools button span.fa-angle-double-left, #subSites ul li.Mrphs-collapseTools button span.fa-angle-double-left, .floatingToolMenu ul li.Mrphs-collapseTools button span.fa-angle-double-left {
@@ -10879,11 +10879,11 @@ nav#subSites {
         left: 0; }
       #toolMenu ul li .Mrphs-toolsNav__menuitem--link:hover, #subSites ul li .Mrphs-toolsNav__menuitem--link:hover, .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link:hover {
         color: #191919;
-        background: #F3F6F7; }
+        background: #FFFFFF; }
         #toolMenu ul li .Mrphs-toolsNav__menuitem--link:hover:before, #subSites ul li .Mrphs-toolsNav__menuitem--link:hover:before, .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link:hover:before {
           border-left: 4px solid #FFBB00; }
         #toolMenu ul li .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, #subSites ul li .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon {
-          color: #424242; }
+          color: #3A5A79; }
       @media only screen and (max-width: 800px) {
         #toolMenu ul li .Mrphs-toolsNav__menuitem--link, #subSites ul li .Mrphs-toolsNav__menuitem--link, .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link {
           border: none;
@@ -10940,7 +10940,7 @@ nav#subSites {
           color: #1169BA;
           background: #FFFFFF; }
           #toolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:hover:before, #subSites ul li.is-current .Mrphs-toolsNav__menuitem--link:hover:before, .floatingToolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:hover:before {
-            border-left: 4px solid #1169BA; }
+            border-left: 4px #1169BA; }
           #toolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, #subSites ul li.is-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, .floatingToolMenu ul li.is-current .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon {
             color: #1169BA; }
         @media only screen and (max-width: 800px) {
@@ -10984,7 +10984,7 @@ body #toolMenu li.has-lessons-sub-pages {
     body #toolMenu li.has-lessons-sub-pages.has-lessons-sub-pages > .Mrphs-toolsNav__menuitem--link.is-current .Mrphs-toolsNav__menuitem--title, body #toolMenu li.has-lessons-sub-pages.has-lessons-sub-pages > .Mrphs-toolsNav__menuitem--link.is-parent-of-current .Mrphs-toolsNav__menuitem--title {
       font-weight: bold !important; }
     body #toolMenu li.has-lessons-sub-pages.has-lessons-sub-pages > .Mrphs-toolsNav__menuitem--link:hover {
-      background-color: #F3F6F7 !important; }
+      background-color: #FFFFFF !important; }
   body #toolMenu li.has-lessons-sub-pages.has-lessons-sub-pages .lessons-top-level-placeholder .lessons-expand-collapse-icon {
     margin-right: 3.5px; }
     body #toolMenu li.has-lessons-sub-pages.has-lessons-sub-pages .lessons-top-level-placeholder .lessons-expand-collapse-icon .Mrphs-toolsNav__menuitem--icon {
@@ -11076,7 +11076,7 @@ body #toolMenu li.has-lessons-sub-pages {
         text-decoration: none; }
         body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a:hover {
           border-left: 4px solid #FFBB00 !important;
-          background-color: #F3F6F7 !important;
+          background-color: #FFFFFF !important;
           color: #191919 !important; }
         body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a.is-invisible {
           color: #9A9A9A !important;
@@ -11115,7 +11115,7 @@ body #toolMenu li.has-lessons-sub-pages {
           margin-right: 0; }
           body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li.is-current a:hover {
             color: #1169BA !important;
-            border-left: 4px solid #1169BA !important;
+            border-left: 4px #1169BA !important;
             background-color: #FFFFFF !important; }
   body #toolMenu li.has-lessons-sub-pages.is-current .lessons-goto-top-page .Mrphs-toolsNav__menuitem--title {
     color: #1169BA !important; }
@@ -11264,7 +11264,7 @@ body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrp
       color: #191919 !important;
       text-decoration: none;
       background: #FAFAFA;
-      border-color: #1169ba; }
+      border-color: #7F7F7F; }
       .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link:hover:before {
         color: #424242; }
     .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link:active {
@@ -11272,7 +11272,7 @@ body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrp
       color: #191919 !important;
       text-decoration: none;
       background: #FAFAFA;
-      border-color: #1169ba; }
+      border-color: #7F7F7F; }
     .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link[disabled="disabled"], .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link[disabled], .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link[disabled="true"] {
       background: #FAFAFA;
       color: #404040;
@@ -15130,7 +15130,7 @@ html[dir="rtl"] {
   -webkit-box-shadow: 0 0 5px rgba(33, 49, 56, 0.25);
           box-shadow: 0 0 5px rgba(33, 49, 56, 0.25); }
   #Mrphs-xlogin .logo, #Mrphs-choice .logo {
-    background: #003B71 url("../morpheus-master/images/IC-PrimaryWhite.svg") no-repeat center center;
+    background: #003B71 url("./images/IC-PrimaryWhite.svg") no-repeat center center;
     background-size: 216px 36px;
     width: 100%;
     height: 64px;
@@ -15555,7 +15555,7 @@ ul#otherSitesMenu {
     display: inline-block;
     font-size: 1.5em; }
     ul#otherSitesMenu li.otherSitesMenuClose a {
-      color: #3A5A79; }
+      color: #666666; }
       ul#otherSitesMenu li.otherSitesMenuClose a:hover {
         color: #4C4C4C; }
     @media only screen and (max-width: 800px) {
@@ -15633,7 +15633,7 @@ ul.favoriteSiteList,
     ul.favoriteSiteList li .toolMenus,
     #selectQuickLink li .toolMenus {
       display: inline-block;
-      color: #3A5A79;
+      color: #666666;
       padding: 0 1em 0 0;
       height: 30px;
       line-height: 30px; }
@@ -15651,7 +15651,7 @@ ul.favoriteSiteList,
       font-size: 13px;
       font-weight: medium;
       background: #FFFFFF;
-      border-color: #1169ba;
+      border-color: #7F7F7F;
       border-radius: 3px; }
       ul.otherSitesCategorList li.is-selected .toolMenus,
       ul.favoriteSiteList li.is-selected .toolMenus,
@@ -15672,7 +15672,7 @@ ul.favoriteSiteList,
       font-size: 13px;
       font-weight: normal;
       background: #ECECEC;
-      border: 1px solid #1169ba; }
+      border: 1px solid #7F7F7F; }
       ul.otherSitesCategorList li:hover .toolMenus,
       ul.favoriteSiteList li:hover .toolMenus,
       #selectQuickLink li:hover .toolMenus {
@@ -15741,17 +15741,17 @@ ul#otherSiteTools {
       border-left: 4px solid transparent; }
       ul#otherSiteTools li a .otherSiteToolIcon {
         display: inline-block;
-        color: #3A5A79; }
+        color: #666666; }
       ul#otherSiteTools li a:hover {
         background: #ECECEC;
         color: #191919;
-        border-left: 4px solid #1169BA; }
+        border-left: 4px solid #ffbb00; }
         ul#otherSiteTools li a:hover .otherSiteToolIcon {
           color: #424242; }
     ul#otherSiteTools li.gotosite {
       border-top: 1px solid #E5E5E5; }
       ul#otherSiteTools li.gotosite a:after {
-        color: #3A5A79;
+        color: #666666;
         font-family: FontAwesome;
         content: '\f178';
         margin-left: 10px; }
@@ -16686,7 +16686,7 @@ ul.styled-reorder-list {
     color: #1169BA;
     text-align: center; }
   .Mrphs-joinpage .logo {
-    background: #003B71 url("../morpheus-master/images/IC-PrimaryWhite.svg") no-repeat center center;
+    background: #003B71 url("./images/IC-PrimaryWhite.svg") no-repeat center center;
     background-size: 216px 36px;
     width: 100%;
     height: calc(36px * 2);
