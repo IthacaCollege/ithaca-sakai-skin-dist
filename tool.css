@@ -7589,7 +7589,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
 .fa-underline:before {
   content: ""; }
 
-.fa-table:before, .icon-sakai--sakai-rubrics:before {
+.fa-table:before, .icon-sakai--sakai-rubrics:before, .icon-sakai--sakai-irubric:before {
   content: ""; }
 
 .fa-magic:before {
