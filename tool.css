@@ -1135,10 +1135,10 @@ textarea {
   line-height: inherit; }
 
 a {
-  color: #3A5A79;
+  color: #213138;
   text-decoration: none; }
   a:hover, a:focus {
-    color: #3A5A79;
+    color: #213138;
     text-decoration: underline; }
   a:focus {
     outline: 5px auto Highlight;
@@ -3231,7 +3231,7 @@ fieldset[disabled] a.btn {
     background-color: #fff; }
 
 .btn-link {
-  color: #3A5A79;
+  color: #213138;
   font-weight: normal;
   border-radius: 0; }
   .btn-link, .btn-link:active, .btn-link.active, .btn-link[disabled],
@@ -3242,7 +3242,7 @@ fieldset[disabled] a.btn {
   .btn-link, .btn-link:hover, .btn-link:focus, .btn-link:active {
     border-color: transparent; }
   .btn-link:hover, .btn-link:focus {
-    color: #3A5A79;
+    color: #213138;
     text-decoration: underline;
     background-color: transparent; }
   .btn-link[disabled]:hover, .btn-link[disabled]:focus,
@@ -3744,7 +3744,7 @@ tbody.collapse.in {
         cursor: not-allowed; }
   .nav .open > a, .Mrphs-sakai-profile2 .tab-row ul .open > a, .nav .open > a:hover, .Mrphs-sakai-profile2 .tab-row ul .open > a:hover, .nav .open > a:focus, .Mrphs-sakai-profile2 .tab-row ul .open > a:focus {
     background-color: #eeeeee;
-    border-color: #3A5A79; }
+    border-color: #213138; }
   .nav .nav-divider, .Mrphs-sakai-profile2 .tab-row ul .nav-divider {
     height: 1px;
     margin: 9px 0;
@@ -3766,7 +3766,7 @@ tbody.collapse.in {
       .nav-tabs > li > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li > a:hover {
         border-color: #cccccc #cccccc #cccccc; }
     .nav-tabs > li.active > a, .Mrphs-sakai-profile2 .tab-row ul > li.active > a, .nav-tabs > li.active > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li.active > a:hover, .nav-tabs > li.active > a:focus, .Mrphs-sakai-profile2 .tab-row ul > li.active > a:focus {
-      color: #3A5A79;
+      color: #213138;
       background-color: #e1e1e1;
       border: 1px solid #FAFAFA;
       border-bottom-color: transparent;
@@ -4281,7 +4281,7 @@ tbody.collapse.in {
       padding: 6px 12px;
       line-height: 1.42857;
       text-decoration: none;
-      color: #3A5A79;
+      color: #213138;
       background-color: #fff;
       border: 1px solid #ddd;
       margin-left: -1px; }
@@ -4298,7 +4298,7 @@ tbody.collapse.in {
   .pagination > li > span:hover,
   .pagination > li > span:focus {
     z-index: 2;
-    color: #3A5A79;
+    color: #213138;
     background-color: #eeeeee;
     border-color: #ddd; }
   .pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus,
@@ -4466,7 +4466,7 @@ a.label:hover, a.label:focus {
     padding: 1px 5px; }
   .list-group-item.active > .badge,
   .nav-pills > .active > a > .badge {
-    color: #3A5A79;
+    color: #213138;
     background-color: #fff; }
   .list-group-item > .badge {
     float: right; }
@@ -4538,7 +4538,7 @@ a.badge:hover, a.badge:focus {
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-  border-color: #3A5A79; }
+  border-color: #213138; }
 
 .alert {
   padding: 15px;
@@ -6121,13 +6121,13 @@ button.close {
   padding: 15px 30px 15px 15px;
   border: 1px solid;
   border-left-width: 5px;
-  border-color: #759abd;
-  border-left-color: #3A5A79;
-  color: #080d12;
-  background-color: #bacdde; }
+  border-color: #507788;
+  border-left-color: #213138;
+  color: black;
+  background-color: #87a9b8; }
   .bs-callout-primary h1, .validationEmbedded h1, .validation h1, .Mrphs-sakai-samigo #samigo-create-new-box h1, .Mrphs-sakai-samigo #samigo-create-import-box h1, .bs-callout-primary h2, .validationEmbedded h2, .validation h2, .Mrphs-sakai-samigo #samigo-create-new-box h2, .Mrphs-sakai-samigo #samigo-create-import-box h2, .bs-callout-primary h3, .validationEmbedded h3, .validation h3, .Mrphs-sakai-samigo #samigo-create-new-box h3, .Mrphs-sakai-samigo #samigo-create-import-box h3, .bs-callout-primary h4, .validationEmbedded h4, .validation h4, .Mrphs-sakai-samigo #samigo-create-new-box h4, .Mrphs-sakai-samigo #samigo-create-import-box h4, .bs-callout-primary h5, .validationEmbedded h5, .validation h5, .Mrphs-sakai-samigo #samigo-create-new-box h5, .Mrphs-sakai-samigo #samigo-create-import-box h5, .bs-callout-primary h6, .validationEmbedded h6, .validation h6, .Mrphs-sakai-samigo #samigo-create-new-box h6, .Mrphs-sakai-samigo #samigo-create-import-box h6, .bs-callout-info h1, .bs-callout-info h2, .bs-callout-info h3, .bs-callout-info h4, .bs-callout-info h5, .bs-callout-info h6, .messageInformation h1, .messageInformation h2, .messageInformation h3, .messageInformation h4, .messageInformation h5, .messageInformation h6, .messageInstruction h1, .messageInstruction h2, .messageInstruction h3, .messageInstruction h4, .messageInstruction h5, .messageInstruction h6, .messageProgress h1, .messageProgress h2, .messageProgress h3, .messageProgress h4, .messageProgress h5, .messageProgress h6 {
     margin-top: 0;
-    color: #3A5A79; }
+    color: #213138; }
   .bs-callout-primary p:last-child, .validationEmbedded p:last-child, .validation p:last-child, .Mrphs-sakai-samigo #samigo-create-new-box p:last-child, .Mrphs-sakai-samigo #samigo-create-import-box p:last-child, .bs-callout-info p:last-child, .messageInformation p:last-child, .messageInstruction p:last-child, .messageProgress p:last-child {
     margin-bottom: 0; }
   .bs-callout-primary code, .validationEmbedded code, .validation code, .Mrphs-sakai-samigo #samigo-create-new-box code, .Mrphs-sakai-samigo #samigo-create-import-box code, .bs-callout-primary .highlight, .validationEmbedded .highlight, .validation .highlight, .Mrphs-sakai-samigo #samigo-create-new-box .highlight, .Mrphs-sakai-samigo #samigo-create-import-box .highlight, .bs-callout-info code, .bs-callout-info .highlight, .messageInformation code, .messageInformation .highlight, .messageInstruction code, .messageInstruction .highlight, .messageProgress code, .messageProgress .highlight {
@@ -6213,10 +6213,10 @@ button.close {
     border-left: 1px solid #ddd;
     border-right: 1px solid #ddd;
     border-bottom: 1px solid #FFFFFF !important;
-    color: #3A5A79; }
+    color: #213138; }
     .nav.nav-tabs > li.active > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li.active > a:hover, .nav.nav-tabs > li.selected > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li.selected > a:hover, .nav.nav-tabs > li.activeTab > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li.activeTab > a:hover, .sakai_tabs > li.active > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li.active > a:hover, .sakai_tabs > li.selected > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li.selected > a:hover, .sakai_tabs > li.activeTab > a:hover, .Mrphs-sakai-profile2 .tab-row ul > li.activeTab > a:hover {
       background: #FFFFFF;
-      color: #3A5A79; }
+      color: #213138; }
   .nav.nav-tabs > li > a, .Mrphs-sakai-profile2 .tab-row ul > li > a, .sakai_tabs > li > a, .Mrphs-sakai-profile2 .tab-row ul > li > a {
     background: #FAFAFA;
     border: 1px solid #ddd !important;
@@ -6511,16 +6511,16 @@ a {
     color: #213138;
     text-decoration: none; }
   a[href] {
-    color: #3A5A79;
+    color: #213138;
     text-decoration: underline; }
     a[href]:focus, a[href]::-moz-focus-inner {
       outline-color: invert; }
     a[href]:hover {
-      color: #3A5A79;
+      color: #213138;
       background-color: transparent;
       text-decoration: underline; }
     a[href]:active {
-      color: #3A5A79;
+      color: #213138;
       background-color: transparent; }
     a[href].btn {
       text-decoration: none; }
@@ -6788,7 +6788,7 @@ span.marker {
   body.toolsNav--displayed #portalMask {
     background: transparent; }
   body.sitesNav--displayed .Mrphs-mainHeader.is-maximized .siteNavWrap {
-    background: #3A5A79;
+    background: #213138;
     margin-top: -3em;
     min-height: 100%;
     padding-top: 3em;
@@ -6812,10 +6812,10 @@ span.marker {
         background: #002e58;
         border-right: 0px none; }
       body.sitesNav--displayed #linkNav ul li.Mrphs-sitesNav__menuitem.Mrphs-sitesNav__menuitem--myworkspace {
-        background: #3A5A79;
+        background: #213138;
         margin: 0 0 0 0; }
         body.sitesNav--displayed #linkNav ul li.Mrphs-sitesNav__menuitem.Mrphs-sitesNav__menuitem--myworkspace a {
-          background: #3A5A79; }
+          background: #213138; }
     body.sitesNav--displayed #linkNav ul.Mrphs-sitesNav__menu {
       margin: 1em 0.8em 0 1.2em; }
   body.sitesNav--displayed .Mrphs-mainHeader .Mrphs-headerLogo {
@@ -9375,7 +9375,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
     overflow: visible; }
   @media only screen and (max-width: 800px) {
     .Mrphs-mainHeader {
-      background: #3A5A79;
+      background: #213138;
       position: fixed;
       top: 0;
       width: 100%;
@@ -9413,11 +9413,11 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       display: block;
       padding: 0.65em;
       text-decoration: none;
-      color: #33506b;
+      color: #19262b;
       line-height: 1em; }
       .userNav__subnav li a:focus, #mastLogin #loginLinks ul li a:focus, .userNav__subnav li a:hover, #mastLogin #loginLinks ul li a:hover, .userNav__subnav li a:active, #mastLogin #loginLinks ul li a:active {
         text-decoration: underline;
-        color: #33506b; }
+        color: #19262b; }
       .userNav__subnav li a .toolMenuIcon, #mastLogin #loginLinks ul li a .toolMenuIcon {
         vertical-align: sub;
         margin: 0 0.5em 0 0; }
@@ -9582,7 +9582,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
         text-decoration: none; }
         @media only screen and (max-width: 800px) {
           .Mrphs-topHeader .Mrphs-loginNav #roleSwitch #roleSwitchAnchor {
-            color: #3A5A79; } }
+            color: #213138; } }
         @media only screen and (min-width: 801px) {
           .Mrphs-topHeader .Mrphs-loginNav #roleSwitch #roleSwitchAnchor {
             color: #fff;
@@ -9853,10 +9853,10 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
         font-weight: 400;
         padding: 0.7em 0.65em; } }
     #mastLogin #loginLinks ul a {
-      color: #3A5A79;
+      color: #213138;
       padding: 0.25em 0.25em; }
       #mastLogin #loginLinks ul a:hover, #mastLogin #loginLinks ul a:active {
-        color: #4b749b; }
+        color: #344d58; }
   #mastLogin #loginLinks .Mrphs-userNav__drop-btn i {
     position: relative;
     top: -0.6em;
@@ -10408,7 +10408,7 @@ body.is-logged-out #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop
   padding: 0 0 0 0; }
   @media only screen and (min-width: 1031px) {
     .Mrphs-skipNav__menu a:focus {
-      background-color: #3A5A79;
+      background-color: #213138;
       border: 1px solid #FFFFFF;
       color: #FFFFFF;
       display: block !important;
@@ -10477,7 +10477,7 @@ body.is-logged-out #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop
               top: 10%;
               border-right: 1px solid #E5E5E5; }
           .Mrphs-skipNav__menu li.Mrphs-skipNav__menuitem.Mrphs-skipNav__menuitem--tools a.Mrphs-skipNav--toolName {
-            color: #3A5A79; }
+            color: #213138; }
             .Mrphs-skipNav__menu li.Mrphs-skipNav__menuitem.Mrphs-skipNav__menuitem--tools a.Mrphs-skipNav--toolName::after {
               border-right: 0px none; }
         .Mrphs-skipNav__menu li.Mrphs-skipNav__menuitem--content, .Mrphs-skipNav__menu li.Mrphs-skipNav__menuitem--accessibility {
@@ -10659,7 +10659,7 @@ body.is-logged-out .Mrphs-mainHeader.is-maximized ~ #container #toolMenuWrap {
     body.Mrphs-toolMenu-collapsed #toolMenu.floating ul li a.is-invisible .Mrphs-toolsNav__menuitem--title, body.Mrphs-toolMenu-collapsed #subSites.floating ul li a.is-invisible .Mrphs-toolsNav__menuitem--title, body.Mrphs-toolMenu-collapsed .floatingToolMenu.floating ul li a.is-invisible .Mrphs-toolsNav__menuitem--title {
       display: block; }
     body.Mrphs-toolMenu-collapsed #toolMenu.floating ul li a.is-invisible:hover, body.Mrphs-toolMenu-collapsed #subSites.floating ul li a.is-invisible:hover, body.Mrphs-toolMenu-collapsed .floatingToolMenu.floating ul li a.is-invisible:hover {
-      background: #3A5A79; }
+      background: #213138; }
       body.Mrphs-toolMenu-collapsed #toolMenu.floating ul li a.is-invisible:hover .Mrphs-toolsNav__menuitem--title, body.Mrphs-toolMenu-collapsed #subSites.floating ul li a.is-invisible:hover .Mrphs-toolsNav__menuitem--title, body.Mrphs-toolMenu-collapsed .floatingToolMenu.floating ul li a.is-invisible:hover .Mrphs-toolsNav__menuitem--title {
         position: relative;
         float: none;
@@ -10714,7 +10714,7 @@ body.is-logged-out .Mrphs-mainHeader.is-maximized ~ #container #toolMenuWrap {
   @media only screen and (max-width: 800px) {
     .Mrphs-toolsNav__title--current-site {
       color: #FFFFFF;
-      background: #294057;
+      background: #0e1518;
       display: block;
       font-size: 1.1em;
       width: 100%;
@@ -10955,14 +10955,14 @@ nav#subSites {
           padding: 0.6em 0 0.6em 0em;
           background: #e1e1e1; }
           #toolMenu ul li .Mrphs-toolsNav__subnav li a:hover, #subSites ul li .Mrphs-toolsNav__subnav li a:hover, .floatingToolMenu ul li .Mrphs-toolsNav__subnav li a:hover {
-            background: #3A5A79;
+            background: #213138;
             color: #FFF; }
           @media only screen and (max-width: 800px) {
             #toolMenu ul li .Mrphs-toolsNav__subnav li a, #subSites ul li .Mrphs-toolsNav__subnav li a, .floatingToolMenu ul li .Mrphs-toolsNav__subnav li a {
               padding: 0.6em 0.6em; } }
         #toolMenu ul li .Mrphs-toolsNav__subnav li.is-current a, #subSites ul li .Mrphs-toolsNav__subnav li.is-current a, .floatingToolMenu ul li .Mrphs-toolsNav__subnav li.is-current a {
           background: #FFFFFF;
-          color: #3A5A79; }
+          color: #213138; }
           #toolMenu ul li .Mrphs-toolsNav__subnav li.is-current a .Mrphs-toolsNav__menuitem--title, #subSites ul li .Mrphs-toolsNav__subnav li.is-current a .Mrphs-toolsNav__menuitem--title, .floatingToolMenu ul li .Mrphs-toolsNav__subnav li.is-current a .Mrphs-toolsNav__menuitem--title {
             font-weight: 700; }
           #toolMenu ul li .Mrphs-toolsNav__subnav li.is-current a:hover, #subSites ul li .Mrphs-toolsNav__subnav li.is-current a:hover, .floatingToolMenu ul li .Mrphs-toolsNav__subnav li.is-current a:hover {
@@ -11762,7 +11762,7 @@ table.listHier {
                 .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .chatListWrapper .chatListMonitor .chatList li.divisorNewMessages:not(.hide) + li {
                   border-top: 0; }
                 .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .chatListWrapper .chatListMonitor .chatList li.divisorNewMessages:not(.hide) .newMessages {
-                  background: #3A5A79;
+                  background: #213138;
                   border-radius: 50px;
                   padding: 2px 7px;
                   font-size: 10px;
@@ -11832,7 +11832,7 @@ table.listHier {
                   top: 0;
                   right: 8px;
                   cursor: pointer;
-                  color: #3A5A79; }
+                  color: #213138; }
       .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .scrollBottom {
         position: absolute;
         bottom: 0;
@@ -11851,7 +11851,7 @@ table.listHier {
         .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .scrollBottom .newMessages {
           position: absolute;
           top: -10px;
-          background: #3A5A79;
+          background: #213138;
           border-radius: 50px;
           padding: 2px 7px;
           font-size: 10px;
@@ -14072,12 +14072,12 @@ div#calendarEventDialog .eventAttachmentList {
   margin-right: 1em; }
 
 .Mrphs-sakai-samigo .toolTipLink {
-  color: #3A5A79;
+  color: #213138;
   background-color: transparent;
   text-decoration: underline;
   cursor: pointer; }
   .Mrphs-sakai-samigo .toolTipLink:hover {
-    color: #3A5A79;
+    color: #213138;
     background-color: transparent;
     text-decoration: underline; }
 
@@ -14169,7 +14169,7 @@ div#calendarEventDialog .eventAttachmentList {
   .Mrphs-sakai-resources .jstree-anchor:hover {
     text-decoration: none !important; }
   .Mrphs-sakai-resources #spinner {
-    color: #3A5A79;
+    color: #213138;
     width: 100%;
     height: 128px;
     position: absolute;
@@ -14256,7 +14256,7 @@ div#calendarEventDialog .eventAttachmentList {
     top: 150px !important; }
   .Mrphs-sakai-resources .fa, .Mrphs-sakai-resources [class*="icon-sakai--"], .Mrphs-sakai-resources .Mrphs-mainHeader .Mrphs-loginUser li a .login-Icon, .Mrphs-mainHeader .Mrphs-loginUser li a .Mrphs-sakai-resources .login-Icon, .Mrphs-sakai-resources #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sakai-resources .Mrphs-sitesNav__drop, .Mrphs-sakai-resources #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__dropdown, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sakai-resources .Mrphs-sitesNav__dropdown, .Mrphs-sakai-resources .Mrphs-sitesNav__doubledrop, .Mrphs-sakai-resources #subSites.floating a.Mrphs-toolsNav__menuitem--link.is-invisible:after, #subSites.floating .Mrphs-sakai-resources a.Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-resources #toolMenu ul li .Mrphs-toolsNav__menuitem--link.is-invisible:after, #toolMenu ul li .Mrphs-sakai-resources .Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-resources #subSites ul li .Mrphs-toolsNav__menuitem--link.is-invisible:after, #subSites ul li .Mrphs-sakai-resources .Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-resources .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link.is-invisible:after, .floatingToolMenu ul li .Mrphs-sakai-resources .Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-resources body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a.is-invisible:after, body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li .Mrphs-sakai-resources a.is-invisible:after, .Mrphs-sakai-resources body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a.has-prerequisite:hover:after, body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li .Mrphs-sakai-resources a.has-prerequisite:hover:after, .Mrphs-sakai-resources .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link:before, .Mrphs-toolTitleNav .Mrphs-sakai-resources .Mrphs-toolTitleNav__link:before, .Mrphs-sakai-resources .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link--directurl, .Mrphs-toolTitleNav .Mrphs-sakai-resources .Mrphs-toolTitleNav__link--directurl, .Mrphs-sakai-resources .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link--help-popup, .Mrphs-toolTitleNav .Mrphs-sakai-resources .Mrphs-toolTitleNav__link--help-popup, .Mrphs-sakai-resources .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link--edit, .Mrphs-toolTitleNav .Mrphs-sakai-resources .Mrphs-toolTitleNav__link--edit, .Mrphs-sakai-resources .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link--reset, .Mrphs-toolTitleNav .Mrphs-sakai-resources .Mrphs-toolTitleNav__link--reset, .Mrphs-sakai-resources .icon, .Mrphs-sakai-resources .Mrphs-footerApp--icon, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIcon, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIcon, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-1, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-1, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-2, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-2, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-3, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-3, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-4, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-4, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-5, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-5, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-6, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-6, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconDraft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconDraft, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-1-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-1-draft, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-2-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-2-draft, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-3-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-3-draft, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-4-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-4-draft, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-5-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-5-draft, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-6-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconThreshold-6-draft, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconWarn, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconWarn, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconPending, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconPending, .Mrphs-sakai-resources .Mrphs-sakai-assignment-grades .contentReviewIconNoService, .Mrphs-sakai-assignment-grades .Mrphs-sakai-resources .contentReviewIconNoService, .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor .jstree-icon, .Mrphs-sakai-resources .dropdown-menu .close-button, .Mrphs-sakai-resources .Mrphs-sakai-syllabus .editItem:hover:before, .Mrphs-sakai-syllabus .Mrphs-sakai-resources .editItem:hover:before, .Mrphs-sakai-resources .site-favorite-icon.site-favorite:before, .Mrphs-sakai-resources .site-favorite-icon.site-nonfavorite:before, .Mrphs-sakai-resources .site-favorite-icon.site-workspace:before, .Mrphs-sakai-resources #ckeditorPreview.modal .sakaipreview-print, #ckeditorPreview.modal .Mrphs-sakai-resources .sakaipreview-print, .Mrphs-sakai-resources #ckeditorPreview.modal .sakaipreview-close, #ckeditorPreview.modal .Mrphs-sakai-resources .sakaipreview-close {
     display: inline;
-    color: #3A5A79;
+    color: #213138;
     text-decoration: none; }
   .Mrphs-sakai-resources a.nil.fa-folder {
     position: static; }
@@ -14793,7 +14793,7 @@ body > .portletBody > #calendarForm {
     position: relative;
     cursor: pointer; }
     .Mrphs-sakai-syllabus .editItem:hover:before {
-      color: #3A5A79;
+      color: #213138;
       position: absolute;
       right: 0; }
     .Mrphs-sakai-syllabus .editItem:hover.bodyInput:before {
@@ -14852,7 +14852,7 @@ body > .portletBody > #calendarForm {
         color: #213138 !important; }
       .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .editItemTitle {
         font-weight: bold;
-        color: #3A5A79;
+        color: #213138;
         padding-left: 0;
         margin-left: 0;
         display: inline-block; }
@@ -15141,7 +15141,7 @@ html[dir="rtl"] {
   #Mrphs-xlogin h1, #Mrphs-choice h1 {
     padding: 0.6em;
     font-size: 1.8em;
-    color: #3A5A79;
+    color: #213138;
     text-align: center; }
   #Mrphs-xlogin .alertMessage, #Mrphs-choice .alertMessage {
     background: #f2dede;
@@ -15206,7 +15206,7 @@ html[dir="rtl"] {
   padding: 0.6em;
   font-size: 1.4em;
   font-weight: 700;
-  color: #3A5A79;
+  color: #213138;
   text-align: center; }
 
 #Mrphs-choice .link {
@@ -16009,7 +16009,7 @@ li.organizeFavorites:not(.active) .favoriteCountAndWarning.maxFavoritesReached {
   position: fixed;
   bottom: 0;
   width: 100%;
-  background-color: #3A5A79;
+  background-color: #213138;
   color: #FFFFFF;
   z-index: 50; }
   #cookie-notice .cookie-notice-content {
@@ -16684,7 +16684,7 @@ ul.styled-reorder-list {
   .Mrphs-joinpage h1 {
     padding: 0.6em;
     font-size: 1.8em;
-    color: #3A5A79;
+    color: #213138;
     text-align: center; }
   .Mrphs-joinpage .logo {
     background: #003B71 url("https://becm.ithaca.edu/wf/images/logo.svg") no-repeat center center;
