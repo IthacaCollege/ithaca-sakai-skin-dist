@@ -9952,7 +9952,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
     border-right: 1px solid #E5E5E5;
     border-bottom: 1px solid #E5E5E5;
     border-left: 1px solid #E5E5E5;
-    background: #1169BA;
+    background: #FFFFFF;
     /* hover for sites when tool quick-menu isn't open */ }
     #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container {
       display: -webkit-box;
@@ -10054,7 +10054,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       border-left: 1px solid #7F7F7F;
       background: #FFFFFF; }
     #linkNav ul li.Mrphs-sitesNav__menuitem.dropdown-is-visible:after {
-      border-bottom: 1px solid #1169BA;
+      border-bottom: 1px solid #FFFFFF;
       content: "";
       width: 100%;
       position: absolute;
@@ -10083,7 +10083,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop:hover, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__dropdown:hover {
         color: #424242; }
     #linkNav ul li.Mrphs-sitesNav__menuitem ul {
-      background: #1169BA;
+      background: #FFFFFF;
       display: none;
       font-family: "Open Sans", sans-serif;
       position: absolute;
