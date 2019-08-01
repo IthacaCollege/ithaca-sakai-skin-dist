@@ -9938,9 +9938,9 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
     padding: 0;
     position: relative;
     border-top: 4px solid #e5e5e5;
-    border-right: #e5e5e5;
-    border-bottom: #e5e5e5;
-    border-left: #e5e5e5;
+    border-right: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    border-left: 1px solid #e5e5e5;
     background: #FFFFFF;
     /* hover for sites when tool quick-menu isn't open */ }
     #linkNav ul li.Mrphs-sitesNav__menuitem > a.link-container {
@@ -10038,9 +10038,9 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
         color: #1169BA; }
     #linkNav ul li.Mrphs-sitesNav__menuitem.dropdown-is-visible, #linkNav ul li.Mrphs-sitesNav__menuitem:hover {
       border-top: 4px solid #FFBB00;
-      border-right: #e5e5e5;
-      border-bottom: #e5e5e5;
-      border-left: #e5e5e5;
+      border-right: 1px solid #e5e5e5;
+      border-bottom: 1px solid #e5e5e5;
+      border-left: 1px solid #e5e5e5;
       background: #EEEEEE; }
     #linkNav ul li.Mrphs-sitesNav__menuitem.dropdown-is-visible:after {
       border-bottom: 1px solid #FFFFFF;
@@ -10118,9 +10118,9 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
     #linkNav ul li.Mrphs-sitesNav__menuitem.is-selected {
       background: #FFFFFF;
       border-top: 4px solid #FFBB00;
-      border-right: #e5e5e5;
-      border-bottom: #e5e5e5;
-      border-left: #e5e5e5;
+      border-right: 1px solid #738BA3;
+      border-bottom: 1px solid #738BA3;
+      border-left: 1px solid #738BA3;
       /* hover for sites when tool quick-menu isn't open */ }
       #linkNav ul li.Mrphs-sitesNav__menuitem.is-selected a.link-container {
         color: #1169BA; }
@@ -10205,9 +10205,9 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
           color: #FFFFFF; }
       #linkNav ul li.Mrphs-sitesNav__menuitem.is-selected.dropdown-is-visible, #linkNav ul li.Mrphs-sitesNav__menuitem.is-selected:hover {
         border-top: 4px solid #FFBB00;
-        border-right: #e5e5e5;
-        border-bottom: #e5e5e5;
-        border-left: #e5e5e5;
+        border-right: 1px solid #738BA3;
+        border-bottom: 1px solid #738BA3;
+        border-left: 1px solid #738BA3;
         background: #15597e; }
       #linkNav ul li.Mrphs-sitesNav__menuitem.is-selected.dropdown-is-visible:after {
         border-bottom: 1px solid #FFFFFF;
