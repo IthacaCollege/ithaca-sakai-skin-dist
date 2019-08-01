@@ -11381,7 +11381,7 @@ body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrp
         display: block;
         margin-bottom: -1px; }
         .navIntraTool li span.current:before {
-          border-top: 4px solid #FFBB00;
+          border-top: 4px solid 4px solid #FFBB00;
           content: "";
           display: block;
           position: absolute;
@@ -15475,7 +15475,7 @@ body.active-more-sites {
   color: #15597e;
   background: #FFFFFF; }
   #selectSite .tab-bar .tab-btn.active:before, #selectQuickLink .tab-bar .tab-btn.active:before {
-    border-top: 4px solid #FFBB00;
+    border-top: 4px solid 4px solid #FFBB00;
     content: '';
     display: block;
     position: absolute;
@@ -16338,7 +16338,7 @@ ul.styled-reorder-list {
     padding: 0; }
     #connection-manager #connection-manager-navbar li > span.current a {
       background-color: #FFFFFF !important;
-      color: #FFBB00 !important;
+      color: 4px solid #FFBB00 !important;
       pointer-events: none; }
 
 #connection-manager #connection-manager-connectionsview-searchbox-wrapper {
