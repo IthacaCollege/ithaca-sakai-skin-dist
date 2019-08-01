@@ -2,6 +2,11 @@
 /* access.scss : Styles for access servlet (/access/) directory listings */
 /* Global namespace */
 /* topNav Main Menu */
+@import url(//fonts.googleapis.com/css?family=Open Sans:400,500,700);
+#linkNav ul li.Mrphs-sitesNav__menuitem span {
+  line-height: 1;
+  margin-right: .3em; }
+
 /* Typography*/
 /* Color palette */
 /* change to #003B71 */
@@ -53,8 +58,11 @@
 /* Footer */
 /* From NYU 11 Skin */
 /* change to #266DEA */
-@import url(//fonts.googleapis.com/css?family=Open Sans:400,500,700);
 /* topNav Main Menu */
+#linkNav ul li.Mrphs-sitesNav__menuitem span {
+  line-height: 1;
+  margin-right: .3em; }
+
 .sitesNav__drop {
   cursor: pointer;
   display: inline-block;

@@ -1,6 +1,11 @@
 @charset "UTF-8";
 /* Global namespace */
 /* topNav Main Menu */
+@import url(//fonts.googleapis.com/css?family=Open Sans:400,500,700);
+#linkNav ul li.Mrphs-sitesNav__menuitem span {
+  line-height: 1;
+  margin-right: .3em; }
+
 /* Typography*/
 /* Color palette */
 /* change to #003B71 */
@@ -52,7 +57,6 @@
 /* Footer */
 /* From NYU 11 Skin */
 /* change to #266DEA */
-@import url(//fonts.googleapis.com/css?family=Open Sans:400,500,700);
 @media only screen and (max-width: 800px) {
   .table-responsive > .table > thead > tr > th,
   .table-responsive > .table > thead > tr > td,
@@ -6088,6 +6092,10 @@ button.close {
     display: none !important; } }
 
 /* topNav Main Menu */
+#linkNav ul li.Mrphs-sitesNav__menuitem span {
+  line-height: 1;
+  margin-right: .3em; }
+
 .sitesNav__drop, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__dropdown {
   cursor: pointer;
   display: inline-block;
@@ -9307,6 +9315,10 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
   color: #fff; }
 
 /* topNav Main Menu */
+#linkNav ul li.Mrphs-sitesNav__menuitem span {
+  line-height: 1;
+  margin-right: .3em; }
+
 body.is-logged-out .Mrphs-loginUser li a .login-Icon {
   display: none; }
 
