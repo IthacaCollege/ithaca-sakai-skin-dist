@@ -2,6 +2,11 @@
 /* access.scss : Styles for access servlet (/access/) directory listings */
 /* Global namespace */
 /* topNav Main Menu */
+@import url(//fonts.googleapis.com/css?family=Open Sans:400,500,700);
+#linkNav ul li.Mrphs-sitesNav__menuitem span {
+  line-height: 1;
+  margin-right: .3em; }
+
 /* Typography*/
 /* Color palette */
 /* Tool tabs */
@@ -34,7 +39,6 @@
 /* Icon Overrides */
 /* Footer */
 /* From NYU 11 Skin */
-@import url(//fonts.googleapis.com/css?family=Open Sans:400,500,700);
 .sitesNav__drop {
   cursor: pointer;
   display: inline-block;
@@ -68,13 +72,13 @@
   padding: 15px 30px 15px 15px;
   border: 1px solid;
   border-left-width: 5px;
-  border-color: #5ba8f0;
-  border-left-color: #1169BA;
-  color: #041a2e;
-  background-color: #b8daf9; }
+  border-color: #507788;
+  border-left-color: #213138;
+  color: black;
+  background-color: #87a9b8; }
   .bs-callout-primary h1, .bs-callout-primary h2, .bs-callout-primary h3, .bs-callout-primary h4, .bs-callout-primary h5, .bs-callout-primary h6, .bs-callout-info h1, .bs-callout-info h2, .bs-callout-info h3, .bs-callout-info h4, .bs-callout-info h5, .bs-callout-info h6, .messageInformation h1, .messageInformation h2, .messageInformation h3, .messageInformation h4, .messageInformation h5, .messageInformation h6, .messageInstruction h1, .messageInstruction h2, .messageInstruction h3, .messageInstruction h4, .messageInstruction h5, .messageInstruction h6, .messageProgress h1, .messageProgress h2, .messageProgress h3, .messageProgress h4, .messageProgress h5, .messageProgress h6 {
     margin-top: 0;
-    color: #1169BA; }
+    color: #213138; }
   .bs-callout-primary p:last-child, .bs-callout-info p:last-child, .messageInformation p:last-child, .messageInstruction p:last-child, .messageProgress p:last-child {
     margin-bottom: 0; }
   .bs-callout-primary code, .bs-callout-primary .highlight, .bs-callout-info code, .bs-callout-info .highlight, .messageInformation code, .messageInformation .highlight, .messageInstruction code, .messageInstruction .highlight, .messageProgress code, .messageProgress .highlight {
@@ -160,10 +164,10 @@
     border-left: 1px solid #ddd;
     border-right: 1px solid #ddd;
     border-bottom: 1px solid #FFFFFF !important;
-    color: #1169BA; }
+    color: #213138; }
     .nav.nav-tabs > li.active > a:hover, .nav.nav-tabs > li.selected > a:hover, .nav.nav-tabs > li.activeTab > a:hover, .sakai_tabs > li.active > a:hover, .sakai_tabs > li.selected > a:hover, .sakai_tabs > li.activeTab > a:hover {
       background: #FFFFFF;
-      color: #1169BA; }
+      color: #213138; }
   .nav.nav-tabs > li > a, .sakai_tabs > li > a {
     background: #FAFAFA;
     border: 1px solid #ddd !important;
@@ -173,7 +177,7 @@
     text-decoration: none; }
 
 .button_color, input[type="submit"], input[type="button"], input[type="reset"], button, button.btn-primary {
-  background: #1169BA;
+  background: #15597e;
   border: 1px solid #326B97;
   color: #FFF !important;
   cursor: pointer;
@@ -206,7 +210,7 @@
     background: #176691;
     border-color: #124466; }
   .button_color[disabled="disabled"], input[disabled="disabled"][type="submit"], input[disabled="disabled"][type="button"], input[disabled="disabled"][type="reset"], .button_color[disabled], input[disabled][type="submit"], input[disabled][type="button"], input[disabled][type="reset"], .button_color[disabled="true"], input[disabled="true"][type="submit"], input[disabled="true"][type="button"], input[disabled="true"][type="reset"], button[disabled="disabled"], button[disabled], button[disabled="true"], button.btn-primary[disabled="disabled"], button.btn-primary[disabled], button.btn-primary[disabled="true"] {
-    background: #1169BA;
+    background: #15597e;
     color: white;
     cursor: not-allowed;
     opacity: 0.7; }
@@ -235,7 +239,7 @@
     color: #191919 !important;
     text-decoration: none;
     background: #FAFAFA;
-    border-color: #1169ba; }
+    border-color: #7F7F7F; }
     .button:hover:before, button.ui-state-default:hover:before, .btn.btn-default:hover:before {
       color: #424242; }
   .button:active, button.ui-state-default:active, .btn.btn-default:active {
@@ -243,7 +247,7 @@
     color: #191919 !important;
     text-decoration: none;
     background: #FAFAFA;
-    border-color: #1169ba; }
+    border-color: #7F7F7F; }
   .button[disabled="disabled"], .button[disabled], .button[disabled="true"], button.ui-state-default[disabled="disabled"], button.ui-state-default[disabled], button.ui-state-default[disabled="true"], .btn.btn-default[disabled="disabled"], .btn.btn-default[disabled], .btn.btn-default[disabled="true"] {
     background: #FAFAFA;
     color: #404040;
@@ -274,7 +278,7 @@
     color: #191919 !important;
     text-decoration: none;
     background: #FAFAFA;
-    border-color: #1169ba; }
+    border-color: #7F7F7F; }
     .button.link:hover:before, a.btn-link:hover:before, button.btn-link:hover:before {
       color: #424242; }
   .button.link:active, a.btn-link:active, button.btn-link:active {
@@ -282,7 +286,7 @@
     color: #191919 !important;
     text-decoration: none;
     background: #FAFAFA;
-    border-color: #1169ba; }
+    border-color: #7F7F7F; }
   .button.link[disabled="disabled"], .button.link[disabled], .button.link[disabled="true"], a.btn-link[disabled="disabled"], a.btn-link[disabled], a.btn-link[disabled="true"], button.btn-link[disabled="disabled"], button.btn-link[disabled], button.btn-link[disabled="true"] {
     background: #FAFAFA;
     color: #404040;
@@ -373,7 +377,7 @@ a.noPointers, input.noPointers {
     left: 2.5% !important; } }
 
 .ui-dialog .ui-dialog-buttonpane button {
-  background: #1169BA;
+  background: #15597e;
   border: 1px solid #326B97;
   color: #FFF !important;
   cursor: pointer;
@@ -406,7 +410,7 @@ a.noPointers, input.noPointers {
     background: #176691;
     border-color: #124466; }
   .ui-dialog .ui-dialog-buttonpane button[disabled="disabled"], .ui-dialog .ui-dialog-buttonpane button[disabled], .ui-dialog .ui-dialog-buttonpane button[disabled="true"] {
-    background: #1169BA;
+    background: #15597e;
     color: white;
     cursor: not-allowed;
     opacity: 0.7; }
@@ -458,21 +462,21 @@ a {
     color: #213138;
     text-decoration: none; }
   a[href] {
-    color: #1169BA;
+    color: #213138;
     text-decoration: underline; }
     a[href]:focus, a[href]::-moz-focus-inner {
       outline-color: invert; }
     a[href]:hover {
-      color: #1169BA;
+      color: #213138;
       background-color: transparent;
       text-decoration: underline; }
     a[href]:active {
-      color: #1169BA;
+      color: #213138;
       background-color: transparent; }
     a[href].btn {
       text-decoration: none; }
     a[href].btn-primary {
-      background: #1169BA;
+      background: #15597e;
       border: 1px solid #326B97;
       color: #FFF !important;
       cursor: pointer;
@@ -505,7 +509,7 @@ a {
         background: #176691;
         border-color: #124466; }
       a[href].btn-primary[disabled="disabled"], a[href].btn-primary[disabled], a[href].btn-primary[disabled="true"] {
-        background: #1169BA;
+        background: #15597e;
         color: white;
         cursor: not-allowed;
         opacity: 0.7; }
