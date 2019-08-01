@@ -10129,10 +10129,10 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
         display: none; }
     #linkNav ul li.Mrphs-sitesNav__menuitem.is-selected {
       background: #1169BA;
-      border-top: 1px solid #1169BA;
-      border-right: 1px solid #1169BA;
-      border-bottom: 1px solid #1169BA;
-      border-left: 1px solid #1169BA;
+      border-top: 1px solid #326B97;
+      border-right: 1px solid #326B97;
+      border-bottom: 1px solid #326B97;
+      border-left: 1px solid #326B97;
       /* hover for sites when tool quick-menu isn't open */ }
       #linkNav ul li.Mrphs-sitesNav__menuitem.is-selected a.link-container {
         color: #FFFFFF; }
