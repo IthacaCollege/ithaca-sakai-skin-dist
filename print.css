@@ -176,7 +176,7 @@
     text-decoration: none; }
 
 .button_color, input[type="submit"], input[type="button"], input[type="reset"], button, button.btn-primary {
-  background: #15597e;
+  background: #1169BA;
   border: 1px solid #326B97;
   color: #FFF !important;
   cursor: pointer;
@@ -209,7 +209,7 @@
     background: #176691;
     border-color: #124466; }
   .button_color[disabled="disabled"], input[disabled="disabled"][type="submit"], input[disabled="disabled"][type="button"], input[disabled="disabled"][type="reset"], .button_color[disabled], input[disabled][type="submit"], input[disabled][type="button"], input[disabled][type="reset"], .button_color[disabled="true"], input[disabled="true"][type="submit"], input[disabled="true"][type="button"], input[disabled="true"][type="reset"], button[disabled="disabled"], button[disabled], button[disabled="true"], button.btn-primary[disabled="disabled"], button.btn-primary[disabled], button.btn-primary[disabled="true"] {
-    background: #15597e;
+    background: #1169BA;
     color: white;
     cursor: not-allowed;
     opacity: 0.7; }
@@ -376,7 +376,7 @@ a.noPointers, input.noPointers {
     left: 2.5% !important; } }
 
 .ui-dialog .ui-dialog-buttonpane button {
-  background: #15597e;
+  background: #1169BA;
   border: 1px solid #326B97;
   color: #FFF !important;
   cursor: pointer;
@@ -409,7 +409,7 @@ a.noPointers, input.noPointers {
     background: #176691;
     border-color: #124466; }
   .ui-dialog .ui-dialog-buttonpane button[disabled="disabled"], .ui-dialog .ui-dialog-buttonpane button[disabled], .ui-dialog .ui-dialog-buttonpane button[disabled="true"] {
-    background: #15597e;
+    background: #1169BA;
     color: white;
     cursor: not-allowed;
     opacity: 0.7; }
@@ -475,7 +475,7 @@ a {
     a[href].btn {
       text-decoration: none; }
     a[href].btn-primary {
-      background: #15597e;
+      background: #1169BA;
       border: 1px solid #326B97;
       color: #FFF !important;
       cursor: pointer;
@@ -508,7 +508,7 @@ a {
         background: #176691;
         border-color: #124466; }
       a[href].btn-primary[disabled="disabled"], a[href].btn-primary[disabled], a[href].btn-primary[disabled="true"] {
-        background: #15597e;
+        background: #1169BA;
         color: white;
         cursor: not-allowed;
         opacity: 0.7; }
@@ -3052,7 +3052,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
           text-decoration: none;
           position: relative; }
           .navIntraTool li span a:hover:before {
-            border-top: 4px solid 4px solid #FFBB00;
+            border-top: 4px solid #7F7F7F;
             content: "";
             display: block;
             position: absolute;
@@ -3060,7 +3060,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
             right: -1px;
             top: -1px; }
       .navIntraTool li span.current {
-        color: #15597e;
+        color: #1169BA;
         font-size: 12.5px;
         background-color: #FFFFFF;
         border-top: 1px solid #E5E5E5;
@@ -3173,14 +3173,14 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
         /* Since we'll start on our own line, don't pad */
         margin-left: 0; }
       .Mrphs-siteHierarchy .Mrphs-hierarchy--siteName a:hover {
-        color: #265b81;
-        border-bottom: 1px solid #265b81; }
+        color: #1169BA;
+        border-bottom: 1px solid #1169BA; }
       .Mrphs-siteHierarchy .Mrphs-breadcrumb--icon {
         display: inline-block;
         text-align: right;
         width: 24px; }
       .Mrphs-siteHierarchy a.Mrphs-hierarchy--toolName {
-        color: #265b81;
+        color: #1169BA;
         text-transform: uppercase;
         font-size: 110%;
         font-weight: bold;
@@ -3188,7 +3188,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
         margin: 0.75em 0.75em 0.25em 1.25em;
         border-bottom: 1px solid transparent; }
         .Mrphs-siteHierarchy a.Mrphs-hierarchy--toolName:hover {
-          border-bottom: 1px solid #265b81; }
+          border-bottom: 1px solid #1169BA; }
           .Mrphs-siteHierarchy a.Mrphs-hierarchy--toolName:hover .Mrphs-breadcrumb--icon {
             display: none; }
           .Mrphs-siteHierarchy a.Mrphs-hierarchy--toolName:hover .Mrphs-breadcrumb--reset-icon {
@@ -3214,20 +3214,20 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
       white-space: nowrap;
       left: 0; }
       .Mrphs-siteHierarchy h1 {
-        color: #265b81; }
+        color: #1169BA; }
       .Mrphs-siteHierarchy .Mrphs-hierarchy--siteName a:hover .Mrphs-hierarchy--siteName-label {
         text-decoration: underline; }
       .Mrphs-siteHierarchy a.Mrphs-hierarchy--toolName {
         display: none; }
       .Mrphs-siteHierarchy a.Mrphs-hierarchy--toolName:hover {
-        color: #265b81;
-        border-bottom: 1px solid #265b81; }
+        color: #1169BA;
+        border-bottom: 1px solid #1169BA; }
       .Mrphs-siteHierarchy .Mrphs-hierarchy--serviceName, .Mrphs-siteHierarchy .Mrphs-hierarchy--serviceNameSeparator {
         display: none; }
       .Mrphs-siteHierarchy .Mrphs-breadcrumb--reset-icon {
         display: none; }
       .Mrphs-siteHierarchy .Mrphs-hierarchy-item {
-        color: #265b81; }
+        color: #1169BA; }
       .Mrphs-siteHierarchy .Mrphs-hierarchy--siteNameSeparator {
         display: none; }
       .Mrphs-siteHierarchy.moving {

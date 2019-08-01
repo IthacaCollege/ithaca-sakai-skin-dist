@@ -177,7 +177,7 @@
     text-decoration: none; }
 
 .button_color, input[type="submit"], input[type="button"], input[type="reset"], button, button.btn-primary {
-  background: #15597e;
+  background: #1169BA;
   border: 1px solid #326B97;
   color: #FFF !important;
   cursor: pointer;
@@ -210,7 +210,7 @@
     background: #176691;
     border-color: #124466; }
   .button_color[disabled="disabled"], input[disabled="disabled"][type="submit"], input[disabled="disabled"][type="button"], input[disabled="disabled"][type="reset"], .button_color[disabled], input[disabled][type="submit"], input[disabled][type="button"], input[disabled][type="reset"], .button_color[disabled="true"], input[disabled="true"][type="submit"], input[disabled="true"][type="button"], input[disabled="true"][type="reset"], button[disabled="disabled"], button[disabled], button[disabled="true"], button.btn-primary[disabled="disabled"], button.btn-primary[disabled], button.btn-primary[disabled="true"] {
-    background: #15597e;
+    background: #1169BA;
     color: white;
     cursor: not-allowed;
     opacity: 0.7; }
@@ -377,7 +377,7 @@ a.noPointers, input.noPointers {
     left: 2.5% !important; } }
 
 .ui-dialog .ui-dialog-buttonpane button {
-  background: #15597e;
+  background: #1169BA;
   border: 1px solid #326B97;
   color: #FFF !important;
   cursor: pointer;
@@ -410,7 +410,7 @@ a.noPointers, input.noPointers {
     background: #176691;
     border-color: #124466; }
   .ui-dialog .ui-dialog-buttonpane button[disabled="disabled"], .ui-dialog .ui-dialog-buttonpane button[disabled], .ui-dialog .ui-dialog-buttonpane button[disabled="true"] {
-    background: #15597e;
+    background: #1169BA;
     color: white;
     cursor: not-allowed;
     opacity: 0.7; }
@@ -476,7 +476,7 @@ a {
     a[href].btn {
       text-decoration: none; }
     a[href].btn-primary {
-      background: #15597e;
+      background: #1169BA;
       border: 1px solid #326B97;
       color: #FFF !important;
       cursor: pointer;
@@ -509,7 +509,7 @@ a {
         background: #176691;
         border-color: #124466; }
       a[href].btn-primary[disabled="disabled"], a[href].btn-primary[disabled], a[href].btn-primary[disabled="true"] {
-        background: #15597e;
+        background: #1169BA;
         color: white;
         cursor: not-allowed;
         opacity: 0.7; }
