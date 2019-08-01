@@ -3090,7 +3090,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
         display: block;
         margin-bottom: -1px; }
         .navIntraTool li span.current:before {
-          border-top: 4px solid #1169BA;
+          border-top: 4px solid #FFBB00;
           content: "";
           display: block;
           position: absolute;
