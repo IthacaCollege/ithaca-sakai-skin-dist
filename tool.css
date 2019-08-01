@@ -10577,6 +10577,11 @@ body.is-logged-out #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop
   margin: auto;
   max-width: calc( 50% - 3em); }
 
+/* topNav Main Menu */
+#linkNav ul li.Mrphs-sitesNav__menuitem span {
+  line-height: 1;
+  margin-right: .3em; }
+
 body.is-logged-out .Mrphs-mainHeader.is-maximized ~ #container #toolMenuWrap {
   top: 50px; }
 
