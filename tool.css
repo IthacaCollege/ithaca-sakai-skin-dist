@@ -1108,7 +1108,7 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   line-height: 1.42857;
-  color: #213138;
+  color: #3A5A79;
   background-color: #fff; }
 
 input,
@@ -2418,7 +2418,7 @@ output {
   padding-top: 7px;
   font-size: 14px;
   line-height: 1.42857;
-  color: #213138; }
+  color: #3A5A79; }
 
 .form-control, .Mrphs-sakai-forums #revise input[type="text"], .Mrphs-sakai-forums #revise textarea, .Mrphs-sakai-profile2 .gallery-form .input-file-container input[type="file"] {
   display: block;
@@ -2427,7 +2427,7 @@ output {
   padding: 6px 12px;
   font-size: 14px;
   line-height: 1.42857;
-  color: #213138;
+  color: #3A5A79;
   background-color: #fff;
   background-image: none;
   border: 1px solid #ccc;
@@ -2862,7 +2862,7 @@ select[multiple].input-lg,
   display: block;
   margin-top: 5px;
   margin-bottom: 10px;
-  color: #507788; }
+  color: #759abd; }
 
 @media (min-width: 768px) {
   .form-inline .form-group {
@@ -3636,7 +3636,7 @@ tbody.collapse.in {
   font-size: 14px;
   font-weight: normal;
   line-height: 1;
-  color: #213138;
+  color: #3A5A79;
   text-align: center;
   background-color: #eeeeee;
   border: 1px solid #ccc;
@@ -4518,7 +4518,7 @@ a.badge:hover, a.badge:focus {
     margin-right: auto; }
   .thumbnail .caption {
     padding: 9px;
-    color: #213138; }
+    color: #3A5A79; }
 
 a.thumbnail:hover,
 a.thumbnail:focus,
@@ -6177,7 +6177,7 @@ button.close {
   background-position: right 50%;
   background-repeat: no-repeat;
   border: 1px solid #C0C0C0;
-  color: #213138;
+  color: #3A5A79;
   font-family: "Open Sans", sans-serif;
   font-size: 13px;
   padding: 0.3em 2.2em 0.3em 0.5em;
@@ -6204,7 +6204,7 @@ button.close {
   .nav.nav-tabs > li > a, .Mrphs-sakai-profile2 .tab-row ul > li > a, .sakai_tabs > li > a, .Mrphs-sakai-profile2 .tab-row ul > li > a {
     background: #FAFAFA;
     border: 1px solid #ddd !important;
-    color: #213138;
+    color: #3A5A79;
     cursor: pointer;
     margin: 0 0em 0 0.5em;
     text-decoration: none; }
@@ -6478,7 +6478,7 @@ label.panelGridLabel {
   margin-top: 1.4rem; }
 
 body {
-  color: #213138;
+  color: #3A5A79;
   font-family: "Open Sans", sans-serif;
   font-size: 14px !important;
   font-weight: 400;
@@ -6490,9 +6490,9 @@ body {
         padding: 52px 0 0 0; } }
 
 a {
-  color: #213138; }
+  color: #3A5A79; }
   a:hover {
-    color: #213138;
+    color: #3A5A79;
     text-decoration: none; }
   a[href] {
     color: #213138;
@@ -6555,7 +6555,7 @@ a {
       white-space: nowrap; } }
 
 input, textarea {
-  color: #213138;
+  color: #3A5A79;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   max-width: 100%; }
@@ -6611,10 +6611,10 @@ input[type="radio"] {
   input[type="checkbox"][disabled], input[type="checkbox"][disabled="disabled"], input[type="checkbox"][disabled="true"], input[type="radio"][disabled], input[type="radio"][disabled="disabled"], input[type="radio"][disabled="true"] {
     opacity: 0.8; }
     input[type="checkbox"][disabled] + label, input[type="checkbox"][disabled="disabled"] + label, input[type="checkbox"][disabled="true"] + label, input[type="radio"][disabled] + label, input[type="radio"][disabled="disabled"] + label, input[type="radio"][disabled="true"] + label {
-      color: #344d58; }
+      color: #4b749b; }
 
 label.disabled {
-  color: #344d58;
+  color: #4b749b;
   cursor: not-allowed; }
 
 input[type="checkbox"] {
@@ -9267,7 +9267,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
   border-top: 1px solid #E5E5E5; }
 
 .Mrphs-footer {
-  color: #213138;
+  color: #3A5A79;
   padding: 0.8em;
   font-size: 0.8em; }
   .Mrphs-footer #footer-links {
@@ -9370,7 +9370,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       z-index: 20; } }
 
 .userNav_link {
-  color: #213138;
+  color: #3A5A79;
   font-family: "Open Sans", sans-serif;
   font-size: 0.9em;
   font-weight: 700;
@@ -9386,8 +9386,8 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
   right: 0em;
   width: 20em;
   z-index: 99;
-  -webkit-box-shadow: 0 0 4px rgba(33, 49, 56, 0.35);
-          box-shadow: 0 0 4px rgba(33, 49, 56, 0.35);
+  -webkit-box-shadow: 0 0 4px rgba(58, 90, 121, 0.35);
+          box-shadow: 0 0 4px rgba(58, 90, 121, 0.35);
   list-style: none;
   padding: 0 0 0 0; }
   .userNav__subnav li, #mastLogin #loginLinks ul li {
@@ -9416,7 +9416,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
     display: none; }
   .userNav__subnav .Mrphs-userNav__submenuitem--fullname-and-id, #mastLogin #loginLinks ul .Mrphs-userNav__submenuitem--fullname-and-id {
     padding-top: 1em;
-    color: #213138;
+    color: #3A5A79;
     display: inline-block;
     margin-bottom: 5px;
     width: 10em;
@@ -9836,7 +9836,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
         width: 100%; }
     @media only screen and (max-width: 800px) {
       #mastLogin #loginLinks ul .Mrphs-userData {
-        color: #213138;
+        color: #3A5A79;
         display: block;
         font-weight: 400;
         padding: 0.7em 0.65em; } }
@@ -10081,8 +10081,8 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       margin-left: -1px;
       width: 17em;
       z-index: 99;
-      -webkit-box-shadow: 0 3px 2px rgba(33, 49, 56, 0.35);
-              box-shadow: 0 3px 2px rgba(33, 49, 56, 0.35); }
+      -webkit-box-shadow: 0 3px 2px rgba(58, 90, 121, 0.35);
+              box-shadow: 0 3px 2px rgba(58, 90, 121, 0.35); }
       #linkNav ul li.Mrphs-sitesNav__menuitem ul li {
         display: block;
         border: 0px none;
@@ -10492,7 +10492,7 @@ body.is-logged-out #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop
     font-weight: 300;
     margin: 0; }
   .Mrphs-siteHierarchy a {
-    color: #213138;
+    color: #3A5A79;
     margin: 0 0.5em;
     padding: 0 0 0.2em;
     text-decoration: none; }
@@ -11716,10 +11716,10 @@ table.listHier {
             width: 100%; } }
         .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .chatListWrapper .chatListHeadWrapper {
           padding: 8px 17px 0;
-          color: #5a8598;
+          color: #87a6c5;
           text-align: center; }
         .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .chatListWrapper .shown_total {
-          color: #5a8598;
+          color: #87a6c5;
           text-align: center;
           margin: 0 17px 0 17px;
           padding-bottom: 8px; }
@@ -11800,7 +11800,7 @@ table.listHier {
                   margin-right: 4px; }
                 .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .chatListWrapper .chatListMonitor .chatList li .chatNameDate .chatDate {
                   font-size: 10px;
-                  color: #5a8598;
+                  color: #87a6c5;
                   display: inline-block;
                   margin-right: 32px; }
               .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .chatListWrapper .chatListMonitor .chatList li .chatMessage {
@@ -11811,7 +11811,7 @@ table.listHier {
                 margin: 5px 0 5px 53px; }
                 .Mrphs-sakai-chat .panel-chat .panel-body-chat .chatListWrapperCont .chatListWrapper .chatListMonitor .chatList li .chatMessage .chatMessageDate {
                   font-size: 0.8em;
-                  color: #5a8598;
+                  color: #87a6c5;
                   position: absolute;
                   top: -13px;
                   display: none; }
@@ -11913,7 +11913,7 @@ table.listHier {
   margin-bottom: 0.5em; }
 
 .Mrphs-footerApp__presence, .Mrphs-footerApp__portalChat {
-  background-color: #213138;
+  background-color: #3A5A79;
   color: #FFFFFF;
   float: left;
   text-align: left;
@@ -11980,7 +11980,7 @@ table.listHier {
     padding: 5px;
     vertical-align: middle;
     color: #FFFFFF;
-    background-color: #213138; }
+    background-color: #3A5A79; }
     .Mrphs-presence__area--title--close {
       float: right;
       color: inherit;
@@ -12008,8 +12008,8 @@ table.listHier {
   margin: 0px;
   padding: 0px;
   display: none;
-  -webkit-box-shadow: 0 -2px 2px rgba(33, 49, 56, 0.5);
-          box-shadow: 0 -2px 2px rgba(33, 49, 56, 0.5);
+  -webkit-box-shadow: 0 -2px 2px rgba(58, 90, 121, 0.5);
+          box-shadow: 0 -2px 2px rgba(58, 90, 121, 0.5);
   /* First generic styles*/
   /*Chat windows*/
   /*Videochat controls */ }
@@ -12032,12 +12032,12 @@ table.listHier {
     padding: 5px;
     vertical-align: middle;
     color: #FFFFFF;
-    background-color: #213138; }
+    background-color: #3A5A79; }
   .Mrphs-portalChat__container {
     clear: both; }
     .Mrphs-portalChat__container h2 {
       background: none;
-      color: #213138;
+      color: #3A5A79;
       padding: 6px 0px 6px 0;
       font-size: 1em;
       margin: 0px 3px; }
@@ -12053,7 +12053,7 @@ table.listHier {
     padding: 5px;
     margin: 0px 0px 10px 0px; }
   .Mrphs-portalChat__users {
-    border-top: solid 0.5em #213138; }
+    border-top: solid 0.5em #3A5A79; }
   .Mrphs-portalChat__close {
     float: right;
     text-align: right;
@@ -12064,7 +12064,7 @@ table.listHier {
     height: 30px;
     width: 170px;
     float: left;
-    color: #213138; }
+    color: #3A5A79; }
     .Mrphs-portalChat__user--link:hover {
       text-decoration: none; }
   .Mrphs-portalChat__connection--bullet {
@@ -12112,7 +12112,7 @@ table.listHier {
     padding: 5px;
     vertical-align: middle;
     color: #FFFFFF;
-    background-color: #213138;
+    background-color: #3A5A79;
     cursor: pointer;
     overflow: hidden;
     position: relative;
@@ -12250,11 +12250,11 @@ table.listHier {
     .Mrphs-portalChat__videochat--bar {
       font-size: 14px;
       font-weight: bold;
-      color: #213138; }
+      color: #3A5A79; }
     .Mrphs-portalChat__videochat--ctrlbar {
       font-size: 14px;
       font-weight: bold;
-      color: #213138;
+      color: #3A5A79;
       background: none repeat scroll 0% 0% #FFFFFF;
       overflow: hidden;
       position: relative;
@@ -14175,7 +14175,7 @@ div#calendarEventDialog .eventAttachmentList {
       .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor .jstree-icon:before {
         position: relative;
         top: 5px;
-        color: #213138;
+        color: #3A5A79;
         padding: 0 0 0 26px; }
   .Mrphs-sakai-resources li[data_visible="false"] * {
     color: #999 !important; }
@@ -14469,7 +14469,7 @@ body > .portletBody > #calendarForm {
   font-size: 1em;
   padding: 0.3em 0.2em 0.1em 0; }
   .Mrphs-sakai-forums .messagesThreaded .md a {
-    color: #213138;
+    color: #3A5A79;
     text-decoration: none;
     border-bottom: 1px dotted #d9d9d9; }
     .Mrphs-sakai-forums .messagesThreaded .md a:hover {
@@ -14840,9 +14840,9 @@ body > .portletBody > #calendarForm {
       .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions {
         float: right; }
         .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .fa, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions [class*="icon-sakai--"], .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-mainHeader .Mrphs-loginUser li a .login-Icon, .Mrphs-mainHeader .Mrphs-loginUser li a .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .login-Icon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sitesNav__drop, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__dropdown, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sitesNav__dropdown, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sitesNav__doubledrop, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions #subSites.floating a.Mrphs-toolsNav__menuitem--link.is-invisible:after, #subSites.floating .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions a.Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions #toolMenu ul li .Mrphs-toolsNav__menuitem--link.is-invisible:after, #toolMenu ul li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions #subSites ul li .Mrphs-toolsNav__menuitem--link.is-invisible:after, #subSites ul li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link.is-invisible:after, .floatingToolMenu ul li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a.is-invisible:after, body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions a.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a.has-prerequisite:hover:after, body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions a.has-prerequisite:hover:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link:before, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav__link:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link--directurl, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav__link--directurl, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link--help-popup, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav__link--help-popup, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link--edit, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav__link--edit, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav .Mrphs-toolTitleNav__link--reset, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-toolTitleNav__link--reset, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .icon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-footerApp--icon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIcon, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIcon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-1, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-1, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-2, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-2, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-3, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-3, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-4, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-4, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-5, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-5, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-6, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-6, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconDraft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconDraft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-1-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-1-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-2-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-2-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-3-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-3-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-4-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-4-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-5-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-5-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconThreshold-6-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconThreshold-6-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconWarn, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconWarn, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconPending, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconPending, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-assignment-grades .contentReviewIconNoService, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .contentReviewIconNoService, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor .jstree-icon, .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .jstree-icon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .Mrphs-sakai-resources .dropdown-menu .close-button, .Mrphs-sakai-resources .dropdown-menu .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .close-button, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .editItem:hover:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .site-favorite-icon.site-favorite:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .site-favorite-icon.site-nonfavorite:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .site-favorite-icon.site-workspace:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions #ckeditorPreview.modal .sakaipreview-print, #ckeditorPreview.modal .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .sakaipreview-print, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions #ckeditorPreview.modal .sakaipreview-close, #ckeditorPreview.modal .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .edit-actions .sakaipreview-close {
-          color: #213138 !important; }
+          color: #3A5A79 !important; }
       .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa.fa-arrows, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows[class*="icon-sakai--"], .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-mainHeader .Mrphs-loginUser li a .fa-arrows.login-Icon, .Mrphs-mainHeader .Mrphs-loginUser li a .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.login-Icon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header #linkNav ul li.Mrphs-sitesNav__menuitem .fa-arrows.Mrphs-sitesNav__drop, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-sitesNav__drop, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header #linkNav ul li.Mrphs-sitesNav__menuitem .fa-arrows.Mrphs-sitesNav__dropdown, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-sitesNav__dropdown, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-sitesNav__doubledrop, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header #subSites.floating a.fa-arrows.Mrphs-toolsNav__menuitem--link.is-invisible:after, #subSites.floating .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header a.fa-arrows.Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header #toolMenu ul li .fa-arrows.Mrphs-toolsNav__menuitem--link.is-invisible:after, #toolMenu ul li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header #subSites ul li .fa-arrows.Mrphs-toolsNav__menuitem--link.is-invisible:after, #subSites ul li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .floatingToolMenu ul li .fa-arrows.Mrphs-toolsNav__menuitem--link.is-invisible:after, .floatingToolMenu ul li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-toolsNav__menuitem--link.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a.fa-arrows.is-invisible:after, body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header a.fa-arrows.is-invisible:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a.fa-arrows.has-prerequisite:hover:after, body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header a.fa-arrows.has-prerequisite:hover:after, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-toolTitleNav .fa-arrows.Mrphs-toolTitleNav__link:before, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-toolTitleNav__link:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-toolTitleNav .fa-arrows.Mrphs-toolTitleNav__link--directurl, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-toolTitleNav__link--directurl, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-toolTitleNav .fa-arrows.Mrphs-toolTitleNav__link--help-popup, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-toolTitleNav__link--help-popup, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-toolTitleNav .fa-arrows.Mrphs-toolTitleNav__link--edit, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-toolTitleNav__link--edit, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-toolTitleNav .fa-arrows.Mrphs-toolTitleNav__link--reset, .Mrphs-toolTitleNav .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-toolTitleNav__link--reset, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.icon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.Mrphs-footerApp--icon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIcon, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIcon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-1, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-1, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-2, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-2, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-3, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-3, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-4, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-4, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-5, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-5, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-6, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-6, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconDraft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconDraft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-1-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-1-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-2-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-2-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-3-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-3-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-4-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-4-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-5-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-5-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconThreshold-6-draft, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconThreshold-6-draft, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconWarn, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconWarn, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconPending, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconPending, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-assignment-grades .fa-arrows.contentReviewIconNoService, .Mrphs-sakai-assignment-grades .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.contentReviewIconNoService, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor .fa-arrows.jstree-icon, .Mrphs-sakai-resources li[data_visible="false"] .jstree-anchor .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.jstree-icon, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .Mrphs-sakai-resources .dropdown-menu .fa-arrows.close-button, .Mrphs-sakai-resources .dropdown-menu .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.close-button, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.editItem:hover:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.site-favorite-icon.site-favorite:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.site-favorite-icon.site-nonfavorite:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.site-favorite-icon.site-workspace:before, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header #ckeditorPreview.modal .fa-arrows.sakaipreview-print, #ckeditorPreview.modal .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.sakaipreview-print, .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header #ckeditorPreview.modal .fa-arrows.sakaipreview-close, #ckeditorPreview.modal .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .fa-arrows.sakaipreview-close {
-        color: #213138 !important; }
+        color: #3A5A79 !important; }
       .Mrphs-sakai-syllabus #syllabus #accordion .ui-accordion .ui-accordion-header .editItemTitle {
         font-weight: bold;
         color: #213138;
@@ -15121,8 +15121,8 @@ html[dir="rtl"] {
   width: 29em;
   min-height: 14em;
   background: #FFFFFF;
-  -webkit-box-shadow: 0 0 5px rgba(33, 49, 56, 0.25);
-          box-shadow: 0 0 5px rgba(33, 49, 56, 0.25); }
+  -webkit-box-shadow: 0 0 5px rgba(58, 90, 121, 0.25);
+          box-shadow: 0 0 5px rgba(58, 90, 121, 0.25); }
   #Mrphs-xlogin .logo, #Mrphs-choice .logo {
     background: #003B71 url("https://becm.ithaca.edu/wf/images/logo.svg") no-repeat center center;
     background-size: 216px 36px;
@@ -15177,8 +15177,8 @@ html[dir="rtl"] {
     background: #f2dede url("images/capsLock.png") no-repeat right; }
   #Mrphs-xlogin.loadedByAjax, .loadedByAjax#Mrphs-choice {
     z-index: 1010;
-    -webkit-box-shadow: 0 0 15px rgba(33, 49, 56, 0.25);
-            box-shadow: 0 0 15px rgba(33, 49, 56, 0.25); }
+    -webkit-box-shadow: 0 0 15px rgba(58, 90, 121, 0.25);
+            box-shadow: 0 0 15px rgba(58, 90, 121, 0.25); }
   @media only screen and (max-width: 800px) {
     #Mrphs-xlogin, #Mrphs-choice {
       position: absolute;
@@ -15244,7 +15244,7 @@ html[dir="rtl"] {
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
   font-size: 14px;
-  color: #213138;
+  color: #3A5A79;
   background-color: #FAFAFA;
   -webkit-box-shadow: 5px 0 50px 0px rgba(0, 0, 0, 0.5);
           box-shadow: 5px 0 50px 0px rgba(0, 0, 0, 0.5);
@@ -15302,7 +15302,7 @@ html[dir="rtl"] {
     border-radius: 4px; }
     #quickLinks .Mrphs-quickLinksNav__subnav .Mrphs-quickLinksNav__submenuitem a {
       display: inline-block;
-      color: #213138;
+      color: #3A5A79;
       font-family: "Open Sans", sans-serif;
       font-size: 0.9em;
       font-weight: 700;
@@ -15492,7 +15492,7 @@ body.active-more-sites {
     bottom: -1px; }
 
 #selectSite .tab-bar .tab-btn.tab-disabled, #selectQuickLink .tab-bar .tab-btn.tab-disabled {
-  color: #97b4c1; }
+  color: #ccd9e6; }
 
 #selectSite .tab-bar .tab-btn.tab-disabled:hover, #selectQuickLink .tab-bar .tab-btn.tab-disabled:hover {
   cursor: default; }
@@ -15688,7 +15688,7 @@ ul.favoriteSiteList,
       text-align: left;
       margin-bottom: 1em; } }
   #otherSiteSearch label {
-    color: #213138; }
+    color: #3A5A79; }
   #otherSiteSearch #txtSearch {
     width: 18em;
     min-height: 2em;
@@ -15953,7 +15953,7 @@ li.organizeFavorites:not(.active) .favoriteCountAndWarning.maxFavoritesReached {
   width: 28%;
   padding-left: 1em; }
   #favorite-settings-pane button {
-    color: #213138 !important;
+    color: #3A5A79 !important;
     background: #FFFFFF;
     border-color: #326B97;
     border-radius: 3px;
@@ -16050,7 +16050,7 @@ li.organizeFavorites:not(.active) .favoriteCountAndWarning.maxFavoritesReached {
     padding: 1em;
     border: 4px solid #d36f00;
     border-top: 0 none;
-    color: #213138; }
+    color: #3A5A79; }
     .sakai-tutorial.qtip .qtip-content .no-wrap {
       white-space: nowrap; }
   .sakai-tutorial.qtip .tut-icon-home, .sakai-tutorial.qtip .tut-icon-sites, .sakai-tutorial.qtip .tut-icon-toggle, .sakai-tutorial.qtip .tut-icon-help {
@@ -16221,8 +16221,8 @@ ul.styled-reorder-list {
 
 .portal-bullhorns.qtip {
   border: 0 none;
-  -webkit-box-shadow: 0 0 4px rgba(33, 49, 56, 0.35);
-          box-shadow: 0 0 4px rgba(33, 49, 56, 0.35);
+  -webkit-box-shadow: 0 0 4px rgba(58, 90, 121, 0.35);
+          box-shadow: 0 0 4px rgba(58, 90, 121, 0.35);
   background-color: #FAFAFA;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
@@ -16232,7 +16232,7 @@ ul.styled-reorder-list {
   .portal-bullhorns.qtip .qtip-content {
     background-color: #FAFAFA;
     padding: 0;
-    color: #213138; }
+    color: #3A5A79; }
 
 .portal-bullhorn-social-alerts, .portal-bullhorn-academic-alerts {
   padding-bottom: 5px; }
