@@ -11359,7 +11359,7 @@ body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrp
           text-decoration: none;
           position: relative; }
           .navIntraTool li span a:hover:before {
-            border-top: 4px solid #7F7F7F;
+            border-top: 4px solid 4px solid #FFBB00;
             content: "";
             display: block;
             position: absolute;
@@ -15462,7 +15462,7 @@ body.active-more-sites {
   color: #191919;
   background-color: #eeedeb; }
   #selectSite .tab-bar .tab-btn:hover:before, #selectQuickLink .tab-bar .tab-btn:hover:before {
-    border-top: 4px solid #7F7F7F;
+    border-top: 4px solid 4px solid #FFBB00;
     content: '';
     display: block;
     position: absolute;

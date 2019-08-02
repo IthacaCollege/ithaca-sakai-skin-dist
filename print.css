@@ -3052,7 +3052,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
           text-decoration: none;
           position: relative; }
           .navIntraTool li span a:hover:before {
-            border-top: 4px solid #7F7F7F;
+            border-top: 4px solid 4px solid #FFBB00;
             content: "";
             display: block;
             position: absolute;
