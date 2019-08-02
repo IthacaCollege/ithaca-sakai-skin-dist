@@ -2,11 +2,12 @@
 /* access.scss : Styles for access servlet (/access/) directory listings */
 /* Global namespace */
 /* topNav Main Menu */
-@import url(//fonts.googleapis.com/css?family=Open Sans:400,500,700);
+/*
+//MJ CSS hopes to fix the padding on the home icon on the nav menu. In base.scss)
 #linkNav ul li.Mrphs-sitesNav__menuitem span {
-  line-height: 1;
-  margin-right: .3em; }
-
+    line-height: 1;
+    margin-right: .3em;
+  } */
 /* Typography*/
 /* Color palette */
 /* Tool tabs */
@@ -39,6 +40,7 @@
 /* Icon Overrides */
 /* Footer */
 /* From NYU 11 Skin */
+@import url(//fonts.googleapis.com/css?family=Open Sans:400,500,700);
 .sitesNav__drop {
   cursor: pointer;
   display: inline-block;
