@@ -10875,7 +10875,7 @@ nav#subSites {
         color: #191919;
         background: #eeedeb; }
         #toolMenu ul li .Mrphs-toolsNav__menuitem--link:hover:before, #subSites ul li .Mrphs-toolsNav__menuitem--link:hover:before, .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link:hover:before {
-          border-left: 4px solid #7F7F7F; }
+          border-left: 4px solid #FFBB00; }
         #toolMenu ul li .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, #subSites ul li .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon, .floatingToolMenu ul li .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon {
           color: #424242; }
       @media only screen and (max-width: 800px) {
@@ -11005,7 +11005,7 @@ body #toolMenu li.has-lessons-sub-pages {
     body #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current > .Mrphs-toolsNav__menuitem--link:hover {
       color: #191919 !important; }
       body #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current > .Mrphs-toolsNav__menuitem--link:hover:before {
-        border-left: 4px solid #7F7F7F !important; }
+        border-left: 4px solid #FFBB00 !important; }
       body #toolMenu li.has-lessons-sub-pages.expanded.is-parent-of-current > .Mrphs-toolsNav__menuitem--link:hover .Mrphs-toolsNav__menuitem--icon {
         color: #A9A9A9 !important; }
     body #toolMenu li.has-lessons-sub-pages.expanded > .Mrphs-toolsNav__menuitem--link {
@@ -11069,7 +11069,7 @@ body #toolMenu li.has-lessons-sub-pages {
                 align-items: center;
         text-decoration: none; }
         body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a:hover {
-          border-left: 4px solid #7F7F7F !important;
+          border-left: 4px solid #FFBB00 !important;
           background-color: #eeedeb !important;
           color: #191919 !important; }
         body #toolMenu li.has-lessons-sub-pages ul.lessons-sub-page-menu li a.is-invisible {
