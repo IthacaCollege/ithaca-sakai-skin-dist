@@ -10039,7 +10039,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       #ckeditorPreview.modal #linkNav ul li.Mrphs-sitesNav__menuitem:not(.dropdown-is-visible) > .link-container:active i.sakaipreview-print,
       #linkNav ul li.Mrphs-sitesNav__menuitem:not(.dropdown-is-visible) > .link-container:active #ckeditorPreview.modal i.sakaipreview-close,
       #ckeditorPreview.modal #linkNav ul li.Mrphs-sitesNav__menuitem:not(.dropdown-is-visible) > .link-container:active i.sakaipreview-close {
-        color: #1169BA; }
+        color: #424242; }
     #linkNav ul li.Mrphs-sitesNav__menuitem.dropdown-is-visible, #linkNav ul li.Mrphs-sitesNav__menuitem:hover {
       border-top: 4px solid #FFBB00;
       border-right: 1px solid #C3D1D7;
@@ -10074,7 +10074,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
         transform: rotate(180deg);
         top: 40%; }
       #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__drop:hover, #linkNav ul li.Mrphs-sitesNav__menuitem .Mrphs-sitesNav__dropdown:hover {
-        color: #1169BA; }
+        color: #424242; }
     #linkNav ul li.Mrphs-sitesNav__menuitem ul {
       background: #FFFFFF;
       display: none;
