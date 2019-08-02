@@ -9311,7 +9311,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
     overflow: hidden;
     padding: 0 1em;
     height: 52px;
-    background: #003B71;
+    background: purple;
     text-align: center;
     -webkit-transition: width 0.5s linear 0s 0s ease 0s;
     /* Safari 3.1 to 6.0 */
@@ -9447,7 +9447,7 @@ body.is-logged-out .Mrphs-loginUser li a .login-Icon {
       margin-left: 0.5em; }
 
 .Mrphs-topHeader {
-  background: #003B71;
+  background: purple;
   color: #FFFFFF;
   font-size: 1em;
   height: auto;
@@ -15124,7 +15124,7 @@ html[dir="rtl"] {
   -webkit-box-shadow: 0 0 5px rgba(33, 49, 56, 0.25);
           box-shadow: 0 0 5px rgba(33, 49, 56, 0.25); }
   #Mrphs-xlogin .logo, #Mrphs-choice .logo {
-    background: #003B71 url("https://becm.ithaca.edu/wf/images/logo.svg") no-repeat center center;
+    background: purple url("https://becm.ithaca.edu/wf/images/logo.svg") no-repeat center center;
     background-size: 216px 36px;
     width: 100%;
     height: 64px;
