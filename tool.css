@@ -11338,7 +11338,7 @@ body.Mrphs-toolMenu-collapsed #toolMenu li.has-lessons-sub-pages.is-current .Mrp
     .navIntraTool li span {
       display: inline; }
       .navIntraTool li span a {
-        background: #FAFAFA;
+        background: 4px solid #FAFAFA;
         border-top: 1px solid #E5E5E5;
         border-left: 1px solid #E5E5E5;
         border-right: 1px solid #E5E5E5;

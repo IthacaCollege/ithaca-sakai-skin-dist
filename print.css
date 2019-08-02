@@ -3031,7 +3031,7 @@ a.Mrphs-toolsNav__menuitem--link[href*="!gateway"] .icon-sakai--sakai-motd:befor
     .navIntraTool li span {
       display: inline; }
       .navIntraTool li span a {
-        background: #FAFAFA;
+        background: 4px solid #FAFAFA;
         border-top: 1px solid #E5E5E5;
         border-left: 1px solid #E5E5E5;
         border-right: 1px solid #E5E5E5;
